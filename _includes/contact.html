@@ -1,0 +1,18 @@
+<section class="section section-contact" id="contact" aria-labelledby="contact-title">
+  <div class="wrap contact-panel">
+    <p class="eyebrow">Contact</p>
+    <h2 id="contact-title">다음 프로젝트를 이야기해 볼까요</h2>
+    <p class="contact-lead">
+      시스템 통합, 백엔드, 테스트 자동화에 관한 협업·문의는 언제든 환영합니다.
+    </p>
+    <div class="hero-actions">
+      {% if site.email != "" %}
+        <a class="btn btn-primary" href="mailto:{{ site.email }}">이메일 보내기</a>
+      {% endif %}
+      <a class="btn btn-ghost" href="https://github.com/{{ site.github_username }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+      {% if site.linkedin_username != "" %}
+        <a class="btn btn-ghost" href="https://www.linkedin.com/in/{{ site.linkedin_username }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      {% endif %}
+    </div>
+  </div>
+</section>

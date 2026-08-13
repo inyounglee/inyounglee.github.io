@@ -1,0 +1,12 @@
+- title: Project Management
+  body: 요구사항을 구조화하고 일정·리스크·이해관계자를 맞춰 결과가 나오도록 프로젝트를 이끕니다.
+  tag: Delivery
+- title: System Integration
+  body: 리테일·주문관리처럼 여러 시스템이 맞물리는 도메인에서 흐름을 설계하고 통합합니다.
+  tag: Domain
+- title: Backend
+  body: Spring Boot, Flask, Express로 서비스의 뼈대를 빠르게 검증하고 구현합니다.
+  tag: Build
+- title: Test Automation
+  body: Robot Framework 등으로 반복 검증을 자동화해 품질을 일정 수준으로 유지합니다.
+  tag: Quality

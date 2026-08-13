@@ -1,0 +1,20 @@
+<section class="section" id="work" aria-labelledby="work-title">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Experience</p>
+      <h2 id="work-title">경험</h2>
+    </header>
+    <ol class="timeline">
+      {% for item in site.data.experience %}
+        <li class="timeline-item">
+          <p class="timeline-period">{{ item.period }}</p>
+          <div class="timeline-body">
+            <h3>{{ item.role }}</h3>
+            <p class="timeline-org">{{ item.org }}</p>
+            <p>{{ item.body }}</p>
+          </div>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>

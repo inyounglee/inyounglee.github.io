@@ -1,0 +1,46 @@
+title: Inyoung Lee
+tagline: 비즈니스와 소프트웨어를 잇는 IT 프로젝트 매니저
+description: >-
+  리테일·주문관리 등 비즈니스 시스템 통합을 중심으로 프로젝트를 이끌어 온
+  Inyoung Lee의 포트폴리오입니다.
+author: Inyoung Lee
+lang: ko
+locale: ko_KR
+timezone: Asia/Seoul
+url: https://inyounglee.github.io
+baseurl: ""
+
+# 연락처 — 이메일은 본인 주소로 바꿔 주세요
+email: ""
+github_username: inyounglee
+linkedin_username: inyounglee
+
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+logo: /assets/favicon.svg
+social:
+  name: Inyoung Lee
+  links:
+    - https://github.com/inyounglee
+    - https://www.linkedin.com/in/inyounglee

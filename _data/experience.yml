@@ -1,0 +1,8 @@
+- period: Career
+  role: IT Project Manager
+  org: Business System Integration
+  body: 리테일 비즈니스 시스템 통합과 하이브리드 주문관리 시스템을 중심으로 프로젝트를 리딩했습니다. 영업 프로세스 컨설팅·분석부터 실행까지 한 흐름으로 다룹니다.
+- period: Practice
+  role: Hands-on Engineering
+  org: Backend · Test · Infra
+  body: Spring Boot, Flask, Express, NGINX/Lua, Lex/Yacc 등 스택을 직접 다루며 기획과 구현 사이의 간극을 줄입니다.

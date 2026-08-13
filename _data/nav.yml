@@ -1,0 +1,8 @@
+- label: 소개
+  href: "#about"
+- label: 경험
+  href: "#work"
+- label: 프로젝트
+  href: "#projects"
+- label: 연락
+  href: "#contact"

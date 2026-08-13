@@ -1,0 +1,35 @@
+<section class="section" id="about" aria-labelledby="about-title">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">About</p>
+      <h2 id="about-title">소개</h2>
+    </header>
+    <div class="bento">
+      <article class="card card-wide">
+        <h3>소프트웨어가 비즈니스를 받치도록</h3>
+        <p>
+          리테일 비즈니스 시스템 통합을 중심으로 프로젝트를 이끌어 왔습니다.
+          영업 프로세스 분석, 하이브리드 주문관리, 이해관계자 조율까지
+          “돌아가게 만드는 일”을 책임집니다.
+        </p>
+        <p>
+          Spring Boot, Flask, Express, Robot Framework를 직접 다루며
+          스펙과 코드 사이의 거리를 짧게 유지합니다.
+        </p>
+      </article>
+      {% for stat in site.data.stats %}
+        <article class="card stat-card">
+          <p class="stat-value">{{ stat.value }}</p>
+          <p class="stat-label">{{ stat.label }}</p>
+        </article>
+      {% endfor %}
+      {% for skill in site.data.skills %}
+        <article class="card skill-card">
+          <span class="chip">{{ skill.tag }}</span>
+          <h3>{{ skill.title }}</h3>
+          <p>{{ skill.body }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </div>
+</section>

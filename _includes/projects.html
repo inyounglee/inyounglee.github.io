@@ -1,0 +1,19 @@
+<section class="section" id="projects" aria-labelledby="projects-title">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Selected work</p>
+      <h2 id="projects-title">프로젝트</h2>
+    </header>
+    <div class="project-grid">
+      {% for project in site.data.projects %}
+        <a class="card project-card" href="{{ project.url }}" target="_blank" rel="noopener noreferrer">
+          <span class="project-index" aria-hidden="true">0{{ forloop.index }}</span>
+          <h3>{{ project.name }}</h3>
+          <p class="project-stack">{{ project.stack }}</p>
+          <p>{{ project.body }}</p>
+          <span class="project-link">GitHub ↗</span>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>

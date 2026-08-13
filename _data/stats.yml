@@ -1,0 +1,6 @@
+- value: "PM"
+  label: 프로젝트 리딩과 전달
+- value: "SI"
+  label: 비즈니스 시스템 통합
+- value: "QA"
+  label: 테스트 자동화

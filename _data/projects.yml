@@ -1,0 +1,16 @@
+- name: boot-demo
+  stack: Spring Boot
+  body: Spring Boot 2.x·3.x·4.x 데모와 WAF Filter 실험. 버전 변화를 따라가며 백엔드 기반을 검증합니다.
+  url: https://github.com/inyounglee/boot-demo4
+- name: flask-begin
+  stack: Python · Flask
+  body: Flask를 단계별로 익히기 위한 예제와 테스트 모음입니다.
+  url: https://github.com/inyounglee/flask-begin
+- name: express-test
+  stack: Node.js · Express
+  body: Express 기반 API와 웹 서버를 실험하는 저장소입니다.
+  url: https://github.com/inyounglee/express-test
+- name: robot-begin
+  stack: Robot Framework
+  body: Robot Framework로 테스트 자동화를 시작하고 실무에 적용하기 위한 연습입니다.
+  url: https://github.com/inyounglee/robot-begin
