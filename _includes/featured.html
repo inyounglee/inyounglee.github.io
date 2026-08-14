@@ -1,0 +1,37 @@
+{% assign topic_slug = include.topic_slug %}
+{% assign featured_posts = site.posts | where_exp: "p", "p.featured == true" %}
+{% if topic_slug %}
+  {% assign featured_posts = featured_posts | where_exp: "p", "p.categories contains topic_slug" %}
+{% endif %}
+{% assign featured_posts = featured_posts | sort: "date" | reverse %}
+
+{% if featured_posts.size > 0 %}
+<section class="section featured-section" aria-labelledby="featured-title">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Featured</p>
+      <h2 id="featured-title">추천 글</h2>
+    </header>
+    <div class="featured-rail" role="list">
+      {% for post in featured_posts limit: 4 %}
+        <a class="featured-card" href="{{ post.url | relative_url }}" role="listitem">
+          <div class="featured-media">
+            {% if post.image %}
+              <img src="{{ post.image | relative_url }}" alt="" loading="lazy">
+            {% else %}
+              <div class="media-fallback" aria-hidden="true"></div>
+            {% endif %}
+          </div>
+          <div class="featured-body">
+            <p class="featured-date">{{ post.date | date: "%Y.%m.%d" }}</p>
+            <h3>{{ post.title }}</h3>
+            {% if post.excerpt %}
+              <p class="featured-excerpt">{{ post.excerpt | strip_html | truncate: 80 }}</p>
+            {% endif %}
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}

@@ -1,0 +1,53 @@
+---
+layout: default
+---
+<article class="post-page">
+  <div class="wrap narrow">
+    {% assign topic = nil %}
+    {% for t in site.data.topics %}
+      {% if page.categories contains t.slug %}
+        {% assign topic = t %}
+      {% endif %}
+    {% endfor %}
+
+    <header class="post-header">
+      {% if topic %}
+        <a class="eyebrow link" href="{{ topic.slug | prepend: '/' | append: '/' | relative_url }}">{{ topic.name }}</a>
+      {% endif %}
+      <h1>{{ page.title }}</h1>
+      <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d" }}</time>
+        {% if page.author %} · {{ page.author }}{% endif %}
+      </p>
+    </header>
+
+    {% if page.image %}
+      <figure class="post-hero-image">
+        <img src="{{ page.image | relative_url }}" alt="{{ page.image_alt | default: page.title }}" loading="eager" fetchpriority="high">
+      </figure>
+    {% endif %}
+
+    {% if page.video %}
+      <div class="post-video">
+        <a class="btn btn-ghost" href="{{ page.video }}" target="_blank" rel="noopener noreferrer">동영상 보기 ↗</a>
+        {% if page.video_embed %}
+          <div class="video-embed">
+            <iframe src="{{ page.video_embed }}" title="{{ page.title }} 동영상" loading="lazy" allowfullscreen></iframe>
+          </div>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    <div class="prose">
+      {{ content }}
+    </div>
+
+    <nav class="post-nav" aria-label="주제로 돌아가기">
+      {% if topic %}
+        <a class="btn btn-primary" href="{{ topic.slug | prepend: '/' | append: '/' | relative_url }}">{{ topic.name }} 목록으로</a>
+      {% else %}
+        <a class="btn btn-primary" href="{{ '/' | relative_url }}">허브로</a>
+      {% endif %}
+    </nav>
+  </div>
+</article>

@@ -1,1 +1,61 @@
-"Hi~ i'm inyounglee :)" 
+---
+layout: default
+title: 홈
+permalink: /
+---
+<section class="hub-hero">
+  <div class="hub-aurora" aria-hidden="true"></div>
+  <div class="wrap hub-inner">
+    <p class="eyebrow">
+      <span class="pulse" aria-hidden="true"></span>
+      Media Hub
+    </p>
+    <h1 class="hub-title">
+      <span class="hub-brand">{{ site.title }}</span>
+      <span class="hub-kicker">{{ site.tagline }}</span>
+    </h1>
+    <p class="hub-lead">
+      주제별로 나뉜 미디어 채널입니다. 관심 있는 주제를 고르면 이미지와 글 중심의 콘텐츠 목록으로 이어집니다.
+    </p>
+    {% include search-box.html %}
+  </div>
+</section>
+
+<section class="section" id="topics" aria-labelledby="topics-title">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Channels</p>
+      <h2 id="topics-title">주제 선택</h2>
+    </header>
+    <div class="topic-grid">
+      {% for topic in site.data.topics %}
+        {% assign count = site.categories[topic.slug] | size %}
+        <a class="topic-card" href="{{ topic.slug | prepend: '/' | append: '/' | relative_url }}" style="--topic-accent: {{ topic.accent }}">
+          <div class="topic-card-media">
+            <img src="{{ topic.cover | relative_url }}" alt="" loading="lazy">
+          </div>
+          <div class="topic-card-body">
+            <p class="topic-en">{{ topic.name_en }}</p>
+            <h3>{{ topic.name }}</h3>
+            <p>{{ topic.description }}</p>
+            <p class="topic-count">{{ count }}편의 글</p>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="section section-latest">
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Latest</p>
+      <h2>최근 글</h2>
+    </header>
+    <div class="post-grid">
+      {% for post in site.posts limit: 8 %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

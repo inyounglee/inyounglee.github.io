@@ -1,0 +1,19 @@
+---
+layout: default
+title: 검색
+permalink: /search/
+search: true
+---
+<section class="section search-page">
+  <div class="wrap narrow">
+    <header class="section-head">
+      <p class="eyebrow">Search</p>
+      <h1>글 검색</h1>
+      <p class="muted">제목과 본문, 주제를 기준으로 찾습니다.</p>
+    </header>
+    {% include search-box.html %}
+    <div class="post-grid" id="search-grid" style="margin-top: 2rem;"></div>
+    <p class="muted" id="search-empty" hidden>일치하는 글이 없습니다.</p>
+    <p class="muted" id="search-hint">검색어를 입력하세요.</p>
+  </div>
+</section>

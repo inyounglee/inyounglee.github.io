@@ -1,0 +1,17 @@
+{% assign post = include.post %}
+<a class="post-card" href="{{ post.url | relative_url }}">
+  <div class="post-card-media">
+    {% if post.image %}
+      <img src="{{ post.image | relative_url }}" alt="" loading="lazy">
+    {% else %}
+      <div class="media-fallback" aria-hidden="true"></div>
+    {% endif %}
+    {% if post.video %}
+      <span class="badge-video" aria-label="동영상 링크 포함">Video</span>
+    {% endif %}
+  </div>
+  <div class="post-card-body">
+    <h3>{{ post.title }}</h3>
+    <p class="post-card-date">{{ post.date | date: "%Y.%m.%d" }}</p>
+  </div>
+</a>

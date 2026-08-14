@@ -1,0 +1,13 @@
+<form class="search-box" id="search-form" role="search" action="{{ '/search/' | relative_url }}" method="get">
+  <label class="sr-only" for="search-input">글 검색</label>
+  <input
+    id="search-input"
+    class="search-input"
+    type="search"
+    name="q"
+    placeholder="제목·내용 검색"
+    autocomplete="off"
+    data-topic="{{ include.topic_slug | default: '' }}"
+  >
+  <button class="btn btn-primary search-submit" type="submit">검색</button>
+</form>

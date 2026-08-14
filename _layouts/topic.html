@@ -1,0 +1,94 @@
+---
+layout: default
+search: true
+---
+{% assign topic_slug = page.pagination.category %}
+{% assign topic = nil %}
+{% for t in site.data.topics %}
+  {% if t.slug == topic_slug %}
+    {% assign topic = t %}
+  {% endif %}
+{% endfor %}
+
+<section class="topic-hero" {% if topic %}style="--topic-accent: {{ topic.accent }}"{% endif %}>
+  <div class="topic-hero-glow" aria-hidden="true"></div>
+  <div class="wrap">
+    <p class="eyebrow">{% if topic %}{{ topic.name_en }}{% else %}Topic{% endif %}</p>
+    <h1>{{ topic.name | default: page.title }}</h1>
+    <p class="topic-lead">{{ topic.description | default: page.description }}</p>
+    {% include search-box.html topic_slug=topic_slug %}
+  </div>
+</section>
+
+{% include featured.html topic_slug=topic_slug %}
+
+<section class="section" id="list">
+  <div class="wrap">
+    <header class="section-head row">
+      <div>
+        <p class="eyebrow">Articles</p>
+        <h2>글 목록</h2>
+      </div>
+      <p class="muted small">페이지당 {{ paginator.per_page | default: site.pagination.per_page }}개 · 전체 {{ paginator.total_posts }}편</p>
+    </header>
+
+    <div class="post-grid" id="post-grid">
+      {% for post in paginator.posts %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+
+    {% if paginator.total_pages > 1 %}
+      <nav class="pagination" aria-label="글 목록 페이지">
+        {% if paginator.previous_page %}
+          <a class="btn btn-ghost" href="{{ paginator.previous_page_path | relative_url }}">이전</a>
+        {% else %}
+          <span class="btn btn-ghost is-disabled" aria-disabled="true">이전</span>
+        {% endif %}
+
+        <ol class="page-numbers">
+          {% if paginator.page_trail %}
+            {% for trail in paginator.page_trail %}
+              <li>
+                {% if page.url == trail.path %}
+                  <span class="is-current" aria-current="page">{{ trail.num }}</span>
+                {% else %}
+                  <a href="{{ trail.path | relative_url }}">{{ trail.num }}</a>
+                {% endif %}
+              </li>
+            {% endfor %}
+          {% else %}
+            {% for page_num in (1..paginator.total_pages) %}
+              <li>
+                {% if page_num == paginator.page %}
+                  <span class="is-current" aria-current="page">{{ page_num }}</span>
+                {% elsif page_num == 1 %}
+                  <a href="{{ paginator.first_page_path | relative_url }}">{{ page_num }}</a>
+                {% else %}
+                  <a href="{{ paginator.page_path | replace: ':num', page_num | relative_url }}">{{ page_num }}</a>
+                {% endif %}
+              </li>
+            {% endfor %}
+          {% endif %}
+        </ol>
+
+        {% if paginator.next_page %}
+          <a class="btn btn-ghost" href="{{ paginator.next_page_path | relative_url }}">다음</a>
+        {% else %}
+          <span class="btn btn-ghost is-disabled" aria-disabled="true">다음</span>
+        {% endif %}
+      </nav>
+    {% endif %}
+  </div>
+</section>
+
+<section class="section search-results" id="search-results" hidden>
+  <div class="wrap">
+    <header class="section-head">
+      <p class="eyebrow">Search</p>
+      <h2>검색 결과</h2>
+    </header>
+    <div class="post-grid" id="search-grid"></div>
+    <p class="muted" id="search-empty" hidden>일치하는 글이 없습니다.</p>
+  </div>
+</section>

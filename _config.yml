@@ -1,0 +1,62 @@
+title: Inyoung Media
+tagline: 주제별로 만나는 이야기
+description: >-
+  서로 다른 주제로 연결된 미디어 허브입니다.
+  이미지와 글로 구성된 콘텐츠를 주제별로 탐색하세요.
+author: Inyoung Lee
+lang: ko
+locale: ko_KR
+timezone: Asia/Seoul
+url: https://inyounglee.github.io
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:year/:month/:day/:title/
+sass:
+  style: compressed
+
+# 글 목록 페이지당 개수 (변경 가능)
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: "/page/:num/"
+  title: ":title · :num페이지"
+  limit: 0
+  sort_field: "date"
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - .github
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+logo: /assets/favicon.svg
+social:
+  name: Inyoung Lee
+  links:
+    - https://github.com/inyounglee
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
