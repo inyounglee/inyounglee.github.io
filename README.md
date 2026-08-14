@@ -52,22 +52,24 @@ bundle exec jekyll serve --livereload
 ---
 layout: post
 title: "글 제목"
-categories: [travel]
-image: /assets/images/posts/cover-01.svg
+categories: [blackdesert]
+image: /assets/images/posts/kharazad-reform.svg
 featured: true
-video: https://www.youtube.com/watch?v=...
-video_embed: https://www.youtube.com/embed/...
 ---
 
 본문은 **Markdown**으로 작성합니다.
 ```
 
+현재 주제는 `_data/topics.yml`의 **검은사막** (`blackdesert`) 하나뿐입니다.
+
 | 항목 | 설명 |
 | --- | --- |
-| `categories` | 주제 slug (`_data/topics.yml`과 동일) |
-| `image` | 목록·상세 대표 이미지 |
+| `categories` | 주제 slug (`blackdesert`) |
+| `image` | 목록·상세 대표 이미지 (원작 SVG 권장) |
 | `featured` | `true`면 주제 상단 추천에 노출 |
 | `video` / `video_embed` | 선택. 링크 버튼과 iframe |
+
+게임 공식 일러스트·스크린샷은 저작권 이슈가 있을 수 있어, 이 저장소 샘플은 **직접 그린 SVG**만 사용합니다.
 
 ## 설정 변경
 
@@ -75,7 +77,7 @@ video_embed: https://www.youtube.com/embed/...
 | --- | --- |
 | `_config.yml` → `pagination.per_page` | 목록 페이지당 글 수 (기본 10) |
 | `_data/topics.yml` | 허브에 보이는 주제 채널 |
-| `travel/index.html` 등 | 주제 목록 페이지 (`pagination.category`) |
+| `blackdesert/index.html` | 검은사막 목록 (`pagination.category: blackdesert`) |
 
 새 주제를 추가할 때:
 

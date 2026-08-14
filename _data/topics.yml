@@ -1,29 +1,8 @@
 # 최상위 허브에서 연결되는 주제(미디어 채널)
 # slug는 글의 categories와 동일해야 합니다.
-- slug: travel
-  name: 여행
-  name_en: Travel
-  description: 길 위에서 만난 풍경과 기록
-  accent: "#2f6f6a"
-  cover: /assets/images/topics/travel.svg
-
-- slug: food
-  name: 푸드
-  name_en: Food
-  description: 맛과 계절, 식탁 위의 이야기
-  accent: "#b45a3c"
-  cover: /assets/images/topics/food.svg
-
-- slug: tech
-  name: 테크
-  name_en: Tech
-  description: 도구와 시스템을 다루는 노트
-  accent: "#3d5a80"
-  cover: /assets/images/topics/tech.svg
-
-- slug: life
-  name: 라이프
-  name_en: Life
-  description: 일상과 생각의 조각들
-  accent: "#6b5b4f"
-  cover: /assets/images/topics/life.svg
+- slug: blackdesert
+  name: 검은사막
+  name_en: Black Desert
+  description: 제작·개량·세팅 메모와 모험 기록 (공식 콘텐츠가 아님)
+  accent: "#8a6a3d"
+  cover: /assets/images/topics/blackdesert_large_lahn.jfif
