@@ -13,3 +13,5 @@ Thumbs.db
 *.tar
 *.tar.gz
 *.tgz
+node_modules/
+auto/script/.last-agent-id
