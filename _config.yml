@@ -42,6 +42,7 @@ exclude:
   - .sass-cache
   - .jekyll-cache
   - .github
+  - auto
 
 kramdown:
   input: GFM

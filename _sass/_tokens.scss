@@ -30,8 +30,9 @@
 }
 
 :root {
-  --font-sans: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  --font-display: "Fraunces", Georgia, serif;
+  /* 본문·UI: Pretendard / 제목: 나눔고딕 — 둘 다 웹 무료(OFL) */
+  --font-sans: "Pretendard Variable", Pretendard, "Nanum Gothic", "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+  --font-display: "Nanum Gothic", "Pretendard Variable", Pretendard, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
   --wrap: 1120px;
   --narrow: 760px;
   --radius: 20px;
