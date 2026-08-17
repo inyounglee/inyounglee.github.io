@@ -34,7 +34,7 @@ bundle exec jekyll serve --livereload
 ```
 
 - http://127.0.0.1:4000
-- 주제 예: http://127.0.0.1:4000/travel/
+- 주제 예: http://127.0.0.1:4000/blackdesert/
 
 `index.html`을 파일로 직접 열지 말고, 위 주소로 접속하세요.
 
@@ -66,10 +66,29 @@ featured: true
 | --- | --- |
 | `categories` | 주제 slug (`blackdesert`) |
 | `image` | 목록·상세 대표 이미지 (원작 SVG 권장) |
-| `featured` | `true`면 주제 상단 추천에 노출 |
+| `featured` | `true`면 해당 주제 페이지 상단 **추천 글**에 노출 |
 | `video` / `video_embed` | 선택. 링크 버튼과 iframe |
 
-게임 공식 일러스트·스크린샷은 저작권 이슈가 있을 수 있어, 이 저장소 샘플은 **직접 그린 SVG**만 사용합니다.
+## 주제별 추천 글 바꾸기
+
+주제 페이지(예: `/blackdesert/`, 화면의 **검은사막**) 상단 **추천 글**은 글 front matter의 `featured`로 고릅니다.
+
+1. `_posts/`에서 해당 주제 글(`categories`가 주제 slug와 같음)을 연다.
+2. 추천에 넣을 글은 `featured: true`, 빼려면 `featured: false` 또는 항목을 삭제한다.
+3. 같은 주제에 `featured: true`인 글이 여러 개면 **날짜가 최신인 글부터 최대 4개**가 가로로 나열된다.
+
+검은사막 예시:
+
+```markdown
+---
+categories: [blackdesert]
+featured: true    # /blackdesert/ 추천 글에 표시
+---
+```
+
+현재 검은사막 추천 글은 `2026-08-15-hyper-boost-equipment-guide.md` 한 편만 `featured: true`입니다.
+
+표시 개수(기본 4)를 바꾸려면 `_includes/featured.html`의 `limit: 4`를 수정합니다.
 
 ## 설정 변경
 

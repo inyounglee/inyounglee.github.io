@@ -5,7 +5,7 @@ date: 2026-08-14
 categories: [blackdesert]
 image: /assets/images/posts/kharazad-reform.jfif
 image_alt: 카라자드 액세서리 개량 요약
-featured: true
+featured: false
 ---
 
 카라자드 액세서리는 부위마다 **전용 술잔**으로 개량할 수 있습니다. 기존 악세처럼 효과를 둘로 나누지 않고, 카라자드용 술잔 하나가 해당 부위의 개량 효과를 한 번에 담는 구조입니다.
