@@ -106,4 +106,11 @@ featured: true    # /blackdesert/ 추천 글에 표시
 
 ## GitHub Pages
 
-`main` 푸시 후 **Settings → Pages → Source: GitHub Actions** 로 배포합니다.
+이 사이트는 **Jekyll 4 + Bundler**로 빌드합니다. GitHub Pages 화면의 **Jekyll Configure** 템플릿은 쓰지 마세요. 그 템플릿은 `actions/jekyll-build-pages`로 **옛 Jekyll 3.9**를 돌려서 CSS(`@use`)와 `jekyll-paginate-v2`가 깨집니다.
+
+1. **Settings → Pages → Build and deployment → Source** 를 **GitHub Actions** 로 둡니다.
+2. 워크플로는 저장소의 `.github/workflows/pages.yml` (**Deploy Jekyll site to Pages**)만 사용합니다.
+3. **Actions** 탭에서 해당 워크플로가 초록색인지, **deploy** job까지 끝났는지 확인합니다.
+4. 배포 후 https://inyounglee.github.io/assets/css/main.css 를 열었을 때 `@use "tokens"` 가 아니라 `{` `}` 가 있는 CSS여야 합니다.
+
+`main`에 이 변경을 푸시한 뒤 Actions가 성공해야 반영됩니다.

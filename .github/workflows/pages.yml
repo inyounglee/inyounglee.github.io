@@ -1,3 +1,6 @@
+# 이 워크플로를 쓰세요.
+# GitHub Pages 화면의 "Jekyll" Configure 템플릿(actions/jekyll-build-pages)은
+# 공식 github-pages(Jekyll 3.9)로 빌드해서 Dart Sass @use 와 jekyll-paginate-v2 가 동작하지 않습니다.
 name: Deploy Jekyll site to Pages
 
 on:
@@ -20,17 +23,36 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
           bundler-cache: true
+
       - name: Setup Pages
+        id: pages
         uses: actions/configure-pages@v5
-      - name: Build
-        run: bundle exec jekyll build
+
+      - name: Show Jekyll version
+        run: |
+          ruby -v
+          bundle exec jekyll -v
+
+      - name: Build with Gemfile Jekyll 4
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      - name: Verify CSS compiled
+        run: |
+          test -f _site/assets/css/main.css
+          if grep -q '@use ' _site/assets/css/main.css; then
+            echo "main.css still contains @use — Sass did not compile"
+            exit 1
+          fi
+          touch _site/.nojekyll
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
