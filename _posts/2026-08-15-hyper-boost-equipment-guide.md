@@ -6,7 +6,6 @@ categories: [blackdesert]
 tags: [검은사막, 하이퍼부스트, 장비, 공격력, 방어력, 공방합, 올비아아카데미, 군왕무기, 카라자드, 태고]
 image: /assets/images/posts/hyper-boost-guide.webp
 image_alt: 하이퍼 부스트 가이드 썸네일
-featured: true
 ---
 
 아래 내용은 **2026년 8월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 하이퍼 부스트는 2026년 7월 29일 업데이트로 도입된 **신규·복귀 모험가 성장 지원 프로젝트**이며, 기존 모험가에게도 동일하게 적용됩니다. ([검은사막 GM노트][1])

@@ -1,0 +1,15 @@
+{
+  "name": "cursor-agent-prompt",
+  "private": true,
+  "type": "module",
+  "description": "Send a prompt to a Cursor agent via the SDK API",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "prompt": "node prompt-agent.js"
+  },
+  "dependencies": {
+    "@cursor/sdk": "^1.0.28"
+  }
+}
