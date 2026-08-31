@@ -1,0 +1,291 @@
+openapi: 3.1.0
+info:
+  title: Cursor Agent HTTP API
+  description: |
+    Invoke-CursorAgent / prompt-agent.js 와 동일한 Cursor agent 프롬프트 전송을
+    HTTP로 제공하는 로컬 API입니다. `/v1` 네임스페이스로 버전을 고정하며,
+    이후 엔드포인트는 라우트 레지스트리에 추가하는 방식으로 확장합니다.
+  version: 1.0.0
+servers:
+  - url: http://127.0.0.1:8787
+    description: 로컬 기본 서버
+security:
+  - BearerAuth: []
+  - ApiKeyAuth: []
+tags:
+  - name: system
+    description: 헬스·스펙
+  - name: agents
+    description: Cursor agent 목록·프롬프트 (Invoke-CursorAgent 대응)
+paths:
+  /health:
+    get:
+      tags: [system]
+      summary: 헬스 체크
+      security: []
+      operationId: getHealth
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/HealthResponse"
+
+  /openapi.yaml:
+    get:
+      tags: [system]
+      summary: OpenAPI 스펙 (YAML)
+      security: []
+      operationId: getOpenApiYaml
+      responses:
+        "200":
+          description: OpenAPI 3.1 YAML
+          content:
+            application/yaml:
+              schema:
+                type: string
+
+  /openapi.json:
+    get:
+      tags: [system]
+      summary: OpenAPI 스펙 (JSON)
+      security: []
+      operationId: getOpenApiJson
+      responses:
+        "200":
+          description: OpenAPI 3.1 JSON
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /v1/agents:
+    get:
+      tags: [agents]
+      summary: 로컬 agent 목록
+      description: "`Invoke-CursorAgent.ps1 --list` 와 동일합니다."
+      operationId: listAgents
+      parameters:
+        - $ref: "#/components/parameters/CwdQuery"
+        - name: limit
+          in: query
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 100
+            default: 20
+      responses:
+        "200":
+          description: agent 목록
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/AgentListResponse"
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+        "502":
+          $ref: "#/components/responses/UpstreamError"
+
+  /v1/agents/prompt:
+    post:
+      tags: [agents]
+      summary: agent에 프롬프트 전송
+      description: |
+        `Invoke-CursorAgent.ps1 --prompt "..."` / `prompt-agent.js` 와 동일한 동작입니다.
+        agent 해석 우선순위: body.agentId → 저장된 last id → 최근 로컬 agent → 신규 생성.
+      operationId: promptAgent
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/PromptRequest"
+            examples:
+              basic:
+                summary: 기본 프롬프트
+                value:
+                  prompt: README의 로컬 실행 방법을 요약해줘
+              resume:
+                summary: 특정 agent 재개
+                value:
+                  agentId: agent-xxxxxxxx
+                  prompt: 방금 변경을 커밋 메시지 초안으로 적어줘
+              createNew:
+                summary: 새 agent
+                value:
+                  new: true
+                  prompt: 저장소 구조를 설명해줘
+      responses:
+        "200":
+          description: run 완료
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/PromptResponse"
+        "400":
+          $ref: "#/components/responses/BadRequest"
+        "401":
+          $ref: "#/components/responses/Unauthorized"
+        "502":
+          $ref: "#/components/responses/UpstreamError"
+
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      description: |
+        `API_TOKEN` 환경 변수가 설정된 경우 `Authorization: Bearer <token>` 필수.
+        미설정 시 인증 생략(로컬 전용).
+    ApiKeyAuth:
+      type: apiKey
+      in: header
+      name: X-API-Key
+      description: Bearer 대신 `X-API-Key` 헤더로도 가능합니다.
+
+  parameters:
+    CwdQuery:
+      name: cwd
+      in: query
+      description: 작업 디렉터리 (기본 저장소 루트)
+      schema:
+        type: string
+
+  schemas:
+    HealthResponse:
+      type: object
+      required: [status, service, version]
+      properties:
+        status:
+          type: string
+          enum: [ok]
+        service:
+          type: string
+          example: cursor-agent-http-api
+        version:
+          type: string
+          example: "1.0.0"
+        time:
+          type: string
+          format: date-time
+
+    AgentSummary:
+      type: object
+      properties:
+        agentId:
+          type: string
+        status:
+          type: string
+        lastModified:
+          type: integer
+          description: epoch ms
+        name:
+          type: string
+        summary:
+          type: string
+
+    AgentListResponse:
+      type: object
+      required: [items]
+      properties:
+        items:
+          type: array
+          items:
+            $ref: "#/components/schemas/AgentSummary"
+        cwd:
+          type: string
+
+    PromptRequest:
+      type: object
+      required: [prompt]
+      properties:
+        prompt:
+          type: string
+          minLength: 1
+          description: agent에 보낼 프롬프트
+        agentId:
+          type: string
+          description: 재개할 agent ID (`--agent-id`)
+        new:
+          type: boolean
+          default: false
+          description: 새 agent 생성 (`--new`)
+        cwd:
+          type: string
+          description: 작업 디렉터리 (`--cwd`)
+        model:
+          type: string
+          default: composer-2.5
+          description: 모델 ID (`--model`)
+        cloud:
+          type: boolean
+          default: false
+          description: 클라우드 agent (`--cloud`)
+        repo:
+          type: string
+          format: uri
+          description: 클라우드용 Git URL (`--repo`)
+        force:
+          type: boolean
+          default: false
+          description: 멈춘 로컬 run 강제 만료 (`--force`)
+
+    PromptResponse:
+      type: object
+      required: [agentId, created, status]
+      properties:
+        agentId:
+          type: string
+        created:
+          type: boolean
+          description: 이번 요청에서 agent를 새로 만들었는지
+        status:
+          type: string
+          description: run 상태 (예 finished, error)
+        id:
+          type: string
+          description: run ID
+        requestId:
+          type: string
+        result:
+          description: agent 최종 결과 텍스트/페이로드
+
+    ErrorBody:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: object
+          required: [message]
+          properties:
+            name:
+              type: string
+            message:
+              type: string
+            code:
+              type: string
+            retryable:
+              type: boolean
+            helpUrl:
+              type: string
+
+  responses:
+    BadRequest:
+      description: 요청 검증 실패
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorBody"
+    Unauthorized:
+      description: API 토큰 없음/불일치
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorBody"
+    UpstreamError:
+      description: Cursor SDK / agent 오류
+      content:
+        application/json:
+          schema:
+            $ref: "#/components/schemas/ErrorBody"

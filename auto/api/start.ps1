@@ -1,0 +1,3 @@
+$env:CURSOR_API_KEY = "crsr_1af647bed68d1e7f0dd671279e3b247a6f76dfc2ede6982ae34be08df29e59b3"
+npm install
+npm start

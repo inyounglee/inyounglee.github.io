@@ -4,15 +4,16 @@
  * Requires Node.js 22.13+ and CURSOR_API_KEY (or a prior Cursor.auth.login()).
  */
 
-import { mkdir, readFile, writeFile } from "node:fs/promises";
-import { existsSync } from "node:fs";
+import { readFile } from "node:fs/promises";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
-import { Agent, CursorAgentError } from "@cursor/sdk";
-
-const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
-const REPO_ROOT = path.resolve(SCRIPT_DIR, "..", "..");
-const LAST_ID_FILE = path.join(SCRIPT_DIR, ".last-agent-id");
+import {
+  CursorAgentError,
+  DEFAULT_MODEL,
+  REPO_ROOT,
+  formatAgentError,
+  listLocalAgents,
+  sendPrompt,
+} from "./lib/agent-service.js";
 
 const HELP = `
 Cursor Agent Prompt — 현재(또는 지정한) Cursor agent에 프롬프트를 보냅니다.
@@ -70,7 +71,7 @@ function parseArgs(argv) {
     promptFile: null,
     agentId: process.env.CURSOR_AGENT_ID || null,
     cwd: REPO_ROOT,
-    model: process.env.CURSOR_MODEL || "composer-2.5",
+    model: DEFAULT_MODEL,
     repo: process.env.CURSOR_CLOUD_REPO || null,
     rest: [],
   };
@@ -163,141 +164,6 @@ async function resolvePrompt(opts) {
   return readStdinIfPiped();
 }
 
-async function loadLastAgentId() {
-  try {
-    const id = (await readFile(LAST_ID_FILE, "utf8")).trim();
-    return id || null;
-  } catch {
-    return null;
-  }
-}
-
-async function saveLastAgentId(agentId) {
-  await mkdir(SCRIPT_DIR, { recursive: true });
-  await writeFile(LAST_ID_FILE, `${agentId}\n`, "utf8");
-}
-
-function apiKey() {
-  return process.env.CURSOR_API_KEY?.trim() || undefined;
-}
-
-function localOptions(cwd) {
-  return { cwd };
-}
-
-function createOptions(opts) {
-  const base = {
-    apiKey: apiKey(),
-    model: { id: opts.model },
-  };
-  if (opts.cloud) {
-    base.cloud = {
-      repos: opts.repo ? [{ url: opts.repo }] : [],
-    };
-  } else {
-    base.local = localOptions(opts.cwd);
-  }
-  return base;
-}
-
-async function listLocalAgents(cwd) {
-  try {
-    const { items } = await Agent.list({
-      runtime: "local",
-      cwd,
-      limit: 20,
-    });
-    return items.slice().sort((a, b) => (b.lastModified || 0) - (a.lastModified || 0));
-  } catch (err) {
-    console.error(`로컬 agent 목록을 읽지 못했습니다: ${err.message}`);
-    return [];
-  }
-}
-
-async function resolveAgent(opts) {
-  if (opts.isNew) {
-    const agent = await Agent.create(createOptions(opts));
-    return { agent, created: true };
-  }
-
-  if (opts.agentId) {
-    const agent = await Agent.resume(opts.agentId, {
-      apiKey: apiKey(),
-      model: { id: opts.model },
-      local: opts.agentId.startsWith("bc-") ? undefined : localOptions(opts.cwd),
-    });
-    return { agent, created: false };
-  }
-
-  const lastId = await loadLastAgentId();
-  if (lastId) {
-    try {
-      const agent = await Agent.resume(lastId, {
-        apiKey: apiKey(),
-        model: { id: opts.model },
-        local: lastId.startsWith("bc-") ? undefined : localOptions(opts.cwd),
-      });
-      return { agent, created: false };
-    } catch (err) {
-      console.error(`저장된 agent(${lastId})를 재개하지 못했습니다: ${err.message}`);
-    }
-  }
-
-  if (!opts.cloud) {
-    const items = await listLocalAgents(opts.cwd);
-    if (items.length) {
-      const latest = items[0];
-      const agent = await Agent.resume(latest.agentId, {
-        apiKey: apiKey(),
-        model: { id: opts.model },
-        local: localOptions(opts.cwd),
-      });
-      return { agent, created: false };
-    }
-  }
-
-  const agent = await Agent.create(createOptions(opts));
-  return { agent, created: true };
-}
-
-function writeAssistantText(event) {
-  if (event?.type !== "assistant" || !event.message?.content) return;
-  for (const block of event.message.content) {
-    if (block.type === "text" && block.text) process.stdout.write(block.text);
-  }
-}
-
-async function streamRun(run, noStream) {
-  if (noStream || !run.supports?.("stream")) {
-    return run.wait();
-  }
-
-  try {
-    for await (const event of run.stream()) {
-      writeAssistantText(event);
-    }
-  } catch (err) {
-    if (err?.name !== "UnsupportedRunOperationError") throw err;
-  }
-
-  const result = await run.wait();
-  if (!noStream) process.stdout.write("\n");
-  return result;
-}
-
-async function sendPrompt(agent, prompt, opts) {
-  const payload = opts.force
-    ? { text: prompt, local: { force: true } }
-    : prompt;
-
-  const run = await agent.send(payload);
-  if (!opts.json) {
-    console.error(`[agent] ${agent.agentId}`);
-    if (run.id) console.error(`[run] ${run.id}`);
-  }
-  return streamRun(run, opts.noStream || opts.json);
-}
-
 async function main() {
   const opts = parseArgs(process.argv.slice(2));
   if (opts.help) {
@@ -306,7 +172,13 @@ async function main() {
   }
 
   if (opts.list) {
-    const items = await listLocalAgents(opts.cwd);
+    let items = [];
+    try {
+      items = await listLocalAgents(opts.cwd);
+    } catch (err) {
+      console.error(err.message);
+      items = [];
+    }
     if (!items.length) {
       console.log("이 cwd 에 로컬 agent가 없습니다.");
       return;
@@ -329,43 +201,53 @@ async function main() {
     fail("프롬프트가 없습니다. --prompt, 인자, --prompt-file, 또는 stdin을 사용하세요.\n--help 로 사용법을 확인하세요.");
   }
 
-  const { agent, created } = await resolveAgent(opts);
-  try {
-    if (!opts.json) {
-      console.error(created ? `[create] ${agent.agentId}` : `[resume] ${agent.agentId}`);
-    }
-    await saveLastAgentId(agent.agentId);
-    const result = await sendPrompt(agent, prompt, opts);
+  const result = await sendPrompt({
+    prompt,
+    agentId: opts.agentId,
+    isNew: opts.isNew,
+    cwd: opts.cwd,
+    model: opts.model,
+    cloud: opts.cloud,
+    repo: opts.repo,
+    force: opts.force,
+    noStream: opts.noStream || opts.json,
+    onAssistantText: opts.json
+      ? undefined
+      : (text) => {
+          process.stdout.write(text);
+        },
+  });
 
-    if (opts.json) {
-      console.log(
-        JSON.stringify(
-          {
-            agentId: agent.agentId,
-            status: result.status,
-            id: result.id,
-            requestId: result.requestId,
-            result: result.result,
-          },
-          null,
-          2,
-        ),
-      );
-    }
+  if (!opts.json) {
+    console.error(result.created ? `[create] ${result.agentId}` : `[resume] ${result.agentId}`);
+    if (result.id) console.error(`[run] ${result.id}`);
+    if (!opts.noStream) process.stdout.write("\n");
+  } else {
+    console.log(
+      JSON.stringify(
+        {
+          agentId: result.agentId,
+          status: result.status,
+          id: result.id,
+          requestId: result.requestId,
+          result: result.result,
+        },
+        null,
+        2,
+      ),
+    );
+  }
 
-    if (result.status === "error") {
-      fail(`run failed: ${result.id || agent.agentId}`, 2);
-    }
-  } finally {
-    if (typeof agent[Symbol.asyncDispose] === "function") {
-      await agent[Symbol.asyncDispose]();
-    }
+  if (result.status === "error") {
+    fail(`run failed: ${result.id || result.agentId}`, 2);
   }
 }
 
 main().catch((err) => {
-  const retryable = err instanceof CursorAgentError ? ` retryable=${err.isRetryable}` : "";
-  const helpUrl = err?.helpUrl ? `\n${err.helpUrl}` : "";
-  console.error(`${err.name || "Error"}: ${err.message}${retryable}${helpUrl}`);
+  const info = formatAgentError(err);
+  const retryable =
+    err instanceof CursorAgentError ? ` retryable=${info.retryable}` : "";
+  const helpUrl = info.helpUrl ? `\n${info.helpUrl}` : "";
+  console.error(`${info.name}: ${info.message}${retryable}${helpUrl}`);
   process.exit(1);
 });

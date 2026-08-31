@@ -1,0 +1,17 @@
+{
+  "name": "cursor-agent-http-api",
+  "private": true,
+  "type": "module",
+  "description": "OpenAPI HTTP facade for Invoke-CursorAgent / prompt-agent",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "cursor-agent-prompt": "file:../script",
+    "yaml": "^2.8.0"
+  }
+}

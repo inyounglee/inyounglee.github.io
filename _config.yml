@@ -43,6 +43,7 @@ exclude:
   - .jekyll-cache
   - .github
   - auto
+  - docs
 
 kramdown:
   input: GFM

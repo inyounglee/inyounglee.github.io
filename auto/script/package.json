@@ -6,6 +6,10 @@
   "engines": {
     "node": ">=22.13"
   },
+  "exports": {
+    ".": "./prompt-agent.js",
+    "./lib/agent-service.js": "./lib/agent-service.js"
+  },
   "scripts": {
     "prompt": "node prompt-agent.js"
   },

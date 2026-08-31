@@ -117,5 +117,6 @@ node prompt-agent.js --prompt "..."
 ## 참고
 
 - SDK 문서: https://cursor.com/docs/sdk/typescript
+- **HTTP(OpenAPI) 호출**: [`docs/cursor-agent-http-api.md`](../../docs/cursor-agent-http-api.md) · 서버는 `auto/api`
 - 이 경로는 Jekyll 사이트 배포에서 제외됩니다 (`_config.yml` `exclude: auto`).
 - `.last-agent-id` 와 `node_modules` 는 git에 올리지 않습니다.
