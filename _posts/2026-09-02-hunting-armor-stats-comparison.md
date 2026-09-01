@@ -11,7 +11,7 @@ featured: false
 
 아래 수치는 **2026년 9월 기준 한국 검은사막 PC판** 수렵복(상의·장갑·신발·투구 슬롯) 기준입니다. 수렵 가방·악세서리·버프는 **포함하지 않았습니다**.
 
-수렵 입문·레벨업·올비아 보상 등 전체 흐름은 **[수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/)** 에서 다룹니다. 이 글은 **수렵복 단계별 숙련도·경험치%** 만 비교합니다.
+수렵 입문·레벨업·올비아 보상 등 전체 흐름은 **[수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/)** 에서 다룹니다. 이 글은 **수렵복 단계별 숙련도·경험치%** 만 비교합니다.
 
 # 수렵복 숙련도·경험치 비교
 
@@ -132,7 +132,7 @@ featured: false
 
 ## 함께 보면 좋은 글
 
-- **[수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/)** — 화승총·가방·버프·레벨업·올비아 보상 전체
+- **[수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/)** — 화승총·가방·버프·레벨업·올비아 보상 전체
 - [모험가 가이드 — 수렵](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=106) (공식)
 - [로기아 수렵꾼의 옷](https://black.inven.co.kr/dataninfo/item/?code=705109) · [로바우의 수렵복](https://black.inven.co.kr/dataninfo/item/?code=705076) · [마노스 수렵꾼의 옷](https://black.inven.co.kr/dataninfo/item/?code=705022) (인벤 DB)
 
