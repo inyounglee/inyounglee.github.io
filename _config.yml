@@ -44,6 +44,7 @@ exclude:
   - .github
   - auto
   - docs
+  - start.bat
 
 kramdown:
   input: GFM
