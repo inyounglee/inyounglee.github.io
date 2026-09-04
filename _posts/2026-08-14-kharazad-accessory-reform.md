@@ -10,7 +10,7 @@ featured: false
 
 카라자드 액세서리는 부위마다 **전용 술잔**으로 개량할 수 있습니다. 기존 악세처럼 효과를 둘로 나누지 않고, 카라자드용 술잔 하나가 해당 부위의 개량 효과를 한 번에 담는 구조입니다.
 
-이 글은 **개량 흐름과 부위별 효과만 빠르게 보는 요약**입니다. 새벽의 정수·술잔 재료·밤의 조각·거래소 가격까지 이어서 보려면 [카라자드 개량 가이드(재료 총정리)](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)를 보세요.
+이 글은 **개량 흐름과 부위별 효과만 빠르게 보는 요약**입니다. **초보~환(X)까지 강화 순서·개량 타이밍**은 [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/)를, 새벽의 정수·술잔·밤의 조각까지는 [카라자드 개량 가이드(재료 총정리)](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)를 보세요.
 
 > 공식 안내는 [검은사막 모험가 가이드 — 카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389)와 [연구소 업데이트](https://blackdesert.pearlabyss.com/GlobalLab/ko-KR/News/Notice/Detail?_boardNo=7407)를 기준으로 했습니다. 패치에 따라 수치가 바뀔 수 있습니다.
 
@@ -46,4 +46,4 @@ featured: false
 3. 액세서리에 개량 적용  
 4. 되돌릴 일이 있으면 대장장이 추출(정제된 감정의 정수)만 가능한지 확인
 
-재료를 어디서 모을지, 부위별로 술잔을 어떻게 만드는지까지 보려면 [카라자드 개량 가이드 — 술잔·밤의 조각·새벽의 정수](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)에서 이어서 확인하세요.
+**언제·어느 부위부터 개량할지**는 [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/)를, 재료·술잔 제작은 [카라자드 개량 가이드 — 술잔·밤의 조각·새벽의 정수](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)에서 이어서 확인하세요.

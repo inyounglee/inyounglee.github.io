@@ -180,7 +180,7 @@ featured: true
 
 ### 3-2. 이후 카라자드 성장
 
-동(V) 카라자드 이후 강화·개량은 별도 콘텐츠입니다. 개량 재료(술잔, 새벽의 정수 등)는 [카라자드 액세서리 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/) 글을 참고하세요.
+동(V) 카라자드 이후 **어느 부위부터 올릴지·개량은 언제인지**는 [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/)에서 단계별로 정리했습니다. 개량 재료(술잔, 새벽의 정수 등)는 [카라자드 액세서리 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)를 참고하세요.
 
 ---
 
@@ -322,7 +322,7 @@ featured: true
 ### 「새벽의 정수가 부족해요」
 
 - 알루스틴 의뢰: 60개 (올비아 보상으로 충분)  
-- 이후 카라자드 강화·개량: [카라자드 개량 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/) 참고  
+- 이후 카라자드 강화·부위 순서·개량 타이밍: [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/) · [카라자드 개량 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)  
 - 거래소 구매도 가능 (상한가 1억 은화)
 
 ### 「이미 장비가 있어요 — 하이퍼 부스트를 다시 받을 수 있나요?」

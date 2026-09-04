@@ -11,6 +11,8 @@ featured: false
 
 아래 내용은 **2026년 8월 기준 한국 검은사막 PC판**을 기준으로 한 **개량 재료 상세 가이드**입니다. 부위별 전용 술잔, 새벽의 정수, 밤의 조각, 최근 바뀐 **술잔 재료 거래소 등록**까지 이 글만으로 진행할 수 있게 정리했습니다. 공식 카라자드 가이드와 최근 업데이트 내용을 우선 기준으로 삼았습니다. ([검은사막][1])
 
+> **강화 단계·부위 순서·개량 타이밍** 전체 루트 → [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/) · 개량 효과만 빠르게 → [카라자드 개량 요약](https://www.inyounglee.kr/blackdesert/2026/08/14/kharazad-accessory-reform/) · 동(V) 획득 → [하이퍼 부스트 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/)
+
 # 검은사막 카라자드 악세사리 개량 재료 총정리 — 술잔부터 밤의 조각, 새벽의 정수까지
 
 검은사막에서 카라자드 액세서리를 어느 정도 강화했다면 다음 단계로 고민하게 되는 것이 **액세서리 개량**이다.
