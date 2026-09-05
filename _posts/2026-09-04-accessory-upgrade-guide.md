@@ -141,6 +141,7 @@ featured: true
 | 운(VI) → 우(VII) | 확정 강화석 2 + 하락 방지 망치 |
 | 우(VII) → 풍(VIII) | 확정 강화석 2 |
 
+장별 조건·보상·선행 의뢰: **[엠마 바탈리의 기록일지 진행 가이드](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/)**  
 (이고르 바탈리 모험일지 5권 선행 필요 — [하이퍼 부스트 5단계](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5))
 
 ### 추천 부위 순서 (동 → 운 → 우)
@@ -416,6 +417,7 @@ AP가 큰 부위부터 올립니다.
 | 글 | 내용 |
 | --- | --- |
 | [하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/) | 동 카라자드 획득·공방합 루트 |
+| [엠마 바탈리의 기록일지 진행 가이드](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) | 장별 조건·보상·선행 의뢰 |
 | [카라자드 액세서리 개량 정리](https://www.inyounglee.kr/blackdesert/2026/08/14/kharazad-accessory-reform/) | 개량 효과·술잔 요약 (에크레타·아페론에도 동일 술잔) |
 | [카라자드 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/) | 새벽의 정수·술잔·밤의 조각 |
 | [공식 — 카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389) | 능력치·강화 확률·교환 의뢰 |
