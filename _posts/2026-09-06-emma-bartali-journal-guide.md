@@ -86,7 +86,8 @@ featured: false
 - 대양 **까마귀의 둥지** 연속 의뢰의 마지막 구간
 - 시작 의뢰: **`[까마귀의 둥지] 까마귀의 둥지로`**
 - 흑정령(`/` 키)을 불러와 **의뢰(A) → 추천 의뢰**에서 수주하여 시작하면 됩니다. (레벨 **56+**)
-- 상세 의뢰 목록·NPC: **[안개가 자욱한 미지의 섬, 까마귀의 둥지](https://dodoripyogirok.tistory.com/entry/%EC%9D%98%EB%A2%B0-%EC%95%88%EA%B0%9C%EA%B0%80-%EC%9E%90%EC%9A%B1%ED%95%9C-%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%84%AC-%EA%B9%8C%EB%A7%88%EA%B7%80%EC%9D%98-%EB%91%A5%EC%A7%80)**
+- 상세 의뢰 목록·NPC: **[까마귀의 둥지 연속 의뢰](https://blueforget.tistory.com/263)** · [도도리 요약](https://dodoripyogirok.tistory.com/entry/%EC%9D%98%EB%A2%B0-%EC%95%88%EA%B0%9C%EA%B0%80-%EC%9E%90%EC%9A%B1%ED%95%9C-%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%84%AC-%EA%B9%8C%EB%A7%88%EA%B7%80%EC%9D%98-%EB%91%A5%EC%A7%80)
+- 먼 바다 이동용 배가 없으면 → **[올비아 항해·교역 강의](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)** 로 고속정·경범선 수령 (또는 거래소 구매)
 
 완료 시 **장 : 불멸의 까마귀 휘장**도 받게 되어, 3장(광 승급) 선행이 됩니다.
 
@@ -176,7 +177,8 @@ featured: false
 | 링크 | 용도 |
 | --- | --- |
 | [하이퍼 부스트 5단계](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5) | 일지 위치·카라자드 지원 요약 |
-| [까마귀의 둥지 연속 의뢰](https://dodoripyogirok.tistory.com/entry/%EC%9D%98%EB%A2%B0-%EC%95%88%EA%B0%9C%EA%B0%80-%EC%9E%90%EC%9A%B1%ED%95%9C-%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%84%AC-%EA%B9%8C%EB%A7%88%EA%B7%80%EC%9D%98-%EB%91%A5%EC%A7%80) | 2장 `[까마귀의 용병]` |
+| [까마귀의 둥지 연속 의뢰](https://blueforget.tistory.com/263) | 2장 `[까마귀의 용병]` |
+| [올비아 항해·교역 시작](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 배 없을 때 고속정·경범선 |
 | [불멸의 나락 입장·승급](https://dodoripyogirok.tistory.com/entry/%EB%B6%88%EB%A9%B8%EC%9D%98-%EB%82%98%EB%9D%BD-%EC%9E%85%EC%9E%A5-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%BB%A8%ED%85%90%EC%B8%A0) | 3장 광 휘장 승급 |
 | [능력치 올리기 — 파푸·툰그라드](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=308) | 4장 공식 안내 |
 | [8월 5일 업데이트(공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15998&countryType=ko-KR) | 9~12장 목표 → 어둠의 틈 |
