@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판** · 올비아 아카데미 **항해/교역 강의** 기준으로 정리했습니다. ([공식 — 올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429))
 
-> 관련: [하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/) · [엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [항해 배 종류·증축·중범선](https://www.inyounglee.kr/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/)
+> 관련: [하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/) · [엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [항해 배 종류·증축·중범선](https://www.inyounglee.kr/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/)
 
 # 올비아 아카데미로 항해·교역 시작하기
 

@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 2일 한국 검은사막 PC판** [생활 장비 통합 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) 기준으로 정리했습니다.
 
-> 관련: [기능성 펄의상 종류·효과·우선순위](https://www.inyounglee.kr/blackdesert/2026/09/14/functional-pearl-costume-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
+> 관련: [기능성 펄의상 종류·효과·우선순위](https://www.inyounglee.kr/blackdesert/2026/09/14/functional-pearl-costume-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
 # 생활 펄장비를 가문내 모든 캐릭에서 공유 사용할 수 있는 방법
 
@@ -164,3 +164,4 @@ featured: false
 - 공식 [9월 2일(수) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) — 생활 장비 통합, 매듭 레시피, 장착 가능 목록
 - 공식 [흑정령의 발톱](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=71)
 - [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) — 그랑베어 매듭을 끼우는 수렵 탭
+- [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) — 아그리스 매듭을 끼우는 재배 탭

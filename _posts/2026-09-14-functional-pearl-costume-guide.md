@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판** 펄상점 기능성 의상입니다. 가격은 공식 상점 안내의 **정가**이고, 할인·선택 상자는 기간 상품이라 **F3에서 현재 가격**을 다시 보세요.
 
-> 가문 공유 방법: [생활 펄장비를 가문내 모든 캐릭에서 공유 사용할 수 있는 방법 가이드](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) · 공식 [9월 2일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) · [그랑베어 출시 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14783)
+> 가문 공유 방법: [생활 펄장비를 가문내 모든 캐릭에서 공유 사용할 수 있는 방법 가이드](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · 공식 [9월 2일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) · [그랑베어 출시 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14783)
 
 # 모든 기능성 펄의상의 종류, 착용효과, 필요성 정리
 
