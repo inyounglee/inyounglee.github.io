@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 채집](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=97), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [광명석 조합식](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=273)을 우선 참고했습니다.
 
-> **채집복·도구 숙련도·경험치만 비교**하고 싶다면 → **[채집복·도구 비교표 (로기아·카르타·마노스)](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)**
+> **채집복·도구 숙련도·경험치·소요 시간 표기**만 비교하고 싶다면 → **[채집복·도구 비교표 (로기아·카르타·마노스)](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** · [소요 시간 표기](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#gather-time)
 
 > 관련: [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
@@ -22,7 +22,7 @@ featured: false
 결론부터 정리하면 추천 성장 순서는 다음과 같습니다.
 
 ```
-입문 (개량된 도구 + 채집꾼의 옷)
+입문 (기본 도구 또는 도구 없이 + 채집꾼의 옷)
   → 벨리아·승급 의뢰 또는 올비아 채집 강의
   → 로기아 채집복·도구 (+강화)
   → 카르타 채집복 · 도스터 강철 도구 (+강화)
@@ -101,21 +101,21 @@ featured: false
 
 사막 **모래 지형**에서 **삽**으로 팝니다. 물뜨기와 같이 오브젝트가 아니라 지형 반복입니다. **광석·수정·흙탕물주머니**가 나오고, 가공은 가열·빻기·솎아내기입니다. 발렌시아 사막이 주 무대입니다. 마노스 삽은 없고, 숨결·파묻힌 흔적 공식 목록에도 없습니다.
 
-**입문용 도구:** 각 마을 **재료 상인**의 **「개량된~」** 채집 도구 — 착용 조건 없이 채집 시간이 짧아집니다. 이후 루트는 **로기아 → 도스터의 강철 → 마노스**이며, 숙련도·확률 숫자는 **[채집 도구 비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools)** 를 보세요.
+**입문용 도구:** 도구를 안 껴도 **기본 채집 소요 시간**(옛 표기 −8초)이 적용됩니다. 재료 상인의 하얀색 기본 도구도 같습니다. 「개량된~」은 [도구 간소화](https://www.kr.playblackdesert.com/Adventure/History?_groupMasterNo=12670) 이후 판매하지 않습니다. 로기아·도스터·마노스·마력·데미하르 툴팁의 **−3초**는 이 기본 시간 **위에 추가**로 줄어드는 값입니다. 숫자는 **[채집 소요 시간 표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#gather-time)** 를 보세요.
 
 **장착 방법**
 
 - 채집 도구 슬롯에 직접 장착하거나
 - **리아나의 채집 도구 가방**에 도구를 넣고 가방만 장착 (여러 도구를 한 번에 들고 다님)
 
-채집 **레벨**이 오르면 더 높은 등급 도구를 쓸 수 있고, **한 번 채집에 걸리는 시간**이 줄어듭니다.
+채집 **레벨**이 오르면 더 높은 등급 도구를 쓸 수 있고, **기운 없이 채집할 확률**이 오릅니다. **한 번 채집에 걸리는 시간**은 도구 툴팁의 추가 −3초와 **채집 잠재력**이 좌우합니다.
 
 ### 1-2. 채집복·가방 — 숙련도·경험치
 
 | 부위 | 역할 | 없으면? |
 | --- | --- | --- |
 | **채집복** | 채집 숙련도·경험치% | 희귀 재료·수량 체감 급감 · [비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#clothes) |
-| **채집 도구**(마노스 등) | 해당 종류 숙련도·채집 속도 | 경험치%는 없음 · [도구 표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools) |
+| **채집 도구**(마노스 등) | 해당 종류 숙련도·소요 시간 −3초 | 경험치%는 없음 · [도구 표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools) · [표기](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#gather-time) |
 | **채집 도구 가방** | (선택) 도구 편의 | 도구 갈아 끼우기 번거로움 |
 
 초반에는 의뢰 보상 **채집꾼의 옷**(경험치 +10%, 강화 불가)만으로도 충분한 경우가 많습니다. 단계별 **숙련도·경험치 수치 전체 표**는 **[채집복·도구 비교 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** 를 참고하세요.
@@ -125,10 +125,13 @@ featured: false
 | 개념 | 효과 |
 | --- | --- |
 | **채집 레벨** | 상위 **채집 도구** 해금 · 기운 없이 채집할 확률 ↑ |
-| **채집 잠재력** (최대 5단계) | **채집 속도**. 해물 크론 정식·신록으로 올림 |
+| **채집 잠재력** (최대 5단계) | **채집 속도**의 큰 축. 해물 크론 정식·신록으로 올림 |
 | **채집 숙련도** | 채집량·**특수·희귀** 재료 확률 ↑ — 수익·연금 재료의 핵심 |
+| **도구 소요 시간** | 툴팁 **−3초**는 기본 시간 위 **추가분**. [표기](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#gather-time) |
 
 내 정보(**P**) → 생활에서 확인합니다. 본격 파밍 전 **잠재력 5단계**까지 맞추는 것을 권장합니다(공식 가이드).
+
+[2025년 11월 12일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14769) 이후 아이템 설명은 **추가 초**만 적습니다. 도구를 안 껴도 기본 −8초가 이미 들어가고, 로기아~마노스·마력·데미하르의 **−3초**는 그 위입니다. 옛 −11초와 **실제 속도는 같고**, 잠재력은 도구 차감 **뒤에** 적용됩니다. [모험가 가이드 위키](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=97)는 아직 −11초·「개량된~」을 적고 있어, **라이브 툴팁·11월 12일 공지**를 우선합니다.
 
 ---
 
@@ -142,7 +145,7 @@ featured: false
 
 | 단계 | 채집복 | 채집 도구 | 기본 숙련도 (복) | 경험치 (복) | 비고 |
 | --- | --- | --- | ---: | ---: | --- |
-| 입문 | 채집꾼의 옷 | 개량된 도구 | — | +10% | 강화 불가 |
+| 입문 | 채집꾼의 옷 | 기본 도구(또는 도구 없이) | — | +10% | 강화 불가 · 기본 소요 시간 |
 | **1단계** | **로기아 채집꾼의 옷** | 로기아의 벌목 도끼 등 | +3 | +3% | 고(III) +130·+23% / 동(V) +280·+28% ([비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#clothes)) |
 | **2단계** | **카르타 채집복** | **도스터의 강철** 도구 | +4 | +4% | 고(III) +180·+24% · 올비아 가문 보상 ([비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#clothes)) |
 | **3단계 (최종)** | **마노스 채집꾼의 옷** | **마노스 채집 도구** | +5 | +5% | 동(V) +400·+40% · 도구 종류별 ([비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools)) |
@@ -175,9 +178,9 @@ featured: false
 
 | 도구 | 특징 |
 | --- | --- |
-| **데미하르 채집 도구** | 채집 **견습** 달성 시 도전과제(Y) — 14일 한정, 시간 −11초·획득 확률 +80%·경험치 +50% |
-| **레이트가의 채집 도구** | 북부 밀농장 **노먼 레이트** 공헌도 50 **대여** — 숙련도·경험치·확률 |
-| **마력이 깃든 채집 도구** | 시간 −11초·확률 +80% but **숙련도에 따른 희귀 확률 미적용** — 레벨업용, 수익용 아님 |
+| **데미하르 채집 도구** | 채집 **견습** 도전과제(Y) — 14일 한정. 시간 **−3초** · 확률 +80% · 경험치 +50% ([표기](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#gather-time)) |
+| **레이트가의 채집 도구** | 북부 밀농장 **노먼 레이트** 공헌도 50 **대여** — 시간 **−3초** · 숙련도 +200 · 경험치 +10% · 확률 +30% |
+| **마력이 깃든 채집 도구** | 시간 **−3초** · 확률 +80% · **숙련도 희귀 확률 미적용** — 레벨업용, 수익용 아님. 옛 툴팁 −11초와 **속도는 같음** |
 
 레벨만 빠르게 올릴 때는 마력 도구, **숙련도·희귀 재료**를 노릴 때는 **마노스·도스터** 쪽이 맞습니다. 로기아를 **동(V)** 까지 올려도 경험치 **+28%** 로 **마노스 고(III) +25%** 와 비슷한 수준이므로, 응축 결정 투자 전 **카르타·마노스 교체 시점**을 [비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)에서 함께 검토하세요.
 
@@ -309,7 +312,7 @@ featured: false
 
 | 순서 | 구간 | 목표 레벨 | 장비 |
 | --- | --- | --- | --- |
-| 0 | **벨리아** 채집 입문 의뢰 | 초급 | 개량된 도구 |
+| 0 | **벨리아** 채집 입문 의뢰 | 초급 | 기본 도구 |
 | 1 | **승급 의뢰** (초급 10+) | 견습~숙련 | 로기아+ |
 | 2 | **올비아 채집 강의** (병행 가능) | 장인 (패스 시 명장) | 카르타·도스터 보상 |
 | 3 | 리아나 **일일·주간** + 필드 파밍 | 전문~장인 | 카르타~마노스 |
@@ -405,7 +408,7 @@ featured: false
 
 ```
 [입문]
-  개량된 도구 + (의뢰) 채집꾼의 옷
+  기본 도구(또는 도구 없이) + (의뢰) 채집꾼의 옷
   ↓
 [레벨]
   벨리아·승급 의뢰 OR 올비아 채집 강의
@@ -491,7 +494,8 @@ featured: false
 
 | 링크 | 용도 |
 | --- | --- |
-| **[채집복·도구 비교표 (로기아·카르타·마노스)](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** | 숙련도·경험치 단계표 · [옷](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#clothes) · [도구(벌목 도끼)](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools) |
+| **[채집복·도구 비교표 (로기아·카르타·마노스)](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** | 숙련도·경험치 단계표 · [옷](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#clothes) · [도구(벌목 도끼)](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools) · [소요 시간](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#gather-time) |
+| [11월 12일 채집 소요 시간 표기 (공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14769) | 기본 −8초 · 툴팁은 추가 초 |
 | [모험가 가이드 — 채집 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=97) | 도구·의뢰·요정의 숨결·뿌리 깊은 손 |
 | [뿌리 깊은 손 (이 글 5-3)](#rooted-hand) | 해금 의뢰·미니게임·ON/OFF |
 | [9/2 생활 장비 통합 (공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16141&countryType=ko-KR) | 유물 → 생활 UI |
@@ -507,6 +511,6 @@ featured: false
 
 ## 정리
 
-채집은 **아홉 종류**(벌목·채광·호미·맨손·수액·도축·무두질·물뜨기·삽)와 **대상에 맞는 도구 + 채집복(로기아→카르타→마노스) + 잠재력 5**가 시작입니다. 도구는 **로기아 → 도스터 강철 → 마노스**이며, 여섯 종의 숙련도는 [벌목 도끼 대표 표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools)와 같습니다. **해물 크론 정식·신록의 영약**이 레벨 속도를 만들고, **생활 통합 UI → 채집**의 **세스라 유물**과 **심마니·자연인·요리조리 위즐** 조합이 그 위를 얹습니다. **올비아 채집 강의**는 카르타·도스터 고III와 **장인~명장**까지 한 번에 밀어 주는 가장 큰 지원이며, 평소에는 **승급·리아나 의뢰**와 **요정의 숨결** 루프를 이어 가면 됩니다. 채집복·도구 단계별 숙련도·경험치는 **[비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** 에서 확인할 수 있습니다.
+채집은 **아홉 종류**(벌목·채광·호미·맨손·수액·도축·무두질·물뜨기·삽)와 **대상에 맞는 도구 + 채집복(로기아→카르타→마노스) + 잠재력 5**가 시작입니다. 도구는 **로기아 → 도스터 강철 → 마노스**이며, 여섯 종의 숙련도는 [벌목 도끼 대표 표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools)와 같습니다. **해물 크론 정식·신록의 영약**이 레벨 속도를 만들고, **생활 통합 UI → 채집**의 **세스라 유물**과 **심마니·자연인·요리조리 위즐** 조합이 그 위를 얹습니다. **올비아 채집 강의**는 카르타·도스터 고III와 **장인~명장**까지 한 번에 밀어 주는 가장 큰 지원이며, 평소에는 **승급·리아나 의뢰**와 **요정의 숨결** 루프를 이어 가면 됩니다. 채집복·도구 단계별 숙련도·경험치·소요 시간 표기는 **[비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** 에서 확인할 수 있습니다.
 
 ※ 패치에 따라 장비 등급·올비아 일정·가문 통합 생활 장비가 변경될 수 있습니다. 진행 직전 [검은사막 공식 홈페이지](https://www.kr.playblackdesert.com/) 공지를 확인하세요.
