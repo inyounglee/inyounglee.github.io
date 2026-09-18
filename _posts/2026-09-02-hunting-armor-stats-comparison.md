@@ -133,6 +133,7 @@ featured: false
 ## 함께 보면 좋은 글
 
 - **[수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/)** — 화승총·가방·버프·레벨업·올비아 보상 전체
+- [채집복·도구 비교표](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-gear-stats-comparison/) — 같은 숙련도·경험치 곡선 (파랑은 카르타·도스터)
 - [모험가 가이드 — 수렵](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=106) (공식)
 - [로기아 수렵꾼의 옷](https://black.inven.co.kr/dataninfo/item/?code=705109) · [로바우의 수렵복](https://black.inven.co.kr/dataninfo/item/?code=705076) · [마노스 수렵꾼의 옷](https://black.inven.co.kr/dataninfo/item/?code=705022) (인벤 DB)
 
