@@ -13,7 +13,7 @@ featured: true
 
 > **수렵복 숙련도·경험치만 비교**하고 싶다면 → **[수렵복 비교표 (로기아·로바우·마노스)](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)**
 
-> 관련: [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
+> 관련: [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
 # 검은사막 수렵 생활 가이드
 

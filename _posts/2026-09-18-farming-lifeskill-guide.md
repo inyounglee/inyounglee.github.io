@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 재배](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=94), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [2026년 6월 4일 재배 개편](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15694)을 우선 참고했습니다.
 
-> 관련: [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [아그리스 매듭·가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)
+> 관련: [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [아그리스 매듭·가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)
 
 # 검은사막 재배 생활 가이드
 
@@ -549,6 +549,7 @@ featured: false
 | [2026 생활 유물·광명석 추천](https://www.inven.co.kr/board/black/3584/59027) | 재배 최종 〈마력이 깃든 땅〉 |
 | [올비아 아카데미 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429) | 패스 레벨 · 주화 |
 | [생활 수업 간단 공략 (블루포겟)](https://blueforget.tistory.com/564) | 재배 강의 시간 절약 |
+| [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) | 같은 형식 · 올비아 채집 강의 |
 | [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) | 같은 형식의 생활 가이드 · 올비아 병행 |
 | [올비아 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 재배와 같은 패스 경험치 곡선 |
 | [아그리스 매듭·가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) | 재배 경험치 +30% · −2초 |
