@@ -24,6 +24,11 @@
   text-underline-offset: 3px;
 }
 
+.prose a.craft-item {
+  text-decoration-style: dotted;
+  text-underline-offset: 4px;
+}
+
 .prose ul,
 .prose ol {
   padding-left: 1.2em;
