@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
-"""Build _data/bdo_craft_items.json from paz_items names that appear in posts."""
+"""포스트에 등장하는 검은사막 아이템명을 모아 `_data/bdo_craft_items.json`을 갱신한다."""
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import re
+import sys
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -193,7 +195,49 @@ def appearing(catalog: list[str], text: str) -> list[str]:
     return sorted(hits - redundant, key=lambda n: (-len(n), n))
 
 
-def main() -> None:
+def build_parser() -> argparse.ArgumentParser:
+    parser = argparse.ArgumentParser(
+        prog="build-bdo-item-links.py",
+        description=(
+            "제작 계산기 카탈로그에서 아이템명을 가져와 `_posts` 본문에 실제로 "
+            "등장하는 이름만 `_data/bdo_craft_items.json`에 저장합니다. "
+            "Jekyll 플러그인 `_plugins/bdo_craft_item_links.rb`가 이 목록으로 "
+            "포스트 아이템명에 제작 계산기 링크를 겁니다."
+        ),
+        epilog=(
+            "예시:\n"
+            "  python auto/script/build-bdo-item-links.py\n"
+            "  python auto/script/build-bdo-item-links.py --help\n"
+            "\n"
+            "카탈로그:\n"
+            "  제작 계산기 Supabase의 paz_items를 REST로 읽습니다.\n"
+            "  사이트 HTML을 크롤링하지 않습니다.\n"
+            "\n"
+            "환경 변수:\n"
+            "  BDO_CRAFT_SUPABASE_ANON_KEY\n"
+            "    계산기 Supabase anon/publishable 키.\n"
+            "    이 스크립트가 paz_items를 GET할 때만 사용합니다.\n"
+            "    없으면 스크립트 기본값을 쓰고, Jekyll/배포에는 쓰이지 않습니다.\n"
+            "    설정(PowerShell):\n"
+            "      $env:BDO_CRAFT_SUPABASE_ANON_KEY = \"sb_publishable_....\"\n"
+            "\n"
+            "갱신 후 `bundle exec jekyll serve` 또는 `bundle exec jekyll build`로 "
+            "사이트를 다시 빌드하세요."
+        ),
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        add_help=False,
+    )
+    parser.add_argument(
+        "-h",
+        "--help",
+        action="help",
+        help="이 도움말을 표시하고 종료합니다.",
+    )
+    return parser
+
+
+def main(argv: list[str] | None = None) -> int:
+    build_parser().parse_args(argv)
     catalog = fetch_names()
     text = post_text()
     hits = appearing(catalog, text)
@@ -207,7 +251,8 @@ def main() -> None:
     print(f"short hangul<=3 = {len(short)}")
     for n in short:
         print(f"  {n}")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

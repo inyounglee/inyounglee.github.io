@@ -90,6 +90,57 @@ featured: true    # /blackdesert/ 추천 글에 표시
 
 표시 개수(기본 4)를 바꾸려면 `_includes/featured.html`의 `limit: 4`를 수정합니다.
 
+## 포스트 아이템명 → 제작 계산기 링크
+
+포스트 본문의 검은사막 아이템명은 빌드 시 [제작 계산기](https://bdo-craft-calc.inyounglee.kr/)로 연결됩니다.
+
+- 링크 형식: `https://bdo-craft-calc.inyounglee.kr/kr/items/{아이템명slug}` (공백 → `-`)
+- 이름 목록: `_data/bdo_craft_items.json`
+- 링크 적용: `_plugins/bdo_craft_item_links.rb` (Jekyll이 포스트 HTML을 만들 때)
+
+새 글에 기존 목록에 없는 아이템명이 들어가면, 저장소 루트에서 목록을 다시 만듭니다. **Python 3.10+** 와 네트워크가 필요합니다.
+
+```powershell
+python auto/script/build-bdo-item-links.py
+python auto/script/build-bdo-item-links.py --help
+```
+
+갱신 뒤에는 `bundle exec jekyll serve` 또는 `bundle exec jekyll build`로 사이트를 다시 빌드합니다. GitHub Pages 배포는 커밋된 `_data/bdo_craft_items.json`만 쓰고, 이 스크립트는 CI에서 돌리지 않습니다.
+
+### 카탈로그에서 아이템명을 가져오는 동작
+
+스크립트는 제작 계산기 사이트 HTML을 긁지 않습니다. 계산기가 쓰는 **Supabase 아이템 마스터** `paz_items`를 REST로 읽습니다.
+
+1. `GET https://yjswbueufqddkbgwxlul.supabase.co/rest/v1/paz_items` 에 `name`만 요청합니다.
+2. 이벤트·지식·강화 키 등 제외 행(`exclude`가 있는 행), 이름 `[이벤트]` 접두, 비정상 `item_id`는 빼 둡니다.
+3. 한 번에 1,000개씩 `Range`로 끝까지 받아 고유 이름을 모읍니다.
+4. `_posts/*.md` 본문(프론트매터·코드·이미지 제외)에 **실제로 등장하는 이름만** 남깁니다. `[공헌도] 그믐달 울타리`처럼 접두가 있는 항목은 본문의 `그믐달 울타리`에도 맞춥니다.
+5. 짧은 일반어·스탯 문구는 빼고, 결과를 `_data/bdo_craft_items.json`에 덮어씁니다.
+
+이 JSON이 있어야 플러그인이 링크를 걸 수 있습니다. 사이트 런타임은 계산기 API를 호출하지 않습니다.
+
+### `BDO_CRAFT_SUPABASE_ANON_KEY`
+
+제작 계산기 Supabase 프로젝트의 **anon / publishable 키**(공개 읽기용)입니다. 서비스 롤 키가 아닙니다.
+
+| 항목 | 내용 |
+| --- | --- |
+| 무엇 | `paz_items`를 익명으로 `SELECT`할 때 쓰는 API 키. 계산기 프론트엔드의 `VITE_SUPABASE_PUBLISHABLE_KEY`와 같은 종류입니다. |
+| 어디서 쓰나 | **오직** `auto/script/build-bdo-item-links.py`의 HTTP 헤더 `apikey`, `Authorization: Bearer …`. Jekyll 빌드·GitHub Pages·브라우저 JS에는 쓰이지 않습니다. |
+| 없어도 되나 | 선택. 비어 있으면 스크립트에 넣어 둔 기본 키를 씁니다. 계산기 프로젝트가 키를 바꾸면 환경 변수로 덮어씁니다. |
+| 키를 받는 곳 | 계산기 Supabase 대시보드 → **Project Settings → API → Project API keys** 의 `anon` `public` (또는 publishable). |
+
+현재 PowerShell 세션에만 설정:
+
+```powershell
+$env:BDO_CRAFT_SUPABASE_ANON_KEY = "sb_publishable_...."
+python auto/script/build-bdo-item-links.py
+```
+
+Windows 사용자 환경 변수로 유지하려면 시스템 설정 → 환경 변수에 같은 이름으로 넣거나, PowerShell 프로필에 위 한 줄을 추가합니다. GitHub Actions secret으로 넣을 필요는 없습니다. 목록 갱신은 로컬에서 돌린 뒤 JSON을 커밋하면 됩니다.
+
+키를 저장소에 커밋하지 마세요. 스크립트 기본값은 계산기 프론트가 이미 브라우저에 실어 보내는 공개 키와 같고, 테이블 RLS상 읽기만 가능합니다.
+
 ## 설정 변경
 
 | 파일 | 역할 |
