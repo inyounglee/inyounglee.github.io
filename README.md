@@ -92,9 +92,9 @@ featured: true    # /blackdesert/ 추천 글에 표시
 
 ## 포스트 아이템명 → 제작 계산기 링크
 
-포스트 본문의 검은사막 아이템명은 빌드 시 [제작 계산기](https://bdo-craft-calc.inyounglee.kr/)로 연결됩니다.
+포스트 본문의 검은사막 아이템명은 빌드 시 [제작 계산기](https://bdocalc.top/)로 연결됩니다.
 
-- 링크 형식: `https://bdo-craft-calc.inyounglee.kr/kr/items/{아이템명slug}` (공백 → `-`)
+- 링크 형식: `https://bdocalc.top/kr/items/{아이템명slug}` (공백 → `-`)
 - 이름 목록: `_data/bdo_craft_items.json`
 - 링크 적용: `_plugins/bdo_craft_item_links.rb` (Jekyll이 포스트 HTML을 만들 때)
 

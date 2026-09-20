@@ -48,7 +48,7 @@ exclude:
 
 # 포스트 아이템명 → 제작 계산기 링크 (플러그인 _plugins/bdo_craft_item_links.rb)
 bdo_craft_calc:
-  item_base: https://bdo-craft-calc.inyounglee.kr/kr/items
+  item_base: https://bdocalc.top/kr/items
 
 kramdown:
   input: GFM

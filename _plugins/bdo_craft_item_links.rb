@@ -6,7 +6,7 @@
 require "erb"
 
 module BdoCraftItemLinks
-  BASE = "https://bdo-craft-calc.inyounglee.kr/kr/items"
+  BASE = "https://bdocalc.top/kr/items"
   SKIP_TAGS = %w[a code pre kbd script style textarea svg button].freeze
   TOKEN = /(<[^>]+>|[^<]+)/
 
