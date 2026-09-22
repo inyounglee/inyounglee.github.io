@@ -11,9 +11,9 @@ featured: true
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 업데이트를 반영한 정리입니다. 공식 [모험가 가이드 — 수렵](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=106), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429)를 우선 참고했습니다.
 
-> **수렵복 숙련도·경험치만 비교**하고 싶다면 → **[수렵복 비교표 (로기아·로바우·마노스)](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)**
+> **수렵복 숙련도·경험치만 비교**하고 싶다면 → **[수렵복 비교표 (로기아·로바우·마노스)](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)**
 
-> 관련: [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
+> 관련: [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
 # 검은사막 수렵 생활 가이드
 
@@ -107,16 +107,16 @@ featured: true
 
 수렵복·가방은 **로기아 → 로바우 → 마노스** 순으로 교체합니다. 상위 장비일수록 기본 **숙련도·경험치%**가 높고, 강화 시 숙련도·경험치가 더 오릅니다.
 
-> 단계별 **숙련도·경험치 수치 전체 표**는 **[수렵복 비교 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)** 를 참고하세요.
+> 단계별 **숙련도·경험치 수치 전체 표**는 **[수렵복 비교 가이드](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)** 를 참고하세요.
 
 ### 2-1. 단계별 비교
 
 | 단계 | 수렵복 | 수렵 가방 | 기본 숙련도 (복/가방) | 경험치 (복) | 비고 |
 | --- | --- | --- | --- | --- | --- |
 | 입문 | 사냥꾼의 옷 | (없음) | — | — | 숙련도 보너스 없음 |
-| **1단계** | **로기아 수렵꾼의 옷** | **로기아 수렵 가방** | +3 / +3 | +3% / +10% | 고(III) +130·+23% / 동(V) +280·+28% ([비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)) |
-| **2단계** | **로바우의 수렵복** | **로바우 수렵 가방** | +4 / +4 | +4% | 고(III) +180·+24% ([비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)) |
-| **3단계 (최종)** | **마노스 수렵꾼의 옷** | **마노스 수렵 가방** | +5 / +5 | +5% | 동(V) +400·+40% ([비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)) |
+| **1단계** | **로기아 수렵꾼의 옷** | **로기아 수렵 가방** | +3 / +3 | +3% / +10% | 고(III) +130·+23% / 동(V) +280·+28% ([비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)) |
+| **2단계** | **로바우의 수렵복** | **로바우 수렵 가방** | +4 / +4 | +4% | 고(III) +180·+24% ([비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)) |
+| **3단계 (최종)** | **마노스 수렵꾼의 옷** | **마노스 수렵 가방** | +5 / +5 | +5% | 동(V) +400·+40% ([비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)) |
 
 ### 2-1-1. 수렵복 강화 단계별 스탯 (고·유·동)
 
@@ -128,7 +128,7 @@ featured: true
 | **유(IV)** | +200 | +23% | +250 | +24% | +300 | +25% |
 | **동(V)** | +280 | +28% | +330 | +33% | +400 | +40% |
 
-> 로기아 **기본**은 숙련도 +3·경험치 +3%입니다. 로기아를 **동(V)** 까지 올려도 경험치 **+28%** 로 **마노스 고(III) +25%** 와 비슷한 수준이므로, 응축 결정 투자 전 **로바우·마노스 교체 시점**을 [비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)에서 함께 검토하세요.
+> 로기아 **기본**은 숙련도 +3·경험치 +3%입니다. 로기아를 **동(V)** 까지 올려도 경험치 **+28%** 로 **마노스 고(III) +25%** 와 비슷한 수준이므로, 응축 결정 투자 전 **로바우·마노스 교체 시점**을 [비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)에서 함께 검토하세요.
 
 **획득 방법:** 대장장이 **제작**, **통합 거래소** 구매, **올비아 아카데미 보상** (아래 5장).
 
@@ -193,7 +193,7 @@ featured: true
 | 요리 | **햄버그** (사자 고기) | 수렵·전투 겸용 |
 | 교회 | **엘리온교의 축복 — 모험** 등 | 경험치·능력치 (3M 은화 등) |
 | 별채 | 생활 경험치 별채 | 거점 별채 설치 시 |
-| 의상 (유료) | **그랑베어 의상** | 수렵 경험치·장전 탄. [매듭으로 가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) (공속 +2는 추출 안 됨) |
+| 의상 (유료) | **그랑베어 의상** | 수렵 경험치·장전 탄. [매듭으로 가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) (공속 +2는 추출 안 됨) |
 | 가구 | **머리 박제** (수렵 전리품) | 주거지 버프 (회복·공격력 등) |
 | 주문서 (기간) | **아그리스의 축복 주문서** | **아이템 획득 확률 +50%** · 60분 · 재사용 60분 ([9/22](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR)) |
 
@@ -254,7 +254,7 @@ featured: true
 | --- | --- | --- | --- | --- |
 | **입문** | 수렵 경험치 | 수렵 숙련도 | **매의 눈** (+8% 경험치) | 유물 +5%·+10 숙련도 포함 |
 | **중반·실전** | 수렵 경험치 | 수렵 숙련도 | **눈 깜짝할 사이** | 재장전 +10% · 경험치·숙련도 균형 |
-| **숙련도 400+** | 수렵 숙련도 | 수렵 경험치 | **전설의 총잡이** (+30 숙련도) | [수렵복 비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)와 합산 계산 |
+| **숙련도 400+** | 수렵 숙련도 | 수렵 경험치 | **전설의 총잡이** (+30 숙련도) | [수렵복 비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)와 합산 계산 |
 | **숙련도 충분·레벨만** | 수렵 경험치 | 수렵 숙련도 | **선택과 집중 : 수렵** (+35% 경험치) | 숙련도 −500 주의 |
 
 **획득 팁**
@@ -391,7 +391,7 @@ featured: true
 | 시간 | 강의 일괄 (1~2일) | 분산 파밍 |
 | 조건 | **60+ · 아카데미 입학** | 없음 |
 
-이미 올비아를 **전투만** 수료했다면, 수렵 강의·생활 보상은 **같은 기수** 안에서 병행해야 합니다. [하이퍼 부스트·올비아 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/)와 함께 보면 일정 잡기 쉽습니다.
+이미 올비아를 **전투만** 수료했다면, 수렵 강의·생활 보상은 **같은 기수** 안에서 병행해야 합니다. [하이퍼 부스트·올비아 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)와 함께 보면 일정 잡기 쉽습니다.
 
 ---
 
@@ -486,6 +486,6 @@ featured: true
 
 ## 정리
 
-수렵은 **화승총 + 도축칼 + 수렵복/가방** 세트가 갖춰져야 시작이고, **해물 크론 정식·신록의 영약**이 레벨 속도를 결정합니다. **생활 통합 UI**의 **세스라의 유물**과 **풀의 광명석 조합**(눈 깜짝할 사이·선택과 집중 : 수렵 등)으로 경험치·숙련도를 한층 더 올릴 수 있습니다. 장비는 **로기아 → 로바우 → 마노스 동(V)** 이 정석이며, **올비아 아카데미 수렵 강의**는 로바우 고III와 장인~명장 레벨을 한 번에 밀어 주는 가장 큰 지원입니다. 수렵복 단계별 숙련도·경험치는 **[비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)** 에서 확인할 수 있습니다.
+수렵은 **화승총 + 도축칼 + 수렵복/가방** 세트가 갖춰져야 시작이고, **해물 크론 정식·신록의 영약**이 레벨 속도를 결정합니다. **생활 통합 UI**의 **세스라의 유물**과 **풀의 광명석 조합**(눈 깜짝할 사이·선택과 집중 : 수렵 등)으로 경험치·숙련도를 한층 더 올릴 수 있습니다. 장비는 **로기아 → 로바우 → 마노스 동(V)** 이 정석이며, **올비아 아카데미 수렵 강의**는 로바우 고III와 장인~명장 레벨을 한 번에 밀어 주는 가장 큰 지원입니다. 수렵복 단계별 숙련도·경험치는 **[비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)** 에서 확인할 수 있습니다.
 
 ※ 패치에 따라 장비 등급·올비아 일정·가문 통합 생활 장비 등이 변경될 수 있습니다. 명장·마르니 저격 개량, 야생의 에다니아 일일, 아침의 나라 저격 체력은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR), 아그리스의 축복 주문서는 [2026년 9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) 기준입니다. 진행 직전 [검은사막 공식 홈페이지](https://www.kr.playblackdesert.com/) 공지를 확인하세요.

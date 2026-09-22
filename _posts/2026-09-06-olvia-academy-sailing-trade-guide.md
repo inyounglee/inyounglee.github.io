@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** · 올비아 아카데미 **항해/교역 강의** 기준으로 정리했습니다. ([공식 — 올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429) · [9/22 선박·물물교환 편의 개선](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
 
-> 관련: [하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/) · [엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) · [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [항해 배 종류·증축·중범선](https://www.inyounglee.kr/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/)
+> 관련: [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/) · [엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/) · [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [항해 배 종류·증축·중범선](/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/)
 
 # 올비아 아카데미로 항해·교역 시작하기
 
@@ -259,7 +259,7 @@ ESC → 「물물교환」 검색 → 1단계 필터
 
 ## 6. 엠마 기록일지 · 까마귀의 둥지와 함께 진행
 
-[엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) **2장**은 `[까마귀의 둥지] 까마귀의 용병` 완료가 조건입니다. 이 연속 의뢰는 **먼 바다 섬**에서 진행되므로 **배가 필수**입니다.
+[엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/) **2장**은 `[까마귀의 둥지] 까마귀의 용병` 완료가 조건입니다. 이 연속 의뢰는 **먼 바다 섬**에서 진행되므로 **배가 필수**입니다.
 
 | 상황 | 배 구하는 법 |
 | --- | --- |
@@ -430,11 +430,11 @@ ESC → 「물물교환」 검색 → 1단계 필터
 | [9/22 선박·물물교환 편의 (공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) | 원격 선착장 · 거리 표기 · 길찾기 |
 | [광명석 조합식 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=273) | 항해·교역 조합 원문 |
 | [2026 생활 유물·광명석 추천](https://www.inven.co.kr/board/black/3584/59027) | 〈바다의 포옹〉 등 최종 세팅 |
-| [항해 배 종류·증축·중범선](https://www.inyounglee.kr/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/) | 경범선 이후 증축 |
+| [항해 배 종류·증축·중범선](/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/) | 경범선 이후 증축 |
 | [대양의 모든 것 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=243) | 함포·충각·물물교환 |
 | [생활 수업 간단 공략 (블루포겟)](https://blueforget.tistory.com/564) | 항해 포함 생활 전 과목 요약 |
 | [까마귀의 둥지 연속 의뢰](https://blueforget.tistory.com/263) | 엠마 일지 2장 · 먼 바다 선행 |
-| [엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) | 카라자드 강화 지원 일지 |
+| [엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/) | 카라자드 강화 지원 일지 |
 | [인벤 — 생활퀘 시간절약 팁](https://www.inven.co.kr/board/black/3584/58485) | 물교·헤카루 동선 |
 
 ※ 올비아 기수·의뢰 목표·선박 지원 조건은 패치에 따라 바뀔 수 있습니다. 진행 직전 게임 내 아카데미 UI와 공식 공지를 확인하세요.

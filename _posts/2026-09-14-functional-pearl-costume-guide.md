@@ -11,11 +11,11 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판** 펄상점 기능성 의상입니다. 가격은 공식 상점 안내의 **정가**이고, 할인·선택 상자는 기간 상품이라 **F3에서 현재 가격**을 다시 보세요.
 
-> 가문 공유 방법: [생활 펄장비를 가문내 모든 캐릭에서 공유 사용할 수 있는 방법 가이드](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · 공식 [9월 2일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) · [그랑베어 출시 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14783)
+> 가문 공유 방법: [생활 펄장비를 가문내 모든 캐릭에서 공유 사용할 수 있는 방법 가이드](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · 공식 [9월 2일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) · [그랑베어 출시 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14783)
 
 # 모든 기능성 펄의상의 종류, 착용효과, 필요성 정리
 
-펄상점 기능성 의상은 **10종**입니다. 생활 6종은 [메르브의 은바늘](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)로 매듭을 뽑으면 가문 공유가 되고, **낚시복·잠수복·위장복 3계통은 매듭이 없어** 그 캐릭터에 직접 입어야 합니다.
+펄상점 기능성 의상은 **10종**입니다. 생활 6종은 [메르브의 은바늘](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)로 매듭을 뽑으면 가문 공유가 되고, **낚시복·잠수복·위장복 3계통은 매듭이 없어** 그 캐릭터에 직접 입어야 합니다.
 
 한 가문에 **같은 매듭은 1벌**이면 됩니다. 직업마다 사야 하는 것은 매듭이 안 되는 의상뿐입니다.
 
@@ -49,11 +49,11 @@ featured: false
 - **기능성 세트(또는 상품에 적힌 기능성 효과)가 켜진 상태**에서는, 그 의상이 **생활·수영·위장 등 전용 효과만** 주고, **일반 펄의 부위·세트 효과는 받지 못합니다.** 예: 그랑베어를 풀로 입으면 수렵 경험치·장전 탄·공속은 받지만, 같은 벌로 일반 펄 세트(+10m·점프 등)는 **동시에 안 뜹니다.**
 - **예외**는 **상품 설명에 일반 부위 효과까지 따로 적힌 경우**뿐입니다. 표의 **카나페**처럼 설명이 그렇게 써 있으면 그 문구에 적힌 만큼만 일반 효과도 같이 갑니다. 설명에 없는 일반 세트는 여전히 없습니다.
 - **추출 전** 기능성 의상에는 **흑정령의 발톱 소켓이 안 뚫립니다.** 발톱으로 수정칸을 열고 매듭 효과를 켜는 용도로 쓸 수 없습니다. **2026년 9월 22일**부터 기능성 펄의상·**의상 교환권**으로 만든 제작 의상 설명에도 **발톱 사용 불가**가 공식으로 붙습니다.
-- **은바늘로 매듭을 뽑은 뒤** 남는 의상은 생활 기능이 빠진 **일반 펄 외형**이 됩니다. 그때부터는 일반 펄처럼 **발톱을 뚫을 수 있고**, 일반 부위·세트 효과도 받을 수 있습니다. 매듭 효과를 켜려면 [가문 공유 가이드](https://www.inyounglee.com/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)처럼 **발톱을 쓴 펄 의상**(추출 후 남은 외형 또는 다른 일반 펄)을 입어야 합니다.
+- **은바늘로 매듭을 뽑은 뒤** 남는 의상은 생활 기능이 빠진 **일반 펄 외형**이 됩니다. 그때부터는 일반 펄처럼 **발톱을 뚫을 수 있고**, 일반 부위·세트 효과도 받을 수 있습니다. 매듭 효과를 켜려면 [가문 공유 가이드](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)처럼 **발톱을 쓴 펄 의상**(추출 후 남은 외형 또는 다른 일반 펄)을 입어야 합니다.
 
 ### 2-1. 은바늘로 가문 공유되는 6종
 
-만드는 법은 [가문 공유 가이드](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)를 보면 됩니다. 여기에는 착용 효과만 둡니다.
+만드는 법은 [가문 공유 가이드](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)를 보면 됩니다. 여기에는 착용 효과만 둡니다.
 
 | 의상 | 부위 효과 | 세트 효과 | 풀세트로 받는 합 | 매듭에 들어가는 것 |
 | --- | --- | --- | --- | --- |
@@ -127,6 +127,6 @@ featured: false
 
 ## 참고
 
-- [생활 펄장비 가문 공유 가이드](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) — 은바늘·매듭·발톱 절차
+- [생활 펄장비 가문 공유 가이드](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) — 은바늘·매듭·발톱 절차
 - 공식 [9월 2일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) — 매듭 효과, 그랑베어 공속 미추출
 - 공식 [그랑베어](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14783) · [2026년 1월 14일 가격표](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=15073) · [위장복 가격 조정](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=13075)

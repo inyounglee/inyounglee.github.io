@@ -9,7 +9,7 @@ image_alt: 레미타롱솜의 동동 램프 제작 가이드 썸네일
 featured: false
 ---
 
-← **[보물 아이템 목록](https://www.inyounglee.kr/blackdesert/2026/09/02/black-desert-treasure-list/)** · 2026년 9월 기준 한국 PC판 · [공식 가이드](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=194)
+← **[보물 아이템 목록](/blackdesert/2026/09/02/black-desert-treasure-list/)** · 2026년 9월 기준 한국 PC판 · [공식 가이드](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=194)
 
 # 레미타롱솜의 동동 램프 제작 가이드
 

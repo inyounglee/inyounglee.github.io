@@ -9,9 +9,9 @@ image_alt: 하이퍼 부스트 이후 고수익 사냥터 가이드 썸네일
 featured: true
 ---
 
-아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준입니다. 장비 루트는 [하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/)를 마친 뒤, **은화를 벌 사냥터**만 정리합니다. 드랍 목록·지식·의뢰·거점 투자 수치는 패치마다 바뀌므로 **게임 안 사냥터 정보 UI**를 기준으로 보세요. ([모험가 가이드 — 사냥터 정보](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=312))
+아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준입니다. 장비 루트는 [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)를 마친 뒤, **은화를 벌 사냥터**만 정리합니다. 드랍 목록·지식·의뢰·거점 투자 수치는 패치마다 바뀌므로 **게임 안 사냥터 정보 UI**를 기준으로 보세요. ([모험가 가이드 — 사냥터 정보](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=312))
 
-> 관련: [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/) · [GM노트 — 성장 이정표](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15761)
+> 관련: [액세서리 업그레이드 가이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) · [GM노트 — 성장 이정표](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15761)
 
 # 검은사막 하이퍼 부스트 이후 고수익 사냥터
 
@@ -172,7 +172,7 @@ featured: true
 
 아에테리온이 익숙해지고 표기 공이 370에 가까워지면 **님파마레 → 오르비타 → 테네브라움 → 제피로스** 순입니다. 추천 공/방은 대략 370/440, 380/450, 390/450, 395/460입니다. 잡템 단가와 기믹이 자리마다 다르고, 2026년 9월 22일부터 **에메시아 내성은 최상위(#최상위) 목록에서 빠졌습니다.** ([9/22 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
 
-이 구간 드랍·주간 보상·에다나 축복은 **사냥터 정보**와 해당 성 주변 NPC에서 확인하는 것이 정확합니다. 악세는 계속 [카라자드 → 에크레타/아페론](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/)으로 올리면 됩니다.
+이 구간 드랍·주간 보상·에다나 축복은 **사냥터 정보**와 해당 성 주변 NPC에서 확인하는 것이 정확합니다. 악세는 계속 [카라자드 → 에크레타/아페론](/blackdesert/2026/09/04/accessory-upgrade-guide/)으로 올리면 됩니다.
 
 ---
 

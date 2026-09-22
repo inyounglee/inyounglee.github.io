@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 재배](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=94), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [2026년 6월 4일 재배 개편](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15694)을 우선 참고했습니다. 두더지 6마리 동시 출현은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR)의 기간 이벤트입니다.
 
-> 관련: [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [아그리스 매듭·가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)
+> 관련: [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [아그리스 매듭·가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)
 
 # 검은사막 재배 생활 가이드
 
@@ -175,11 +175,11 @@ featured: false
 | --- | --- | --- |
 | **농사꾼의 옷** | 재배 경험치 **+10%**, 채집 속도 +1 | 초급 10+ · **강화 불가** · 의뢰로 획득 또는 NPC 구매 |
 | **은자수 농사꾼의 옷** | 재배 경험치 **+5~+40%**, 이동 속도 +1 | **+0~+5** 강화. 재배·무역 은자수는 2025년 8월 삭제에서 **제외** |
-| **아그리스** (펄 · 매듭) | 재배 경험치 **+30%**, 수확/품종 개량 **−2초** | 옷이 아니라 **매듭**. [은바늘로 가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) |
+| **아그리스** (펄 · 매듭) | 재배 경험치 **+30%**, 수확/품종 개량 **−2초** | 옷이 아니라 **매듭**. [은바늘로 가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) |
 
 **2026년 9월 2일** [생활 장비 통합](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16141&countryType=ko-KR) 이후, 옷·유물·매듭은 **생활 통합 UI → 재배**에 장착합니다. 가문 공유이며, 실제 **재배 활동**을 할 때 효과가 적용됩니다. 은자수 옷과 아그리스 매듭은 슬롯이 달라 **같이** 넣을 수 있습니다.
 
-> 울타리를 여러 개 돌리며 **직접 수확·품종 개량**을 한다면 아그리스의 −2초가 체감이 큽니다. 일꾼만 맡기면 우선순위는 내려갑니다. 상세는 [기능성 펄의상 가이드](https://www.inyounglee.kr/blackdesert/2026/09/14/functional-pearl-costume-guide/)를 보세요.
+> 울타리를 여러 개 돌리며 **직접 수확·품종 개량**을 한다면 아그리스의 −2초가 체감이 큽니다. 일꾼만 맡기면 우선순위는 내려갑니다. 상세는 [기능성 펄의상 가이드](/blackdesert/2026/09/14/functional-pearl-costume-guide/)를 보세요.
 
 ### 2-1-1. 은자수 농사꾼의 옷 — 강화 단계별 차이
 
@@ -242,7 +242,7 @@ featured: false
 
 | 종류 | 아이템 | 효과 |
 | --- | --- | --- |
-| 의상 (유료) | **아그리스** | 재배 경험치 +30% · 수확/개량 −2초. [매듭으로 가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) |
+| 의상 (유료) | **아그리스** | 재배 경험치 +30% · 수확/개량 −2초. [매듭으로 가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) |
 | 옷 | **농사꾼의 옷** / **은자수 농사꾼의 옷** | 재배 경험치 +10% / +5~+40% |
 | 교회 | **엘리온교의 축복 — 모험** 등 | 경험치·능력치 |
 | 별채 | 생활 경험치 별채 | 거점 별채 설치 시 |
@@ -479,7 +479,7 @@ featured: false
 | 장비 | 농사꾼의 옷은 직접 구매 | 동일 |
 | 조건 | **60+ · 아카데미 입학** | 없음 |
 
-이미 올비아를 **전투만** 수료했다면, 재배 강의·생활 보상은 **같은 기수** 안에서 병행해야 합니다. [하이퍼 부스트·올비아 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/)와 [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/)와 함께 보면 일정 잡기 쉽습니다.
+이미 올비아를 **전투만** 수료했다면, 재배 강의·생활 보상은 **같은 기수** 안에서 병행해야 합니다. [하이퍼 부스트·올비아 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)와 [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/)와 함께 보면 일정 잡기 쉽습니다.
 
 ---
 
@@ -591,10 +591,10 @@ featured: false
 | [2026 생활 유물·광명석 추천](https://www.inven.co.kr/board/black/3584/59027) | 재배 최종 〈마력이 깃든 땅〉 |
 | [올비아 아카데미 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429) | 패스 레벨 · 주화 |
 | [생활 수업 간단 공략 (블루포겟)](https://blueforget.tistory.com/564) | 재배 강의 시간 절약 |
-| [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) | 같은 형식 · 올비아 채집 강의 |
-| [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) | 같은 형식의 생활 가이드 · 올비아 병행 |
-| [올비아 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 재배와 같은 패스 경험치 곡선 |
-| [아그리스 매듭·가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) | 재배 경험치 +30% · −2초 |
+| [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) | 같은 형식 · 올비아 채집 강의 |
+| [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) | 같은 형식의 생활 가이드 · 올비아 병행 |
+| [올비아 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 재배와 같은 패스 경험치 곡선 |
+| [아그리스 매듭·가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) | 재배 경험치 +30% · −2초 |
 
 ---
 

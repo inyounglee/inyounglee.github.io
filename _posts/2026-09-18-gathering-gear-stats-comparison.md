@@ -11,9 +11,9 @@ featured: false
 
 아래 수치는 **2026년 9월 기준 한국 검은사막 PC판**입니다. 채집복은 상의·장갑·신발·투구 슬롯, 채집 도구는 **벌목 도끼**를 대표로 적었습니다. 호미·곡괭이·수액·도축·무두질 도구의 **숙련도 곡선은 벌목 도끼와 같습니다.** 액세서리·유물·버프는 **포함하지 않았습니다.**
 
-채집 입문·종류·올비아 보상 등 전체 흐름은 **[채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/)** 에서 다룹니다. 이 글은 **채집복·도구의 단계별 숙련도·경험치%** 와 **채집 소요 시간 표기**를 비교합니다.
+채집 입문·종류·올비아 보상 등 전체 흐름은 **[채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/)** 에서 다룹니다. 이 글은 **채집복·도구의 단계별 숙련도·경험치%** 와 **채집 소요 시간 표기**를 비교합니다.
 
-수렵복과 숫자 곡선이 같으므로, 수렵만 볼 때는 **[수렵복 비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)** 를 보세요.
+수렵복과 숫자 곡선이 같으므로, 수렵만 볼 때는 **[수렵복 비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)** 를 보세요.
 
 # 채집복·채집 도구 숙련도·경험치 비교
 
@@ -36,7 +36,7 @@ featured: false
 
 ## 채집복 핵심 비교표 (고·유·동) {#clothes}
 
-로기아·카르타·마노스 채집복의 **고(III)·유(IV)·동(V)** 스탯을 나란히 비교한 표입니다. 로기아는 **기본(+0)** 도 함께 적었습니다. 수치는 [수렵복 비교](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)와 **동일 곡선**입니다.
+로기아·카르타·마노스 채집복의 **고(III)·유(IV)·동(V)** 스탯을 나란히 비교한 표입니다. 로기아는 **기본(+0)** 도 함께 적었습니다. 수치는 [수렵복 비교](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)와 **동일 곡선**입니다.
 
 | 채집복 | 강화 | 채집 숙련도 | 채집 경험치 | 비고 |
 | --- | --- | ---: | ---: | --- |
@@ -166,7 +166,7 @@ featured: false
 
 **마력이 깃든 채집 도구**는 시간 **−3초**·확률 +80%이지만 **숙련도 희귀 보너스가 없습니다.** 레벨용이고, 수익·희귀는 **마노스·도스터** 쪽입니다.
 
-복 + 도구를 **같은 강화**로 맞추면 숙련도가 거의 두 배가 됩니다. 예: 마노스 옷 동(V) +400 + 마노스 도끼 동(V) +400 = 장비만 **800**. 유물·광명석·액세서리는 [채집 가이드 4장](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/)에서 더합니다.
+복 + 도구를 **같은 강화**로 맞추면 숙련도가 거의 두 배가 됩니다. 예: 마노스 옷 동(V) +400 + 마노스 도끼 동(V) +400 = 장비만 **800**. 유물·광명석·액세서리는 [채집 가이드 4장](/blackdesert/2026/09/18/gathering-lifeskill-guide/)에서 더합니다.
 
 ### 채집 소요 시간 — 2025년 11월 12일 표기 {#gather-time}
 
@@ -201,9 +201,9 @@ featured: false
 
 ## 함께 보면 좋은 글
 
-- **[채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/)** — 아홉 종류·버프·올비아·뿌리 깊은 손 전체
+- **[채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/)** — 아홉 종류·버프·올비아·뿌리 깊은 손 전체
 - [11월 12일 채집 소요 시간 표기 (공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14769) — 기본 −8초 · 툴팁은 추가 초
-- [수렵복 비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/) — 같은 숙련도·경험치 곡선
+- [수렵복 비교표](/blackdesert/2026/09/01/hunting-armor-stats-comparison/) — 같은 숙련도·경험치 곡선
 - [모험가 가이드 — 채집](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=97) (공식)
 - [로기아 채집꾼의 옷](https://black.inven.co.kr/dataninfo/item/?code=705513) · [카르타 채집복](https://black.inven.co.kr/dataninfo/item/?code=705515) · [마노스 채집꾼의 옷](https://black.inven.co.kr/dataninfo/item/?code=705517) (인벤 DB)
 

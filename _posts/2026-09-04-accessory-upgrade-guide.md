@@ -11,7 +11,7 @@ featured: true
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 업데이트를 반영한 정리입니다. 하이퍼 부스트 이후 **본캐 악세의 주 루트는 카라자드 → 에크레타/아페론**입니다. 관련 글:
 
-> **[하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/)** · **[카라자드 개량 요약](https://www.inyounglee.kr/blackdesert/2026/08/14/kharazad-accessory-reform/)** · **[카라자드 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)** · 공식 [카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389)
+> **[하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)** · **[카라자드 개량 요약](/blackdesert/2026/08/14/kharazad-accessory-reform/)** · **[카라자드 개량 재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/)** · 공식 [카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389)
 
 # 검은사막 액세서리 업그레이드 가이드
 
@@ -48,7 +48,7 @@ featured: true
 
 ## 하이퍼 부스트 이후 — 카라자드 전 단계 악세 취급
 
-[하이퍼 부스트](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/)로 **동(V) 카라자드 6부위**를 의뢰만으로 받을 수 있게 되면서, **본캐 스펙업용으로 노란 악세(툰그라드·카포티아·데보레카 등)를 길게 키울 이유가 크게 줄었습니다**.
+[하이퍼 부스트](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)로 **동(V) 카라자드 6부위**를 의뢰만으로 받을 수 있게 되면서, **본캐 스펙업용으로 노란 악세(툰그라드·카포티아·데보레카 등)를 길게 키울 이유가 크게 줄었습니다**.
 
 | 악세 종류 | 하이퍼 부스트 이후 권장 |
 | --- | --- |
@@ -58,7 +58,7 @@ featured: true
 | **동(V) 데보레카** | 클로린스 교환 → **단(IX) 카라자드** (+ 진 새벽의 수정) — 고가·고스펙 우회로 |
 | **0강~저강 카라자드** | 알루스틴으로 동(V)를 받은 뒤 그 위에서 올리는 것이 기본 |
 
-> 예전처럼 「동 툰그라드 → 유 카포 → 데보레카」를 본캐 메인 루트로 밟을 필요는 없습니다. 남는 유/동 노란 악세는 **새벽의 정수 재료**로 쓰는 편이 일반적입니다. 정수·가열 상세는 [카라자드 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)를 보세요.
+> 예전처럼 「동 툰그라드 → 유 카포 → 데보레카」를 본캐 메인 루트로 밟을 필요는 없습니다. 남는 유/동 노란 악세는 **새벽의 정수 재료**로 쓰는 편이 일반적입니다. 정수·가열 상세는 [카라자드 개량 재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/)를 보세요.
 
 ---
 
@@ -89,7 +89,7 @@ featured: true
 
 ## 0단계 — 입문: 투발라 악세 (임시)
 
-시즌 패스 **53레벨** 등으로 **동(V) 투발라 악세**를 받습니다. ([하이퍼 부스트 1단계](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-1))
+시즌 패스 **53레벨** 등으로 **동(V) 투발라 악세**를 받습니다. ([하이퍼 부스트 1단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-1))
 
 | 항목 | 내용 |
 | --- | --- |
@@ -116,7 +116,7 @@ featured: true
 | 귀걸이 | 2 | 17×2 |
 | **합** | **6** | **131** |
 
-상세 진행은 [하이퍼 부스트 3단계](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-3)를 보세요.
+상세 진행은 [하이퍼 부스트 3단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-3)를 보세요.
 
 ### 이 단계 부위 순서
 
@@ -141,8 +141,8 @@ featured: true
 | 운(VI) → 우(VII) | 확정 강화석 2 + 하락 방지 망치 |
 | 우(VII) → 풍(VIII) | 확정 강화석 2 |
 
-장별 조건·보상·선행 의뢰: **[엠마 바탈리의 기록일지 진행 가이드](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/)**  
-(이고르 바탈리 모험일지 5권 선행 필요 — [하이퍼 부스트 5단계](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5))
+장별 조건·보상·선행 의뢰: **[엠마 바탈리의 기록일지 진행 가이드](/blackdesert/2026/09/06/emma-bartali-journal-guide/)**  
+(이고르 바탈리 모험일지 5권 선행 필요 — [하이퍼 부스트 5단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5))
 
 ### 추천 부위 순서 (동 → 운 → 우)
 
@@ -397,13 +397,13 @@ I단계는 권좌의 자격 완료만으로 열리고, II~X는 **바로 앞 단�
 ### 에크레타·아페론 개량
 
 카라자드와 **같은 술잔**(고요한 새벽 / 쓸쓸한 황혼 / 무심한 태양 / 적막한 밤빛)을 사용합니다. 효과도 동일(생명력·모든 AP·치피 등).  
-상세는 [카라자드 개량 요약](https://www.inyounglee.kr/blackdesert/2026/08/14/kharazad-accessory-reform/) · [재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)를 보세요.
+상세는 [카라자드 개량 요약](/blackdesert/2026/08/14/kharazad-accessory-reform/) · [재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/)를 보세요.
 
 ---
 
 ## 개량은 언제? 어느 부위부터?
 
-상세 재료·술잔·거래소는 **[카라자드 개량 요약](https://www.inyounglee.kr/blackdesert/2026/08/14/kharazad-accessory-reform/)** · **[재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)** 참고.
+상세 재료·술잔·거래소는 **[카라자드 개량 요약](/blackdesert/2026/08/14/kharazad-accessory-reform/)** · **[재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/)** 참고.
 
 ### 개량 효과 (부위당)
 
@@ -470,10 +470,10 @@ I단계는 권좌의 자격 완료만으로 열리고, II~X는 **바로 앞 단�
 
 | 글 | 내용 |
 | --- | --- |
-| [하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/) | 동 카라자드 획득·공방합 루트 |
-| [엠마 바탈리의 기록일지 진행 가이드](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) | 장별 조건·보상·선행 의뢰 |
-| [카라자드 액세서리 개량 정리](https://www.inyounglee.kr/blackdesert/2026/08/14/kharazad-accessory-reform/) | 개량 효과·술잔 요약 (에크레타·아페론에도 동일 술잔) |
-| [카라자드 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/) | 새벽의 정수·술잔·밤의 조각 |
+| [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/) | 동 카라자드 획득·공방합 루트 |
+| [엠마 바탈리의 기록일지 진행 가이드](/blackdesert/2026/09/06/emma-bartali-journal-guide/) | 장별 조건·보상·선행 의뢰 |
+| [카라자드 액세서리 개량 정리](/blackdesert/2026/08/14/kharazad-accessory-reform/) | 개량 효과·술잔 요약 (에크레타·아페론에도 동일 술잔) |
+| [카라자드 개량 재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/) | 새벽의 정수·술잔·밤의 조각 |
 | [공식 — 카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389) | 능력치·강화 확률·교환 의뢰 |
 
 ※ 강화 확률·정수·종말의 어스름 시세·교환 규칙은 패치에 따라 바뀔 수 있습니다. 아페론 가열 제작 삭제·파편석 역변환은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR), 에메시아 내성 티어·드랍은 [2026년 9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) 기준입니다. 진행 직전 공식 공지·가이드를 한 번 더 확인하세요.

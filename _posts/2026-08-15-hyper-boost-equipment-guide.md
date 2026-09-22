@@ -203,7 +203,7 @@ featured: true
 
 ### 3-2. 이후 카라자드 성장
 
-동(V) 카라자드 이후 **어느 부위부터 올릴지·개량은 언제인지**는 [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/)에서 단계별로 정리했습니다. 개량 재료(술잔, 새벽의 정수 등)는 [카라자드 액세서리 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)를 참고하세요.
+동(V) 카라자드 이후 **어느 부위부터 올릴지·개량은 언제인지**는 [액세서리 업그레이드 가이드](/blackdesert/2026/09/04/accessory-upgrade-guide/)에서 단계별로 정리했습니다. 개량 재료(술잔, 새벽의 정수 등)는 [카라자드 액세서리 개량 재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/)를 참고하세요.
 
 ---
 
@@ -275,7 +275,7 @@ featured: true
 
 선행 조건으로 **이고르 바탈리의 모험일지 5권** 완료가 필요합니다 (6단계에서 공방합 보너스도 제공).
 
-> **장별 진행 순서·보상·까마귀의 용병·광 휘장 승급**까지 상세 → **[엠마 바탈리의 기록일지 진행 가이드](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/)**
+> **장별 진행 순서·보상·까마귀의 용병·광 휘장 승급**까지 상세 → **[엠마 바탈리의 기록일지 진행 가이드](/blackdesert/2026/09/06/emma-bartali-journal-guide/)**
 
 ### 5-3. 태고 방어구 강화 지원
 
@@ -347,7 +347,7 @@ featured: true
 ### 「새벽의 정수가 부족해요」
 
 - 알루스틴 의뢰: 60개 (올비아 보상으로 충분)  
-- 이후 카라자드 강화·부위 순서·개량 타이밍: [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/) · [카라자드 개량 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)  
+- 이후 카라자드 강화·부위 순서·개량 타이밍: [액세서리 업그레이드 가이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) · [카라자드 개량 가이드](/blackdesert/2026/08/15/kharazad-reform-info/)  
 - 거래소 구매도 가능 (상한가 1억 은화)
 
 ### 「이미 장비가 있어요 — 하이퍼 부스트를 다시 받을 수 있나요?」
@@ -374,9 +374,9 @@ featured: true
 2. [**올비아 아카데미**로 군왕 무기(616)](#step-2)  
 3. [**알루스틴**으로 카라자드(654)](#step-3)  
 4. [**검은 사당**으로 태고(694)](#step-4)  
-5. **모험일지·메인**으로 750  
+5. [**모험일지·메인**으로 750](#step-6)  
 
-순서대로 진행하면 됩니다. 공방합 750은 끝이 아니라 **에다니아·주간 레이드·카라자드 상위 단계**로 이어지는 출발점입니다. 이후 은화는 **[하이퍼 부스트 이후 고수익 사냥터](https://www.inyounglee.kr/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/)** 에서 공방합·시간당 수익으로 정리했습니다.
+순서대로 진행하면 됩니다. 공방합 750은 끝이 아니라 **에다니아·주간 레이드·카라자드 상위 단계**로 이어지는 출발점입니다. 이후 은화벌이는 **[하이퍼 부스트 이후 고수익 사냥터](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/)** 에서 공방합·시간당 수익으로 정리했습니다.
 
 > **2026년 9월 22일:** 예전 **성장 지원** 의뢰(`[성장 지원] 한계 돌파`, 동(V) 검은별, 유(IV) 카라자드, 그믐달 길드 거래, 동(V) 우두머리, 영롱한 개량석 I 등)는 **새로 수주할 수 없습니다.** 이미 받은 의뢰는 끝까지 진행 가능합니다. 신규·복귀 성장은 **하이퍼 부스트**(시즌 졸업·올비아·알루스틴·검은 사당) 쪽을 보면 됩니다. ([9/22 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
 

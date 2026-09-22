@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준입니다. 선박은 제작도 가능하지만, **본 포스트는 통합 거래소에서 선박 등록증을 구매해 시작하는 전제**로 정리합니다. ([공식 — 중범선 만들기](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=295) · [대양의 모든 것](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=243) · [9/22 선박 편의 개선](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
 
-> 관련: [올비아로 항해·교역 시작](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/)
+> 관련: [올비아로 항해·교역 시작](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/)
 
 # 항해 배 종류와 특징 · 증축 방법과 중범선까지
 
@@ -93,7 +93,7 @@ featured: false
 
 일반 가문이 **교역·괴수·중범선**을 목표로 하면 **에페리아 대형 증축 루트**만 따라가면 됩니다.
 
-> **2026년 9월 22일:** **대형 선박 탑승 중** 나루터지기 근처에서 **하선 없이** 선착장(수리·보급·화물 적재·상점 등)을 쓸 수 있고, 물물교환 UI에 **거리·근처 항구 길찾기**가 붙었습니다. 올비아 입문 동선은 [항해·교역 시작 가이드 3-5절](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)을 보세요.
+> **2026년 9월 22일:** **대형 선박 탑승 중** 나루터지기 근처에서 **하선 없이** 선착장(수리·보급·화물 적재·상점 등)을 쓸 수 있고, 물물교환 UI에 **거리·근처 항구 길찾기**가 붙었습니다. 올비아 입문 동선은 [항해·교역 시작 가이드 3-5절](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)을 보세요.
 
 ---
 
@@ -112,7 +112,7 @@ featured: false
 | 해양 괴수·해상전 위주 | **호위함** |
 | 아직 모르겠음 | **경범선 → 균형** 또는 완성 **중범선 균형**을 거래소로 (시세 여유 시) |
 
-올비아 기간이면 [항해·교역 강의](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)로 **고속정·경범선**을 먼저 받아도 됩니다.
+올비아 기간이면 [항해·교역 강의](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)로 **고속정·경범선**을 먼저 받아도 됩니다.
 
 ---
 
@@ -246,7 +246,7 @@ featured: false
 | --- | --- |
 | [중범선 만들기 (공식)](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=295) | 단계·재료 원문 |
 | [대양의 모든 것 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=243) | 함포·물교·항해 기술 |
-| [올비아 항해·교역 시작](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 고속정·경범선·물교 입문 |
+| [올비아 항해·교역 시작](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 고속정·경범선·물교 입문 |
 | [인벤 중범선 재료 시트](https://www.inven.co.kr/board/black/3584/57366) | 보유량·까주 환산 계산 |
 
 ※ 허가증·재료 수량·시세·증축 조건은 패치와 거래소에 따라 바뀝니다. 증축 직전 **나루터지기 증축 UI**와 공식 가이드를 다시 확인하세요.

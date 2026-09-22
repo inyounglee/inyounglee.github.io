@@ -39,16 +39,16 @@ featured: true
 
 | 보물 | 주요 효과 | 제작 방식 | 난이도 | 거래 | 가이드 |
 | --- | --- | --- | :---: | --- | --- |
-| **오네트의 정령수** | 생명력 **무한 회복** (0.00LT) | 핵심 재료 3종 + 교환 재료 2종 조합 | ★★★☆ | 가능 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-onet-elixir-guide/) |
-| **오도어의 정령수** | 정신력·투지·신성력 **무한 회복** | 핵심 재료 3종 + 교환 재료 2종 조합 | ★★★★ | 가능 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-odore-elixir-guide/) |
-| **라피 베드마운틴의 개량형 나침반** | 사막·대양 **영구 나침반** + 파티원 **집결 소환** | 나침반 부품 3종 + 보석 3종 조합 | ★★★★ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-lafi-compass-guide/) |
-| **고고학자의 지도** | 마을 귀환 후 **30분 내 원위치 복귀** | 지도 조각 4종 + 보석 4종 조합 | ★★★☆ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-archaeologist-map-guide/) |
-| **에벤루스의 놀** | 중범선 **쾌속 순항 +1회** (지구력 무료, 거리 +50%) | 바다악어 지도 → 놀 + 오킬루아 연금 | ★★★★ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-ebenus-wheel-guide/) |
-| **거상의 반지** | 가문 **거래소 수령액 +5%** | 조각 5종 + 보석 조합 (힌트형) | ★★★★★ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-merchant-ring-guide/) |
-| **크로그달로의 둥지** | 꿈결 환상마 3종 **전용 마구간** (최대 5마리) | 꿈결 3종 몽상 후 연속 의뢰 | ★★★★ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-krogdalo-nest-guide/) |
-| **라피 베드마운틴의 개량형 망원경** | 파티·길드원 **위치로 순간이동** (본인 이동) | 망원경 부품 3종 + 보석 조합 | ★★★★ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-lafi-telescope-guide/) |
-| **레미타롱솜의 동동 램프** | **페리도트 숲길 마차** 동력 무한 회복 | 반딧불 조각 4 + 마력 흔적 1 조합 | ★★★☆ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-remitarong-lamp-guide/) |
-| **노스토스의 별** | 야영지에서 **주거지·장원 이동** (30분 쿨) | 6종 채집 재료 → 중간재 6 → 조합 | ★★★☆ | 불가 | [제작 가이드](https://www.inyounglee.kr/blackdesert/2026/09/02/treasure-nostos-star-guide/) |
+| **오네트의 정령수** | 생명력 **무한 회복** (0.00LT) | 핵심 재료 3종 + 교환 재료 2종 조합 | ★★★☆ | 가능 | [제작 가이드](/blackdesert/2026/09/02/treasure-onet-elixir-guide/) |
+| **오도어의 정령수** | 정신력·투지·신성력 **무한 회복** | 핵심 재료 3종 + 교환 재료 2종 조합 | ★★★★ | 가능 | [제작 가이드](/blackdesert/2026/09/02/treasure-odore-elixir-guide/) |
+| **라피 베드마운틴의 개량형 나침반** | 사막·대양 **영구 나침반** + 파티원 **집결 소환** | 나침반 부품 3종 + 보석 3종 조합 | ★★★★ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-lafi-compass-guide/) |
+| **고고학자의 지도** | 마을 귀환 후 **30분 내 원위치 복귀** | 지도 조각 4종 + 보석 4종 조합 | ★★★☆ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-archaeologist-map-guide/) |
+| **에벤루스의 놀** | 중범선 **쾌속 순항 +1회** (지구력 무료, 거리 +50%) | 바다악어 지도 → 놀 + 오킬루아 연금 | ★★★★ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-ebenus-wheel-guide/) |
+| **거상의 반지** | 가문 **거래소 수령액 +5%** | 조각 5종 + 보석 조합 (힌트형) | ★★★★★ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-merchant-ring-guide/) |
+| **크로그달로의 둥지** | 꿈결 환상마 3종 **전용 마구간** (최대 5마리) | 꿈결 3종 몽상 후 연속 의뢰 | ★★★★ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-krogdalo-nest-guide/) |
+| **라피 베드마운틴의 개량형 망원경** | 파티·길드원 **위치로 순간이동** (본인 이동) | 망원경 부품 3종 + 보석 조합 | ★★★★ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-lafi-telescope-guide/) |
+| **레미타롱솜의 동동 램프** | **페리도트 숲길 마차** 동력 무한 회복 | 반딧불 조각 4 + 마력 흔적 1 조합 | ★★★☆ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-remitarong-lamp-guide/) |
+| **노스토스의 별** | 야영지에서 **주거지·장원 이동** (30분 쿨) | 6종 채집 재료 → 중간재 6 → 조합 | ★★★☆ | 불가 | [제작 가이드](/blackdesert/2026/09/02/treasure-nostos-star-guide/) |
 
 ---
 

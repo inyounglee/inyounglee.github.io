@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준으로 정리했습니다. 매듭·생활 통합 UI의 기준 패치는 [9월 2일 생활 장비 통합](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141), UI·설명 보강은 [9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR)를 반영했습니다.
 
-> 관련: [기능성 펄의상 종류·효과·우선순위](https://www.inyounglee.kr/blackdesert/2026/09/14/functional-pearl-costume-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
+> 관련: [기능성 펄의상 종류·효과·우선순위](/blackdesert/2026/09/14/functional-pearl-costume-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
 # 생활 펄장비를 가문내 모든 캐릭에서 공유 사용할 수 있는 방법
 
@@ -76,7 +76,7 @@ featured: false
 | **카나페** | 요리 | 요리 경험치 **+15%**, 요리 시간 **-2초** | 은바늘 1 + **모자** 1 + **옷** 1 + **신발** 1 |
 | **베니아** | 조련 | 탑승물 경험치 **+50%** | 은바늘 1 + **승마 모자** 1 + **승마복** 1 |
 
-기능성 의상의 더 상세한 착용 효과 등 정보는 [기능성 펄의상 종류·효과·우선순위](https://www.inyounglee.kr/blackdesert/2026/09/14/functional-pearl-costume-guide/)를 참고하세요.
+기능성 의상의 더 상세한 착용 효과 등 정보는 [기능성 펄의상 종류·효과·우선순위](/blackdesert/2026/09/14/functional-pearl-costume-guide/)를 참고하세요.
 
 - 베네실과 카르키는 **같은 매듭**입니다. 한쪽만 넣으면 됩니다.
 - 카나페는 기능성 의상 선택 상자에 항상 들어 있지는 않지만, 공식 매듭 레시피에는 포함됩니다. 보유 중이면 추출됩니다.
@@ -202,5 +202,5 @@ featured: false
 - 공식 [9월 2일(수) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) — 생활 장비 통합, 매듭 레시피, 장착 가능 목록
 - 공식 [9월 22일(화) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) — 은바늘 사용 의상 아이콘, 기능성·교환권 의상 발톱 불가 문구
 - 공식 [흑정령의 발톱](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=71)
-- [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) — 그랑베어 매듭을 끼우는 수렵 탭
-- [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) — 아그리스 매듭을 끼우는 재배 탭
+- [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) — 그랑베어 매듭을 끼우는 수렵 탭
+- [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) — 아그리스 매듭을 끼우는 재배 탭

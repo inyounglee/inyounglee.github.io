@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판** · **2026년 8월 5일** [일지 목표 변경](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15998&countryType=ko-KR) 반영 기준입니다. 카라자드 **동(V)→풍(VIII)** 확정 강화·하락 방지 재료를 주는 가문 1회 모험일지입니다. (보상은 변경 전과 동일)
 
-> **[하이퍼 부스트 장비 가이드 — 5-2](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5)** · [액세서리 업그레이드 가이드](https://www.inyounglee.kr/blackdesert/2026/09/04/accessory-upgrade-guide/)
+> **[하이퍼 부스트 장비 가이드 — 5-2](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5)** · [액세서리 업그레이드 가이드](/blackdesert/2026/09/04/accessory-upgrade-guide/)
 
 # 엠마 바탈리의 기록일지 진행 가이드
 
@@ -79,7 +79,7 @@ featured: false
 ### 1장 — 이고르 바탈리 5권
 
 - 모험일지 책장 → **이고르 바탈리의 모험일지** 1~5권 완료
-- 5권까지 가면 가문 **공방합** 보너스도 같이 열리므로 하이퍼 부스트 **750** 루트와도 겹칩니다. ([하이퍼 부스트 6단계](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-6))
+- 5권까지 가면 가문 **공방합** 보너스도 같이 열리므로 하이퍼 부스트 **750** 루트와도 겹칩니다. ([하이퍼 부스트 6단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-6))
 
 ### 2장 — `[까마귀의 둥지] 까마귀의 용병`
 
@@ -87,7 +87,7 @@ featured: false
 - 시작 의뢰: **`[까마귀의 둥지] 까마귀의 둥지로`**
 - 흑정령(`/` 키)을 불러와 **의뢰(A) → 추천 의뢰**에서 수주하여 시작하면 됩니다. (레벨 **56+**)
 - 상세 의뢰 목록·NPC: **[까마귀의 둥지 연속 의뢰](https://blueforget.tistory.com/263)** · [도도리 요약](https://dodoripyogirok.tistory.com/entry/%EC%9D%98%EB%A2%B0-%EC%95%88%EA%B0%9C%EA%B0%80-%EC%9E%90%EC%9A%B1%ED%95%9C-%EB%AF%B8%EC%A7%80%EC%9D%98-%EC%84%AC-%EA%B9%8C%EB%A7%88%EA%B7%80%EC%9D%98-%EB%91%A5%EC%A7%80)
-- 먼 바다 이동용 배가 없으면 → **[올비아 항해·교역 강의](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)** 로 고속정·경범선 수령 (또는 거래소 구매)
+- 먼 바다 이동용 배가 없으면 → **[올비아 항해·교역 강의](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)** 로 고속정·경범선 수령 (또는 거래소 구매)
 
 완료 시 **장 : 불멸의 까마귀 휘장**도 받게 되어, 3장(광 승급) 선행이 됩니다.
 
@@ -176,9 +176,9 @@ featured: false
 
 | 링크 | 용도 |
 | --- | --- |
-| [하이퍼 부스트 5단계](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5) | 일지 위치·카라자드 지원 요약 |
+| [하이퍼 부스트 5단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5) | 일지 위치·카라자드 지원 요약 |
 | [까마귀의 둥지 연속 의뢰](https://blueforget.tistory.com/263) | 2장 `[까마귀의 용병]` |
-| [올비아 항해·교역 시작](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 배 없을 때 고속정·경범선 |
+| [올비아 항해·교역 시작](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 배 없을 때 고속정·경범선 |
 | [불멸의 나락 입장·승급](https://dodoripyogirok.tistory.com/entry/%EB%B6%88%EB%A9%B8%EC%9D%98-%EB%82%98%EB%9D%BD-%EC%9E%85%EC%9E%A5-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%BB%A8%ED%85%90%EC%B8%A0) | 3장 광 휘장 승급 |
 | [능력치 올리기 — 파푸·툰그라드](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=308) | 4장 공식 안내 |
 | [8월 5일 업데이트(공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15998&countryType=ko-KR) | 9~12장 목표 → 어둠의 틈 |
