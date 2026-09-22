@@ -11,7 +11,7 @@ featured: true
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준입니다. 장비 루트는 [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)를 마친 뒤, **은화를 벌 사냥터**만 정리합니다. 드랍 목록·지식·의뢰·거점 투자 수치는 패치마다 바뀌므로 **게임 안 사냥터 정보 UI**를 기준으로 보세요. ([모험가 가이드 — 사냥터 정보](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=312))
 
-> 관련: [액세서리 업그레이드 가이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) · [GM노트 — 성장 이정표](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15761)
+> 관련: [사냥 준비 가이드](/blackdesert/2026/09/22/hunting-prep-guide/) · [액세서리 업그레이드 가이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) · [GM노트 — 성장 이정표](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15761)
 
 # 검은사막 하이퍼 부스트 이후 고수익 사냥터
 
@@ -185,6 +185,6 @@ featured: true
 | 파티·샤이 가능 | 올룬 [데키아 II] |
 | 공 350 / 방 427을 맞춤 | **아에테리온** → 이후 에다니아 |
 
-갈 곳을 정했다면 사냥터 정보에서 **방 · 거점 투자 · 밀실 · 드랍**만 한 번 더 보고 이동하면 됩니다.
+갈 곳을 정했다면 사냥터 정보에서 **방 · 거점 투자 · 밀실 · 드랍**만 한 번 더 보고 이동하면 됩니다. 펫·요정·수정·유물·도핑은 **[사냥 준비 가이드](/blackdesert/2026/09/22/hunting-prep-guide/)** 에서 최소선과 비용을 먼저 맞추면 표의 시간당에 더 가깝습니다.
 
 ※ 추천 공/방·잡템 가격·시간당 은화는 패치와 시세에 따라 바뀝니다. 출발 전 [공식 홈페이지](https://www.kr.playblackdesert.com/)와 게임 안 사냥터 정보를 확인하세요.

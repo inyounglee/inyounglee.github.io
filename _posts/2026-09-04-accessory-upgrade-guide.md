@@ -11,7 +11,7 @@ featured: true
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 업데이트를 반영한 정리입니다. 하이퍼 부스트 이후 **본캐 악세의 주 루트는 카라자드 → 에크레타/아페론**입니다. 관련 글:
 
-> **[하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)** · **[카라자드 개량 요약](/blackdesert/2026/08/14/kharazad-accessory-reform/)** · **[카라자드 개량 재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/)** · 공식 [카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389)
+> **[하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)** · **[사냥 준비 가이드](/blackdesert/2026/09/22/hunting-prep-guide/)** · **[카라자드 개량 요약](/blackdesert/2026/08/14/kharazad-accessory-reform/)** · **[카라자드 개량 재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/)** · 공식 [카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389)
 
 # 검은사막 액세서리 업그레이드 가이드
 
