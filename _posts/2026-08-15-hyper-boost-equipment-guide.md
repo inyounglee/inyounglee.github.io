@@ -378,6 +378,8 @@ featured: true
 
 순서대로 진행하면 됩니다. 공방합 750은 끝이 아니라 **에다니아·주간 레이드·카라자드 상위 단계**로 이어지는 출발점입니다.
 
+> **2026년 9월 22일:** 예전 **성장 지원** 의뢰(`[성장 지원] 한계 돌파`, 동(V) 검은별, 유(IV) 카라자드, 그믐달 길드 거래, 동(V) 우두머리, 영롱한 개량석 I 등)는 **새로 수주할 수 없습니다.** 이미 받은 의뢰는 끝까지 진행 가능합니다. 신규·복귀 성장은 **하이퍼 부스트**(시즌 졸업·올비아·알루스틴·검은 사당) 쪽을 보면 됩니다. ([9/22 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
+
 ※ 수치·의뢰명·재료는 패치에 따라 변경될 수 있습니다. 진행 직전 [검은사막 공식 홈페이지](https://www.kr.playblackdesert.com/) 공지와 모험가 가이드를 한 번 더 확인하는 것을 권장합니다.
 
 [1]: https://blackdesert.pearlabyss.com/Console/ko-KR/News/Notice/Detail?_boardNo=19626 "[GM노트] 막힘없이 초고속 성장, 하이퍼부스트"

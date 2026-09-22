@@ -9,7 +9,7 @@ image_alt: 항해 배 종류와 특징 · 증축 중범선 가이드 썸네일
 featured: false
 ---
 
-아래 내용은 **2026년 9월 기준 한국 검은사막 PC판** 기준입니다. 선박은 제작도 가능하지만, **본 포스트는 통합 거래소에서 선박 등록증을 구매해 시작하는 전제**로 정리합니다. ([공식 — 중범선 만들기](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=295) · [대양의 모든 것](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=243))
+아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준입니다. 선박은 제작도 가능하지만, **본 포스트는 통합 거래소에서 선박 등록증을 구매해 시작하는 전제**로 정리합니다. ([공식 — 중범선 만들기](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=295) · [대양의 모든 것](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=243) · [9/22 선박 편의 개선](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
 
 > 관련: [올비아로 항해·교역 시작](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/)
 
@@ -92,6 +92,8 @@ featured: false
 | **판옥선** | 아침의 나라 관련 대형 선박 | 지역·콘텐츠 특화 (일반 중범선 루트와 별개) |
 
 일반 가문이 **교역·괴수·중범선**을 목표로 하면 **에페리아 대형 증축 루트**만 따라가면 됩니다.
+
+> **2026년 9월 22일:** **대형 선박 탑승 중** 나루터지기 근처에서 **하선 없이** 선착장(수리·보급·화물 적재·상점 등)을 쓸 수 있고, 물물교환 UI에 **거리·근처 항구 길찾기**가 붙었습니다. 올비아 입문 동선은 [항해·교역 시작 가이드 3-5절](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)을 보세요.
 
 ---
 

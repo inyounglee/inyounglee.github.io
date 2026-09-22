@@ -9,7 +9,7 @@ image_alt: 올비아 아카데미 항해·교역 시작 가이드 썸네일
 featured: false
 ---
 
-아래 내용은 **2026년 9월 기준 한국 검은사막 PC판** · 올비아 아카데미 **항해/교역 강의** 기준으로 정리했습니다. ([공식 — 올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429))
+아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** · 올비아 아카데미 **항해/교역 강의** 기준으로 정리했습니다. ([공식 — 올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429) · [9/22 선박·물물교환 편의 개선](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
 
 > 관련: [하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/) · [엠마 바탈리의 기록일지](https://www.inyounglee.kr/blackdesert/2026/09/06/emma-bartali-journal-guide/) · [채집 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [항해 배 종류·증축·중범선](https://www.inyounglee.kr/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/)
 
@@ -156,6 +156,22 @@ ESC → 「물물교환」 검색 → 1단계 필터
 ```
 
 물물교환은 **바탈리 범선부터 증축하는 대형 선박** 계열에서만 됩니다. 경범선 등록을 빼먹지 마세요.
+
+### 3-5. 2026년 9월 22일 — 선착장·물물교환 편의
+
+대형 선박에 **탑승한 채** 나루터지기 근처에 오면 **하선하지 않고** 아래를 쓸 수 있습니다. (이야기 교류·선착장 **맡기기**·**원격 회수**는 불가)
+
+| 기능 | 내용 |
+| --- | --- |
+| **원격 선착장** | NPC **대화·의뢰**, **상점**, **탑승물·내구 수리**, **선원 관리**, **화물 적재** |
+| **수리·보급 통합** | 선착장 NPC의 수리·보급이 **한 버튼**으로 묶였습니다. |
+| **화물 적재에서 판매** | 원격 선착장 **화물 적재** 화면에서 **창고 아이템 판매** 가능 |
+| **마구간/선착장 UI** | 탑승물이 **꺼내진 상태**여도 회복 메뉴 사용 가능 |
+| **물물교환 거리** | 물물교환 정보에 **섬까지 거리** 표기 |
+| **근처 마을/항구** | **물물교환 정보창**에 **근처 마을/항구 가기** 버튼 (탑승물 정보창 쪽 버튼은 **삭제**) |
+| **길찾기** | 선박 **자동 이동(T)** 경로가 개선되어, 지형에 걸리거나 이상한 루트로 빠지던 경우가 줄었습니다. |
+
+올비아 **물물교환 10회**는 여전히 **화물 적재 → 섬 정박 → 교환**이지만, 재료 정리·수리·보급은 **배 위에서** 처리하는 편이 빨라졌습니다.
 
 ---
 
@@ -394,7 +410,7 @@ ESC → 「물물교환」 검색 → 1단계 필터
 | --- | --- |
 | 물물교환이 안 됨 | **경범선** 등록·탑승 · **화물 적재** · ESC **물물교환** 필터(1단계) |
 | 재료를 뭐 사야 할지 모름 | 물물교환 UI에서 교환 줄 **필요 아이템** 확인 → **거래소** 검색 |
-| 교역품을 배에 못 넣음 | 선착장 **화물 적재** 사용 |
+| 교역품을 배에 못 넣음 | 선착장 **화물 적재** (9/22~ **탑승 중 원격 선착장**으로도 가능) |
 | 함포가 안 나감 | 선착장 **포탄 보급** · 갑판 함포에 **직접 상호작용** |
 | 식량이 바닥남 | Ctrl+F **정식** → **선박 정보(F5)** 식량 **+** · 출항 전엔 **나루터 보급**이 더 저렴 |
 | 배가 갑자기 느림 | **내구 50% 이하** → 돛대 뒤 벽 **수리(F6)** |
@@ -411,6 +427,7 @@ ESC → 「물물교환」 검색 → 1단계 필터
 | --- | --- |
 | [올비아 아카데미 공식 가이드](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429) | 입학·보상·주화 |
 | [9/2 생활 장비 통합 (공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16141&countryType=ko-KR) | 유물 → 생활 UI 장착 |
+| [9/22 선박·물물교환 편의 (공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) | 원격 선착장 · 거리 표기 · 길찾기 |
 | [광명석 조합식 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=273) | 항해·교역 조합 원문 |
 | [2026 생활 유물·광명석 추천](https://www.inven.co.kr/board/black/3584/59027) | 〈바다의 포옹〉 등 최종 세팅 |
 | [항해 배 종류·증축·중범선](https://www.inyounglee.kr/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/) | 경범선 이후 증축 |

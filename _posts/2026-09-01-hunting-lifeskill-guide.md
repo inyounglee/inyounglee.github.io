@@ -9,7 +9,7 @@ image_alt: 수렵 생활 가이드 썸네일 — 화승총과 숲 배경
 featured: true
 ---
 
-아래 내용은 **2026년 9월 16일 한국 검은사막 PC판** 업데이트를 반영한 정리입니다. 공식 [모험가 가이드 — 수렵](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=106), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429)를 우선 참고했습니다.
+아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 업데이트를 반영한 정리입니다. 공식 [모험가 가이드 — 수렵](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=106), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429)를 우선 참고했습니다.
 
 > **수렵복 숙련도·경험치만 비교**하고 싶다면 → **[수렵복 비교표 (로기아·로바우·마노스)](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)**
 
@@ -195,6 +195,11 @@ featured: true
 | 별채 | 생활 경험치 별채 | 거점 별채 설치 시 |
 | 의상 (유료) | **그랑베어 의상** | 수렵 경험치·장전 탄. [매듭으로 가문 공유](https://www.inyounglee.kr/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) (공속 +2는 추출 안 됨) |
 | 가구 | **머리 박제** (수렵 전리품) | 주거지 버프 (회복·공격력 등) |
+| 주문서 (기간) | **아그리스의 축복 주문서** | **아이템 획득 확률 +50%** · 60분 · 재사용 60분 ([9/22](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR)) |
+
+**아그리스의 축복 주문서 (2026년 9월 22일~):** **아그리스의 화신** NPC(벨리아 마을·**앙가부 전초기지**)에게 **은화 10억** · **가문 주간 10회**(월요일 00시 초기화). +50%는 **기본 상한 300%를 넘겨** 쌓일 수 있고, 획득 확률 합은 **최대 500%**까지입니다. **~2026년 10월 21일** 정기점검 전 구매 가능, 미사용분은 **11월 4일** 정기점검에 삭제. 동일 기간 **접속 도전과제**로 가문당 **2개** 추가 수령 가능.
+
+**수렵에 쓸 때:** 공식 [아이템 획득 확률 적용 콘텐츠](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=301) 기준, 이 효과는 **몬스터를 처치할 때 바로 들어오는 전리품**에 붙습니다. **도축(칼 채집)으로 얻는 고기·가죽·머리 박제 등은 「처치 후 채집 전리품」**이라 **아이템 획득 확률이 아니라 채집물 획득 확률**(생활 UI **채집** 탭) 쪽입니다. 수렵 루프 대부분이 도축이면 체감은 작고, **처치 즉시 드랍**이 있는 몬스터·사냥터에서만 의미가 큽니다. (**아그리스의 열기**는 확률이 아니라 **잡템 수량** 버프로, 별개입니다.)
 
 **실전 팁:** 장전 중 움직일 수 없어 맞기 쉽습니다. **사냥꾼의 샐러드**는 초보보다 **중급 이후** 체감이 큽니다. 카이아 호수 **민물 악어** 고기로 제작 가능.
 
@@ -483,4 +488,4 @@ featured: true
 
 수렵은 **화승총 + 도축칼 + 수렵복/가방** 세트가 갖춰져야 시작이고, **해물 크론 정식·신록의 영약**이 레벨 속도를 결정합니다. **생활 통합 UI**의 **세스라의 유물**과 **풀의 광명석 조합**(눈 깜짝할 사이·선택과 집중 : 수렵 등)으로 경험치·숙련도를 한층 더 올릴 수 있습니다. 장비는 **로기아 → 로바우 → 마노스 동(V)** 이 정석이며, **올비아 아카데미 수렵 강의**는 로바우 고III와 장인~명장 레벨을 한 번에 밀어 주는 가장 큰 지원입니다. 수렵복 단계별 숙련도·경험치는 **[비교표](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-armor-stats-comparison/)** 에서 확인할 수 있습니다.
 
-※ 패치에 따라 장비 등급·올비아 일정·가문 통합 생활 장비 등이 변경될 수 있습니다. 명장·마르니 저격 개량, 야생의 에다니아 일일, 아침의 나라 저격 체력은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR) 기준입니다. 진행 직전 [검은사막 공식 홈페이지](https://www.kr.playblackdesert.com/) 공지를 확인하세요.
+※ 패치에 따라 장비 등급·올비아 일정·가문 통합 생활 장비 등이 변경될 수 있습니다. 명장·마르니 저격 개량, 야생의 에다니아 일일, 아침의 나라 저격 체력은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR), 아그리스의 축복 주문서는 [2026년 9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) 기준입니다. 진행 직전 [검은사막 공식 홈페이지](https://www.kr.playblackdesert.com/) 공지를 확인하세요.

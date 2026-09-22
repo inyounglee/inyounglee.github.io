@@ -9,7 +9,7 @@ image_alt: 생활 펄장비 가문 공유 가이드 썸네일 — 생활복장
 featured: false
 ---
 
-아래 내용은 **2026년 9월 2일 한국 검은사막 PC판** [생활 장비 통합 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) 기준으로 정리했습니다.
+아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준으로 정리했습니다. 매듭·생활 통합 UI의 기준 패치는 [9월 2일 생활 장비 통합](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141), UI·설명 보강은 [9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR)를 반영했습니다.
 
 > 관련: [기능성 펄의상 종류·효과·우선순위](https://www.inyounglee.kr/blackdesert/2026/09/14/functional-pearl-costume-guide/) · [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](https://www.inyounglee.kr/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
@@ -148,6 +148,8 @@ featured: false
 
 의상 상자는 직업별로 열리므로, 매듭을 뽑은 뒤 남는 외형도 그 직업용입니다. **가문 전체가 같이 쓰는 것은 외형이 아니라 매듭 효과**입니다.
 
+> **2026년 9월 22일:** **메르브의 은바늘**로 매듭을 뽑은 뒤 남는 의상은 아이콘으로 구분됩니다. **의상 교환권으로 만든 제작 의상**과 **기능성 펄의상**(추출 전)은 아이템 설명에 **흑정령의 발톱을 쓸 수 없음**이 명시됩니다. 매듭 효과를 켜려면 추출 후 일반 펄 외형이 되었거나, 원래 발톱이 가능한 **다른 펄 의상**에 발톱을 뚫어 입어야 합니다.
+
 ### 4-2-1. 공작이 안 뜨는 경우 {#manufacture-not-showing}
 
 다른 매듭은 뽑혔는데 특정 의상만 공작 창에 안 뜨면, 재료가 위 표의 레시피와 안 맞는 경우가 대부분입니다. **파빌라(연금복)** 에서 가장 자주 막힙니다.
@@ -198,6 +200,7 @@ featured: false
 ## 참고 {#references}
 
 - 공식 [9월 2일(수) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) — 생활 장비 통합, 매듭 레시피, 장착 가능 목록
+- 공식 [9월 22일(화) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) — 은바늘 사용 의상 아이콘, 기능성·교환권 의상 발톱 불가 문구
 - 공식 [흑정령의 발톱](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=71)
 - [수렵 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/01/hunting-lifeskill-guide/) — 그랑베어 매듭을 끼우는 수렵 탭
 - [재배 생활 가이드](https://www.inyounglee.kr/blackdesert/2026/09/18/farming-lifeskill-guide/) — 아그리스 매듭을 끼우는 재배 탭

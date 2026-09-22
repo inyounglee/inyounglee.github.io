@@ -9,7 +9,7 @@ image_alt: 액세서리 업그레이드 가이드 썸네일 — 카라자드 목
 featured: true
 ---
 
-아래 내용은 **2026년 9월 16일 한국 검은사막 PC판** 업데이트를 반영한 정리입니다. 하이퍼 부스트 이후 **본캐 악세의 주 루트는 카라자드 → 에크레타/아페론**입니다. 관련 글:
+아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 업데이트를 반영한 정리입니다. 하이퍼 부스트 이후 **본캐 악세의 주 루트는 카라자드 → 에크레타/아페론**입니다. 관련 글:
 
 > **[하이퍼 부스트 장비 가이드](https://www.inyounglee.kr/blackdesert/2026/08/15/hyper-boost-equipment-guide/)** · **[카라자드 개량 요약](https://www.inyounglee.kr/blackdesert/2026/08/14/kharazad-accessory-reform/)** · **[카라자드 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/)** · 공식 [카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389)
 
@@ -313,6 +313,19 @@ AP가 큰 부위부터 올립니다.
 | 마가이아 신전 / 엘리언 | 귀걸이·반지·허리띠 |
 | 아레시온 신전·심판의 천칭·사건의 지평선 / 아알 | 4부위 전부 (목걸이 포함) |
 
+### 에메시아 내성 — 2026년 9월 22일 조정
+
+**에메시아 내성**은 **최상위 사냥터(#최상위)** 목록에서 **빠졌습니다.** 그에 맞춰 드랍 구조가 바뀌었습니다.
+
+| 구분 | 변경 |
+| --- | --- |
+| **종말의 어스름**(귀·반) | 마크타난·노예 계열 등에서 **획득 확률 상향**(공식: 귀 +12%, 반 +11% 등) |
+| **근원·태고 재료** | 본 떠도는 근원의 수정·본 근원의 결정·침묵하는 태고 조각 등 **일부 확률 상향** |
+| **더 이상 안 나옴** | 정제된 포식의 기원/정수, **창세·광휘 안료**(군왕·에다나), **타락한 불멸의 오일** 등 최상위 태그 전용 전리품 |
+| **전리품 목록** | **봉인된 검은 마력의 수정** 추가 |
+
+어스름·아페론 파밍 목적이면 **여전히 에메시아 내성**을 쓸 수 있지만, **최상위 한정 재료**는 다른 **#최상위** 사냥터를 봐야 합니다. [9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) 표를 기준으로 하세요.
+
 ### 종말의 어스름 — 사냥 외 수급 (9월 16일)
 
 아페론 제작식이 빠지면서, 어스름은 **에크레타용 인과의 파편석** 재료로 더 쓰입니다. 사냥 외에 아래 두 곳이 추가되었습니다.
@@ -463,4 +476,4 @@ I단계는 권좌의 자격 완료만으로 열리고, II~X는 **바로 앞 단�
 | [카라자드 개량 재료 총정리](https://www.inyounglee.kr/blackdesert/2026/08/15/kharazad-reform-info/) | 새벽의 정수·술잔·밤의 조각 |
 | [공식 — 카라자드 액세서리](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=389) | 능력치·강화 확률·교환 의뢰 |
 
-※ 강화 확률·정수·종말의 어스름 시세·교환 규칙은 패치에 따라 바뀔 수 있습니다. 아페론 가열 제작 삭제·파편석 역변환은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR) 기준입니다. 진행 직전 공식 공지·가이드를 한 번 더 확인하세요.
+※ 강화 확률·정수·종말의 어스름 시세·교환 규칙은 패치에 따라 바뀔 수 있습니다. 아페론 가열 제작 삭제·파편석 역변환은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR), 에메시아 내성 티어·드랍은 [2026년 9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) 기준입니다. 진행 직전 공식 공지·가이드를 한 번 더 확인하세요.
