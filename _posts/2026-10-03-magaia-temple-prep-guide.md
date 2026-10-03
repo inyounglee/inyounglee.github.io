@@ -192,5 +192,6 @@ featured: false
 | [수정 세팅](/blackdesert/2026/09/22/crystal-setting-guide/) | 최종 수정 구성·시세 |
 | [유물 세팅](/blackdesert/2026/09/22/artifact-lightstone-guide/) | 일격필살·카부아 |
 | [액세서리 업그레이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) | 에크레타·아페론, 신전 드랍 부위 |
+| [하이퍼 부스트 이후 스펙업](/blackdesert/2026/10/03/post-hyper-boost-spec-guide/) | 410/490까지 강화 순서·크론 비용 |
 
 ※ 추천 공/방, 잡템 개수, 밀실 비용은 패치마다 바뀝니다. 출발 전 [공식 공지](https://www.kr.playblackdesert.com/)와 게임 안 사냥터 정보를 확인하세요.

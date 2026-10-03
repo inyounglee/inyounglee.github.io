@@ -163,6 +163,7 @@ featured: true
 | [고수익 사냥터](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/) | 헥세·고원·툰유·침소 등 |
 | [마가이아 신전](/blackdesert/2026/10/03/magaia-temple-prep-guide/) | 표기 410/490 최상위 솔로 |
 | [액세서리 업그레이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) | 카라자드 → 에크레타/아페론 |
+| [하이퍼 부스트 이후 스펙업](/blackdesert/2026/10/03/post-hyper-boost-spec-guide/) | 750 이후 강화비·거래소 비교 |
 | [오네트의 정령수](/blackdesert/2026/09/02/treasure-onet-elixir-guide/) | 무한 생명력 회복 |
 | [오도어의 정령수](/blackdesert/2026/09/02/treasure-odore-elixir-guide/) | 무한 정신력·투지·신성력 |
 | [보물 목록](/blackdesert/2026/09/02/black-desert-treasure-list/) | 보물 도감·제작 허브 |

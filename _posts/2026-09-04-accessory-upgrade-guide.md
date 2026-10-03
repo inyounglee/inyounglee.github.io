@@ -471,6 +471,7 @@ I단계는 권좌의 자격 완료만으로 열리고, II~X는 **바로 앞 단�
 | 글 | 내용 |
 | --- | --- |
 | [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/) | 동 카라자드 획득·공방합 루트 |
+| [하이퍼 부스트 이후 스펙업](/blackdesert/2026/10/03/post-hyper-boost-spec-guide/) | 동 이후 정수·크론 은화, 아페론 구매 비교 |
 | [엠마 바탈리의 기록일지 진행 가이드](/blackdesert/2026/09/06/emma-bartali-journal-guide/) | 장별 조건·보상·선행 의뢰 |
 | [카라자드 액세서리 개량 정리](/blackdesert/2026/08/14/kharazad-accessory-reform/) | 개량 효과·술잔 요약 (에크레타·아페론에도 동일 술잔) |
 | [카라자드 개량 재료 총정리](/blackdesert/2026/08/15/kharazad-reform-info/) | 새벽의 정수·술잔·밤의 조각 |
