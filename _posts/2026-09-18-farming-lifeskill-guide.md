@@ -11,7 +11,7 @@ featured: false
 
 아래 내용은 **2026년 9월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 재배](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=94), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [2026년 6월 4일 재배 개편](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15694)을 우선 참고했습니다. 두더지 6마리 동시 출현은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR)의 기간 이벤트입니다.
 
-> 관련: [낚시 생활 가이드](/blackdesert/2026/10/03/fishing-lifeskill-guide/) · [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [아그리스 매듭·가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)
+> 관련: [낚시 생활 가이드](/blackdesert/2026/10/03/fishing-lifeskill-guide/) · [무역 가이드](/blackdesert/2026/10/03/trade-lifeskill-guide/) · [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [아그리스 매듭·가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)
 
 # 검은사막 재배 생활 가이드
 

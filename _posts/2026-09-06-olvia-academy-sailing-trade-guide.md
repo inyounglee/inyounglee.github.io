@@ -11,7 +11,9 @@ featured: false
 
 아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** · 올비아 아카데미 **항해/교역 강의** 기준으로 정리했습니다. ([공식 — 올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429) · [9/22 선박·물물교환 편의 개선](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR))
 
-> 관련: [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/) · [엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/) · [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [항해 배 종류·증축·중범선](/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/)
+> 마을 NPC에게 물고기·가공 상자를 파는 **무역**은 [무역 가이드](/blackdesert/2026/10/03/trade-lifeskill-guide/)입니다. 이 글은 배 위의 **교역(물물교환)** 입니다.
+
+> 관련: [무역 가이드](/blackdesert/2026/10/03/trade-lifeskill-guide/) · [낚시 생활 가이드](/blackdesert/2026/10/03/fishing-lifeskill-guide/) · [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/) · [엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/) · [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [항해 배 종류·증축·중범선](/blackdesert/2026/09/06/ship-types-upgrade-carrack-guide/)
 
 # 올비아 아카데미로 항해·교역 시작하기
 
