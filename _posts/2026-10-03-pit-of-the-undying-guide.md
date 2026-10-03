@@ -26,6 +26,17 @@ featured: false
 
 ---
 
+## 목차
+
+1. [입장](#enter)
+2. [휘장](#emblem)
+3. [승급](#promotion)
+4. [매주 수행](#weekly)
+5. [주간 수익](#profit)
+6. [관련](#gwanryeon)
+
+---
+
 ## 입장 {#enter}
 
 1. 레벨 **56** 이상. 흑정령 추천 의뢰 **`[대양의 시대] 안개가 자욱한 미지의 섬, 까마귀의 둥지`** 를 끝까지 완료합니다. 마지막 구간이 `[까마귀의 둥지] 까마귀의 용병`입니다.
@@ -127,7 +138,7 @@ featured: false
 
 ---
 
-## 관련
+## 관련 {#gwanryeon}
 
 - 선행 의뢰·기록일지 3장: [엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/)
 - 결정이 쓰이는 방어구: [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)

@@ -17,7 +17,19 @@ featured: false
 
 ---
 
-## 효과 요약
+## 목차
+
+1. [효과 요약](#hyogwa-yoyak)
+    - [사용 제한 (나침반과 유사)](#sayong-jehan-nachimbangwa-yusa)
+2. [필요 재료](#pilyo-jaeryo)
+    - [망원경 부품 드랍·교환](#mangwongyeong-bupum-deurap-gyohwan)
+    - [울루왈라 교환 (보드칸 부품)](#ulruwalra-gyohwan-bodeukan-bupum)
+3. [제작](#jejak)
+4. [나침반 vs 망원경](#nachimban-vs-mangwongyeong)
+
+---
+
+## 효과 요약 {#hyogwa-yoyak}
 
 | 항목 | 내용 |
 | --- | --- |
@@ -25,7 +37,7 @@ featured: false
 | 재사용 | **약 10시간** (이동 준비 시간 있음) |
 | 거래 | **불가** |
 
-### 사용 제한 (나침반과 유사)
+### 사용 제한 (나침반과 유사) {#sayong-jehan-nachimbangwa-yusa}
 
 - 점령/거점전·붉은 전장·수용소 **불가**
 - 말/낙타/당나귀 외 탑승물 **불가**
@@ -34,14 +46,14 @@ featured: false
 
 ---
 
-## 필요 재료
+## 필요 재료 {#pilyo-jaeryo}
 
 | 재료 | 수급 |
 | --- | --- |
 | **개량형 망원경 부품 ×3** (서로 다른 3종) | 아래 표 |
 | **핏빛 루비·물빛 사파이어·금빛 토파즈** 등 보석 | 가공·거래소 |
 
-### 망원경 부품 드랍·교환
+### 망원경 부품 드랍·교환 {#mangwongyeong-bupum-deurap-gyohwan}
 
 | 부품 | 수급 |
 | --- | --- |
@@ -49,7 +61,7 @@ featured: false
 | **렌즈** | **툰그라드 유적지** — 툰그라드 처단자 |
 | **몸통** | 테흐므린 정예병·기사 / **어둠 추종자 침소** — 절규의 어둠추종자 |
 
-### 울루왈라 교환 (보드칸 부품)
+### 울루왈라 교환 (보드칸 부품) {#ulruwalra-gyohwan-bodeukan-bupum}
 
 **세제크 용병캠프 — 학자 울루왈라**
 
@@ -58,13 +70,13 @@ featured: false
 
 ---
 
-## 제작
+## 제작 {#jejak}
 
 망원경 부품 3종 + 보석류를 **조합식**에 배치 → **조합(+)**
 
 ---
 
-## 나침반 vs 망원경
+## 나침반 vs 망원경 {#nachimban-vs-mangwongyeong}
 
 | 보물 | 방향 |
 | --- | --- |

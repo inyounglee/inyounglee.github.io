@@ -26,7 +26,26 @@ featured: false
 
 ---
 
-## 한눈에 보는 결론
+## 목차
+
+1. [한눈에 보는 결론](#hannune-boneun-gyeolron)
+2. [배 종류와 존재 이유](#s-1-bae-jongryuwa-jonjae-iyu)
+    - [소형·입문 배 (교역 불가)](#s-1-1-sohyeong-ipmun-bae-gyoyeok-bulga)
+    - [대형 선박 — 증축 메인 루트](#s-1-2-daehyeong-seonbak-jeungchuk-mein-ruteu)
+    - [특수 선박](#s-1-3-teuksu-seonbak)
+3. [거래소 구매로 시작하기 (본 포스트 전제)](#s-2-georaeso-gumaero-sijakhagi-bon-poseuteu-jeonje)
+4. [증축은 어떻게 하나](#s-3-jeungchukeun-eotteohge-hana)
+5. [단계별 재료 · 예상 비용 · 기간](#s-4-dangyebyeol-jaeryo-yesang-biyong-gigan)
+    - [(선택) 개량형 경범선 / 호위함](#s-4-1-seontaek-gaeryanghyeong-gyeongbeomseon-howih)
+    - [경범선 → 무역선 / 호위함 → 구축함](#s-4-2-gyeongbeomseon-muyeokseon-howiham-guchukham)
+    - [무역선/구축함 → 중범선](#s-4-3-muyeokseon-guchukham-jungbeomseon)
+6. [교역 최종 vs 전투 최종 — 고르는 법](#s-5-gyoyeok-choejong-vs-jeontu-choejong-goreuneun)
+7. [실전 체크리스트](#s-6-siljeon-chekeuriseuteu)
+8. [관련 링크](#gwanryeon-ringkeu)
+
+---
+
+## 한눈에 보는 결론 {#hannune-boneun-gyeolron}
 
 | 목적 | 최종 배 | 이유 |
 | --- | --- | --- |
@@ -44,11 +63,11 @@ featured: false
 
 ---
 
-## 1. 배 종류와 존재 이유
+## 1. 배 종류와 존재 이유 {#s-1-bae-jongryuwa-jonjae-iyu}
 
 검은사막 배는 크게 **소형(이동)** / **대형(물물교환·증축)** / **특수(길드·지역)** 로 나뉩니다. **물물교환은 대형 선박만** 가능합니다.
 
-### 1-1. 소형·입문 배 (교역 불가)
+### 1-1. 소형·입문 배 (교역 불가) {#s-1-1-sohyeong-ipmun-bae-gyoyeok-bulga}
 
 | 배 | 특징 | 존재 이유 |
 | --- | --- | --- |
@@ -58,7 +77,7 @@ featured: false
 
 고속정은 **입문·이동용**이지, 중범선 루트의 본선이 아닙니다.
 
-### 1-2. 대형 선박 — 증축 메인 루트
+### 1-2. 대형 선박 — 증축 메인 루트 {#s-1-2-daehyeong-seonbak-jeungchuk-mein-ruteu}
 
 | 배 | 성향 | 특징 | 존재 이유 |
 | --- | --- | --- | --- |
@@ -83,7 +102,7 @@ featured: false
 
 > **처음부터 고르세요.** 경범선 루트로는 용맹/비상, 호위함 루트로는 점진/균형을 만들 수 없습니다. (다른 루트 배를 새로 키워야 함)
 
-### 1-3. 특수 선박
+### 1-3. 특수 선박 {#s-1-3-teuksu-seonbak}
 
 | 배 | 특징 | 존재 이유 |
 | --- | --- | --- |
@@ -97,7 +116,7 @@ featured: false
 
 ---
 
-## 2. 거래소 구매로 시작하기 (본 포스트 전제)
+## 2. 거래소 구매로 시작하기 (본 포스트 전제) {#s-2-georaeso-gumaero-sijakhagi-bon-poseuteu-jeonje}
 
 | 단계 | 할 일 |
 | --- | --- |
@@ -116,7 +135,7 @@ featured: false
 
 ---
 
-## 3. 증축은 어떻게 하나
+## 3. 증축은 어떻게 하나 {#s-3-jeungchukeun-eotteohge-hana}
 
 1. 해당 배를 선착장에 **등록**  
 2. 나루터지기 → **증축** 메뉴  
@@ -132,11 +151,11 @@ featured: false
 
 ---
 
-## 4. 단계별 재료 · 예상 비용 · 기간
+## 4. 단계별 재료 · 예상 비용 · 기간 {#s-4-dangyebyeol-jaeryo-yesang-biyong-gigan}
 
 시세·매물·일일 효율에 따라 크게 달라집니다. 아래는 **거래소에서 경범선/호위함을 산 뒤** 직접 증축할 때의 감각용 대략치이며, **완성 중범선 거래소 구매**가 더 쌀 때도 많습니다.
 
-### 4-1. (선택) 개량형 경범선 / 호위함
+### 4-1. (선택) 개량형 경범선 / 호위함 {#s-4-1-seontaek-gaeryanghyeong-gyeongbeomseon-howih}
 
 | 재료 (공통 요약) | 비고 |
 | --- | --- |
@@ -149,7 +168,7 @@ featured: false
 | 기간 | **수일** |
 | 필수? | **아니오** (괴수·편의용) |
 
-### 4-2. 경범선 → 무역선 / 호위함 → 구축함
+### 4-2. 경범선 → 무역선 / 호위함 → 구축함 {#s-4-2-gyeongbeomseon-muyeokseon-howiham-guchukham}
 
 **공통 조건 감각:** 장착 장비 **4종 +10** (파도의 블랙스톤 · 부위당 55개 · 합 **220개**, 강화 성공률 100%)
 
@@ -174,7 +193,7 @@ featured: false
 | 은화 | 허가증·장비·재료 시세 합 **수십억**대까지 갈 수 있음 |
 | 까마귀 주화 | 재료를 까주로 때우면 **수천~1만+** |
 
-### 4-3. 무역선/구축함 → 중범선
+### 4-3. 무역선/구축함 → 중범선 {#s-4-3-muyeokseon-guchukham-jungbeomseon}
 
 | 출발 | 결과 |
 | --- | --- |
@@ -205,7 +224,7 @@ featured: false
 
 ---
 
-## 5. 교역 최종 vs 전투 최종 — 고르는 법
+## 5. 교역 최종 vs 전투 최종 — 고르는 법 {#s-5-gyoyeok-choejong-vs-jeontu-choejong-goreuneun}
 
 ```
 물물교환이 주력인가?
@@ -226,7 +245,7 @@ featured: false
 
 ---
 
-## 6. 실전 체크리스트
+## 6. 실전 체크리스트 {#s-6-siljeon-chekeuriseuteu}
 
 ```
 □ 목적 정하기: 교역(점진/균형) vs 전투(용맹/비상)
@@ -240,7 +259,7 @@ featured: false
 
 ---
 
-## 관련 링크
+## 관련 링크 {#gwanryeon-ringkeu}
 
 | 링크 | 용도 |
 | --- | --- |

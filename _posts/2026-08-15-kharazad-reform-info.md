@@ -32,9 +32,51 @@ featured: false
 
 ---
 
-## 1. 가장 중요한 핵심 재료 — 새벽의 정수
+## 목차
 
-### 새벽의 정수는 어디서 얻는가?
+1. [가장 중요한 핵심 재료 — 새벽의 정수](#s-1-gajang-jungyohan-haeksim-jaeryo-saebyeokui-jeo)
+    - [새벽의 정수는 어디서 얻는가?](#saebyeokui-jeongsuneun-eodiseo-eotneunga)
+    - [거래소 가격](#georaeso-gagyeok)
+2. [새벽의 정수를 직접 만드는 방법](#s-2-saebyeokui-jeongsureul-jikjeop-mandeuneun-bang)
+3. [목걸이 개량 — 고요한 새벽을 품은 술잔](#s-3-mokgeoli-gaeryang-goyohan-saebyeokeul-pumeun-s)
+    - [말라버린 달빛을 기울인 술잔 만들기](#s-3-1-malrabeorin-dalbiteul-giulin-suljan-mandeulg)
+    - [말라버린 숲의 심장](#malrabeorin-supui-simjang)
+    - [자연의 흔적](#jayeonui-heunjeok)
+4. [허리띠 개량 — 쓸쓸한 황혼을 품은 술잔](#s-4-heoritti-gaeryang-sseulsseulhan-hwanghoneul-pu)
+    - [고독한 파도가 담긴 술잔](#s-4-1-godokhan-padoga-damgin-suljan)
+    - [재료 획득처](#jaeryo-hoekdeukcheo)
+5. [슬픈 노을을 품은 술잔](#s-5-seulpeun-noeuleul-pumeun-suljan)
+    - [풀에 지친 밤의 조각 사냥터](#pule-jichin-bamui-jogak-sanyangteo)
+6. [반지 개량 — 무심한 태양이 담긴 술잔](#s-6-banji-gaeryang-musimhan-taeyangi-damgin-suljan)
+    - [외로운 구름을 담은 술잔](#s-6-1-oeroun-gureumeul-dameun-suljan)
+    - [시든 별빛을 머금은 술잔](#s-6-2-sideun-byeolbiteul-meogeumeun-suljan)
+7. [귀걸이 개량 — 적막한 밤빛을 머금은 술잔](#s-7-gwigeoli-gaeryang-jeokmakhan-bambiteul-meogeum)
+    - [구슬픈 대지를 품은 술잔](#s-7-1-guseulpeun-daejireul-pumeun-suljan)
+8. [밤의 조각 3종은 어디서 파밍할까?](#s-8-bamui-jogak-3jongeun-eodiseo-paminghalkka)
+9. [마력의 파편](#s-9-maryeokui-papyeon)
+10. [순수한 마력 덩어리](#s-10-sunsuhan-maryeok-deongeori)
+11. [블랙스톤(무기/방어구)](#s-11-beulraekseuton-mugi-bangeogu)
+12. [카라자드 개량에 필요한 재료를 한눈에 정리](#s-12-karajadeu-gaeryange-pilyohan-jaeryoreul-hannu)
+    - [목걸이](#mokgeoli)
+    - [허리띠](#heoritti)
+    - [반지](#banji)
+    - [귀걸이](#gwigeoli)
+13. [그래서 어떤 부위부터 개량하는 것이 좋을까?](#s-13-geuraeseo-eotteon-buwibuteo-gaeryanghaneun-ge)
+    - [1순위 — 허리띠](#s-1sunwi-heoritti)
+    - [2순위 — 귀걸이](#s-2sunwi-gwigeoli)
+    - [3순위 — 반지](#s-3sunwi-banji)
+    - [4순위 — 목걸이](#s-4sunwi-mokgeoli)
+14. [가장 현실적인 파밍 방법](#s-14-gajang-hyeonsiljeokin-paming-bangbeop)
+    - [방법 A — 시간이 부족한 경우](#bangbeop-a-sigani-bujokhan-gyeongu)
+    - [방법 B — 은화를 아끼고 사냥을 많이 하는 경우](#bangbeop-b-eunhwareul-akkigo-sanyangeul-mani-han)
+15. [꼭 알아둘 점 — 카라자드 술잔은 기존 술잔과 다르다](#s-15-kkok-aladul-jeom-karajadeu-suljaneun-gijon-su)
+16. [최종 요약 — 카라자드 개량 준비 체크리스트](#s-16-choejong-yoyak-karajadeu-gaeryang-junbi-cheke)
+
+---
+
+## 1. 가장 중요한 핵심 재료 — 새벽의 정수 {#s-1-gajang-jungyohan-haeksim-jaeryo-saebyeokui-jeo}
+
+### 새벽의 정수는 어디서 얻는가? {#saebyeokui-jeongsuneun-eodiseo-eotneunga}
 
 새벽의 정수는 카라자드 제작과 강화뿐 아니라 이번 개량에도 사용되는 핵심 재료다.
 
@@ -46,7 +88,7 @@ featured: false
 
 또한 특화 능력별 새벽의 정수를 일반 새벽의 정수로 1:1 교환하는 방법도 있다. ([검은사막][2])
 
-### 거래소 가격
+### 거래소 가격 {#georaeso-gagyeok}
 
 새벽의 정수는 통합 거래소에 등록할 수 있으며 공식 상한가는 **1억 은화**다. 최근 BDO Codex가 표시하는 한국 거래소 가격은 약 **2,700만 은화** 수준으로 확인된다. 다만 거래소 가격은 수시로 변하므로 실제 구매 시에는 게임 내 거래소 가격을 확인하는 것이 가장 정확하다. ([BDO Codex][3])
 
@@ -60,7 +102,7 @@ featured: false
 
 ---
 
-## 2. 새벽의 정수를 직접 만드는 방법
+## 2. 새벽의 정수를 직접 만드는 방법 {#s-2-saebyeokui-jeongsureul-jikjeop-mandeuneun-bang}
 
 새벽의 정수는 단순히 사서 쓰는 것보다 **유/동 액세서리를 가열하는 방법**이 상당히 중요하다.
 
@@ -88,7 +130,7 @@ featured: false
 
 ---
 
-# 3. 목걸이 개량 — 고요한 새벽을 품은 술잔
+# 3. 목걸이 개량 — 고요한 새벽을 품은 술잔 {#s-3-mokgeoli-gaeryang-goyohan-saebyeokeul-pumeun-s}
 
 카라자드 목걸이의 개량 효과는:
 
@@ -109,7 +151,7 @@ featured: false
 
 ---
 
-## 3-1. 말라버린 달빛을 기울인 술잔 만들기
+## 3-1. 말라버린 달빛을 기울인 술잔 만들기 {#s-3-1-malrabeorin-dalbiteul-giulin-suljan-mandeulg}
 
 필요한 재료:
 
@@ -118,7 +160,7 @@ featured: false
 
 두 재료를 가열하면 **말라버린 달빛을 기울인 술잔 1개**가 나온다. ([BDO Codex][6])
 
-### 말라버린 숲의 심장
+### 말라버린 숲의 심장 {#malrabeorin-supui-simjang}
 
 획득 사냥터:
 
@@ -137,7 +179,7 @@ featured: false
 
 다만 실제로는 사냥으로 직접 모으는 것이 훨씬 합리적인 경우가 많다.
 
-### 자연의 흔적
+### 자연의 흔적 {#jayeonui-heunjeok}
 
 자연의 흔적은 기존의 숲의 흔적 등 개별 흔적 아이템이 **통합**된 재료다. 말라버린 달빛 술잔 제작에 필요하다.
 
@@ -151,7 +193,7 @@ featured: false
 
 ---
 
-# 4. 허리띠 개량 — 쓸쓸한 황혼을 품은 술잔
+# 4. 허리띠 개량 — 쓸쓸한 황혼을 품은 술잔 {#s-4-heoritti-gaeryang-sseulsseulhan-hwanghoneul-pu}
 
 카라자드 허리띠는 다른 부위와 달리 두 종류의 기존 술잔 중 하나를 선택할 수 있다.
 
@@ -174,7 +216,7 @@ featured: false
 
 ---
 
-## 4-1. 고독한 파도가 담긴 술잔
+## 4-1. 고독한 파도가 담긴 술잔 {#s-4-1-godokhan-padoga-damgin-suljan}
 
 필요 재료:
 
@@ -186,7 +228,7 @@ featured: false
 
 가열하여 제작한다. ([검은사막][9])
 
-### 재료 획득처
+### 재료 획득처 {#jaeryo-hoekdeukcheo}
 
 **말라버린 숲의 심장**
 
@@ -219,7 +261,7 @@ featured: false
 
 ---
 
-# 5. 슬픈 노을을 품은 술잔
+# 5. 슬픈 노을을 품은 술잔 {#s-5-seulpeun-noeuleul-pumeun-suljan}
 
 허리띠 개량용 두 번째 선택지다.
 
@@ -233,7 +275,7 @@ featured: false
 
 가열하면 **슬픈 노을을 품은 술잔**이 만들어진다. ([검은사막][9])
 
-### 풀에 지친 밤의 조각 사냥터
+### 풀에 지친 밤의 조각 사냥터 {#pule-jichin-bamui-jogak-sanyangteo}
 
 * 엘비아 비라기 산채
 * 엘비아 나가 늪지
@@ -253,7 +295,7 @@ featured: false
 
 ---
 
-# 6. 반지 개량 — 무심한 태양이 담긴 술잔
+# 6. 반지 개량 — 무심한 태양이 담긴 술잔 {#s-6-banji-gaeryang-musimhan-taeyangi-damgin-suljan}
 
 카라자드 반지는 두 가지 기존 술잔 중 하나를 사용한다.
 
@@ -274,7 +316,7 @@ featured: false
 
 ---
 
-## 6-1. 외로운 구름을 담은 술잔
+## 6-1. 외로운 구름을 담은 술잔 {#s-6-1-oeroun-gureumeul-dameun-suljan}
 
 필요 재료:
 
@@ -299,7 +341,7 @@ featured: false
 
 ---
 
-## 6-2. 시든 별빛을 머금은 술잔
+## 6-2. 시든 별빛을 머금은 술잔 {#s-6-2-sideun-byeolbiteul-meogeumeun-suljan}
 
 필요 재료:
 
@@ -325,7 +367,7 @@ featured: false
 
 ---
 
-# 7. 귀걸이 개량 — 적막한 밤빛을 머금은 술잔
+# 7. 귀걸이 개량 — 적막한 밤빛을 머금은 술잔 {#s-7-gwigeoli-gaeryang-jeokmakhan-bambiteul-meogeum}
 
 카라자드 귀걸이는 선택지가 하나뿐이다.
 
@@ -345,7 +387,7 @@ featured: false
 
 ---
 
-## 7-1. 구슬픈 대지를 품은 술잔
+## 7-1. 구슬픈 대지를 품은 술잔 {#s-7-1-guseulpeun-daejireul-pumeun-suljan}
 
 필요 재료:
 
@@ -373,7 +415,7 @@ featured: false
 
 ---
 
-# 8. 밤의 조각 3종은 어디서 파밍할까?
+# 8. 밤의 조각 3종은 어디서 파밍할까? {#s-8-bamui-jogak-3jongeun-eodiseo-paminghalkka}
 
 카라자드 개량을 준비하면서 가장 많이 접하게 되는 재료가 바로 이 세 가지다.
 
@@ -399,7 +441,7 @@ featured: false
 
 ---
 
-# 9. 마력의 파편
+# 9. 마력의 파편 {#s-9-maryeokui-papyeon}
 
 마력의 파편은 대부분의 술잔에 들어가는 공통 재료다.
 
@@ -413,7 +455,7 @@ featured: false
 
 ---
 
-# 10. 순수한 마력 덩어리
+# 10. 순수한 마력 덩어리 {#s-10-sunsuhan-maryeok-deongeori}
 
 순수한 마력 덩어리는 반지용 술잔인:
 
@@ -446,7 +488,7 @@ featured: false
 
 ---
 
-# 11. 블랙스톤(무기/방어구)
+# 11. 블랙스톤(무기/방어구) {#s-11-beulraekseuton-mugi-bangeogu}
 
 술잔 제작에는 블랙스톤 100개가 들어간다.
 
@@ -470,11 +512,11 @@ featured: false
 
 ---
 
-# 12. 카라자드 개량에 필요한 재료를 한눈에 정리
+# 12. 카라자드 개량에 필요한 재료를 한눈에 정리 {#s-12-karajadeu-gaeryange-pilyohan-jaeryoreul-hannu}
 
 결국 한 부위를 개량하는 데 필요한 재료 구조는 다음과 같다.
 
-### 목걸이
+### 목걸이 {#mokgeoli}
 
 **말라버린 숲의 심장 100
 
@@ -490,7 +532,7 @@ featured: false
 
 ---
 
-### 허리띠
+### 허리띠 {#heoritti}
 
 선택 ①
 
@@ -519,7 +561,7 @@ featured: false
 
 ---
 
-### 반지
+### 반지 {#banji}
 
 선택 ①
 
@@ -548,7 +590,7 @@ featured: false
 
 ---
 
-### 귀걸이
+### 귀걸이 {#gwigeoli}
 
 **마력의 파편 30
 
@@ -567,13 +609,13 @@ featured: false
 
 ---
 
-# 13. 그래서 어떤 부위부터 개량하는 것이 좋을까?
+# 13. 그래서 어떤 부위부터 개량하는 것이 좋을까? {#s-13-geuraeseo-eotteon-buwibuteo-gaeryanghaneun-ge}
 
 효과만 놓고 보면 개인의 세팅에 따라 달라진다.
 
 하지만 일반적인 공격형 세팅이라면 다음처럼 생각할 수 있다.
 
-### 1순위 — 허리띠
+### 1순위 — 허리띠 {#s-1sunwi-heoritti}
 
 **모든 공격력 +3 + 모든 피해 감소 +6**
 
@@ -581,7 +623,7 @@ featured: false
 
 특히 모든 공격력 +3은 상당히 직관적인 효과이기 때문에 공격력 세팅을 목표로 한다면 우선순위가 높다.
 
-### 2순위 — 귀걸이
+### 2순위 — 귀걸이 {#s-2sunwi-gwigeoli}
 
 **모든 공격력 +3**
 
@@ -589,7 +631,7 @@ featured: false
 
 특히 카라자드의 전용 수정 세팅까지 고려하면 공격력 증가를 중시하는 유저에게 매력적이다.
 
-### 3순위 — 반지
+### 3순위 — 반지 {#s-3sunwi-banji}
 
 **최대 생명력 +125 + 치명타 피해량 +3%**
 
@@ -597,7 +639,7 @@ featured: false
 
 특히 치명타 피해량을 적극적으로 활용하는 세팅이라면 가치가 높다.
 
-### 4순위 — 목걸이
+### 4순위 — 목걸이 {#s-4sunwi-mokgeoli}
 
 **최대 생명력 +300**
 
@@ -607,7 +649,7 @@ featured: false
 
 ---
 
-# 14. 가장 현실적인 파밍 방법
+# 14. 가장 현실적인 파밍 방법 {#s-14-gajang-hyeonsiljeokin-paming-bangbeop}
 
 현재는 과거와 달리 **모든 재료를 직접 파밍할 필요가 없다.**
 
@@ -615,7 +657,7 @@ featured: false
 
 따라서 추천하는 방법은 다음과 같다.
 
-### 방법 A — 시간이 부족한 경우
+### 방법 A — 시간이 부족한 경우 {#bangbeop-a-sigani-bujokhan-gyeongu}
 
 **새벽의 정수 → 거래소 구매**
 
@@ -633,7 +675,7 @@ featured: false
 
 ---
 
-### 방법 B — 은화를 아끼고 사냥을 많이 하는 경우
+### 방법 B — 은화를 아끼고 사냥을 많이 하는 경우 {#bangbeop-b-eunhwareul-akkigo-sanyangeul-mani-han}
 
 엘비아 사냥터를 돌면서:
 
@@ -652,7 +694,7 @@ featured: false
 
 ---
 
-# 15. 꼭 알아둘 점 — 카라자드 술잔은 기존 술잔과 다르다
+# 15. 꼭 알아둘 점 — 카라자드 술잔은 기존 술잔과 다르다 {#s-15-kkok-aladul-jeom-karajadeu-suljaneun-gijon-su}
 
 카라자드 개량에서 가장 헷갈리는 부분이다.
 
@@ -676,7 +718,7 @@ featured: false
 
 ---
 
-# 16. 최종 요약 — 카라자드 개량 준비 체크리스트
+# 16. 최종 요약 — 카라자드 개량 준비 체크리스트 {#s-16-choejong-yoyak-karajadeu-gaeryang-junbi-cheke}
 
 **목걸이**
 

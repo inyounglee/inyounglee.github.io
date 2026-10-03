@@ -21,7 +21,19 @@ featured: false
 
 ---
 
-## 1. 한눈에 보는 표
+## 목차
+
+1. [한눈에 보는 표](#s-1-hannune-boneun-pyo)
+2. [부위별·세트 효과](#s-2-buwibyeol-seteu-hyogwa)
+    - [은바늘로 가문 공유되는 6종](#s-2-1-eunbaneulro-gamun-gongyudoeneun-6jong)
+    - [매듭이 없는 4종 — 효과 전부 착용 전용](#s-2-2-maedeupi-eopneun-4jong-hyogwa-jeonbu-chakyon)
+3. [사야 하나 — 팁](#s-3-saya-hana-tip)
+4. [구입 우선순위](#s-4-guip-useonsunwi)
+5. [참고](#references)
+
+---
+
+## 1. 한눈에 보는 표 {#s-1-hannune-boneun-pyo}
 
 정가 출처: [2026년 1월 14일 펄상점 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=15073)(생활·낚시·잠수), [그랑베어](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14783), 위장복은 [기능성 의상 추출 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=13075)의 조정 가격.
 
@@ -42,7 +54,7 @@ featured: false
 
 ---
 
-## 2. 부위별·세트 효과
+## 2. 부위별·세트 효과 {#s-2-buwibyeol-seteu-hyogwa}
 
 일반 펄 의상(라이프가드 등)은 부위마다 작은 버프가 있고, 여러 부위를 같이 입으면 **일반 세트 효과**(탐험 발견 거리 +10m, 사망 시 불이익 저항 +10%, 친밀도 +10%, 점프 +0.5m 등)가 붙습니다. **기능성 펄의상은 그 규칙이 다릅니다.**
 
@@ -51,7 +63,7 @@ featured: false
 - **추출 전** 기능성 의상에는 **흑정령의 발톱 소켓이 안 뚫립니다.** 발톱으로 수정칸을 열고 매듭 효과를 켜는 용도로 쓸 수 없습니다. **2026년 9월 22일**부터 기능성 펄의상·**의상 교환권**으로 만든 제작 의상 설명에도 **발톱 사용 불가**가 공식으로 붙습니다.
 - **은바늘로 매듭을 뽑은 뒤** 남는 의상은 생활 기능이 빠진 **일반 펄 외형**이 됩니다. 그때부터는 일반 펄처럼 **발톱을 뚫을 수 있고**, 일반 부위·세트 효과도 받을 수 있습니다. 매듭 효과를 켜려면 [가문 공유 가이드](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)처럼 **발톱을 쓴 펄 의상**(추출 후 남은 외형 또는 다른 일반 펄)을 입어야 합니다.
 
-### 2-1. 은바늘로 가문 공유되는 6종
+### 2-1. 은바늘로 가문 공유되는 6종 {#s-2-1-eunbaneulro-gamun-gongyudoeneun-6jong}
 
 만드는 법은 [가문 공유 가이드](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)를 보면 됩니다. 여기에는 착용 효과만 둡니다.
 
@@ -70,7 +82,7 @@ featured: false
 
 은바늘을 쓰면 넣은 의상의 **염색이 초기화**되고, 생활 효과는 의상에서 빠집니다. 남은 외형은 일반 펄 의상 효과(탐험 발견 거리 +10m, 사망 불이익 저항 +10%, 친밀도 +10%, 점프 +0.5m)로 바뀝니다. 은바늘을 쓴 의상에는 **메르브의 수선 도구**를 쓸 수 없습니다.
 
-### 2-2. 매듭이 없는 4종 — 효과 전부 착용 전용
+### 2-2. 매듭이 없는 4종 — 효과 전부 착용 전용 {#s-2-2-maedeupi-eopneun-4jong-hyogwa-jeonbu-chakyon}
 
 | 의상 | 부위 | 세트 | 은바늘 |
 | --- | --- | --- | --- |
@@ -86,7 +98,7 @@ featured: false
 
 ---
 
-## 3. 사야 하나 — 팁
+## 3. 사야 하나 — 팁 {#s-3-saya-hana-tip}
 
 은화 생활복(전문 낚시복, 전문 채집복, 마노스 옷)은 이미 가문 공유입니다. 펄 의상은 **은화 장비에 없는 효과**만 보고 사면 됩니다.
 
@@ -101,7 +113,7 @@ featured: false
 
 ---
 
-## 4. 구입 우선순위
+## 4. 구입 우선순위 {#s-4-guip-useonsunwi}
 
 가정을 바꿉니다. **한 가문, 정가, 할인은 보너스.**
 
@@ -125,7 +137,7 @@ featured: false
 
 ---
 
-## 참고
+## 참고 {#references}
 
 - [생활 펄장비 가문 공유 가이드](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/) — 은바늘·매듭·발톱 절차
 - 공식 [9월 2일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) — 매듭 효과, 그랑베어 공속 미추출

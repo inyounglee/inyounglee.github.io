@@ -31,11 +31,57 @@ featured: false
 
 ---
 
-## 1. 채집에 꼭 필요한 준비물
+## 목차
+
+1. [채집에 꼭 필요한 준비물](#s-1-chaejipe-kkok-pilyohan-junbimul)
+    - [채집 종류 — 도구가 결과물을 가른다](#s-1-1-chaejip-jongryu-doguga-gyeolgwamuleul-gareun)
+    - [채집복·가방 — 숙련도·경험치](#s-1-2-chaejipbok-gabang-sukryeondo-gyeongheomchi)
+    - [레벨·잠재력·숙련도 (한 줄 요약)](#s-1-3-rebel-jamjaeryeok-sukryeondo-han-jul-yoyak)
+2. [장비 스펙업 — 로기아 → 카르타 → 마노스](#s-2-jangbi-seupekeop-rogia-kareuta-manoseu)
+    - [단계별 비교 (대표 수치)](#s-2-1-dangyebyeol-bigyo-daepyo-suchi)
+    - [강화 재료·특징](#s-2-2-ganghwa-jaeryo-teukjing)
+    - [추천 강화 목표](#s-2-3-chucheon-ganghwa-mokpyo)
+    - [입문·특수 도구 (참고)](#s-2-4-ipmun-teuksu-dogu-chamgo)
+    - [2026년 9월 2일 생활 장비 통합](#s-2-5-2026nyeon-9wol-2il-saenghwal-jangbi-tonghap)
+3. [필수·추천 버프](#s-3-pilsu-chucheon-beopeu)
+    - [거의 필수 (레벨업·숙련도)](#s-3-1-geoui-pilsu-rebeleop-sukryeondo)
+    - [채집 전용·편의](#s-3-2-chaejip-jeonyong-pyeonui)
+    - [버프 적용 순서 (출발 전)](#s-3-3-beopeu-jeokyong-sunseo-chulbal-jeon)
+4. [유물·광명석 조합 (채집)](#s-4-yumul-gwangmyeongseok-johap-chaejip)
+    - [세스라의 유물 (채집)](#s-4-1-seseuraui-yumul-chaejip)
+    - [채집 광명석 조합 (대표)](#s-4-2-chaejip-gwangmyeongseok-johap-daepyo)
+    - [추천 세팅 예시](#s-4-3-chucheon-seting-yesi)
+5. [요정의 숨결 · 파묻힌 흔적 · 뿌리 깊은 손](#s-5-yojeongui-sumgyeol-pamuthin-heunjeok-ppuri-gip)
+    - [요정의 숨결](#s-5-1-yojeongui-sumgyeol)
+    - [파묻힌 흔적](#s-5-2-pamuthin-heunjeok)
+    - [뿌리 깊은 손 (초록 장인 미니게임)](#rooted-hand)
+6. [효율적인 레벨업 루트](#s-6-hyoyuljeokin-rebeleop-ruteu)
+    - [전체 흐름](#s-6-1-jeonche-heureum)
+    - [1순위 — 벨리아 · 승급 의뢰](#s-6-2-1sunwi-belria-seunggeup-uiroe)
+    - [2순위 — 리아나 · 루드비히](#s-6-3-2sunwi-riana-rudeubihi)
+    - [레벨업 원칙](#s-6-4-rebeleop-wonchik)
+7. [올비아 아카데미 — 채집 강의·보상](#s-7-olbia-akademi-chaejip-gangui-bosang)
+    - [채집 강의 의뢰 순서](#s-7-1-chaejip-gangui-uiroe-sunseo)
+    - [채집 강의 — 아카데미 패스 보상](#s-7-2-chaejip-gangui-akademi-paeseu-bosang)
+    - [채집 가문 보상 · 주화](#s-7-3-chaejip-gamun-bosang-juhwa)
+    - [올비아 채집 vs 일반 루트](#s-7-4-olbia-chaejip-vs-ilban-ruteu)
+8. [최종 세트까지 — 실전 스펙업 순서](#s-8-choejong-seteukkaji-siljeon-seupekeop-sunseo)
+9. [자주 하는 실수](#s-9-jaju-haneun-silsu)
+10. [체크리스트](#checklist)
+    - [준비물·도구](#junbimul-dogu)
+    - [버프·유물](#beopeu-yumul)
+    - [레벨업](#rebeleop)
+    - [올비아 (해당 시)](#olbia-haedang-si)
+11. [관련 링크](#gwanryeon-ringkeu)
+12. [정리](#summary)
+
+---
+
+## 1. 채집에 꼭 필요한 준비물 {#s-1-chaejipe-kkok-pilyohan-junbimul}
 
 채집 오브젝트 근처에서 **R**로 상호작용합니다. 도구가 없으면 게임이 **필요 도구**를 알려 줍니다. 아래 아홉 종류가 전부이며, 같은 대상에 다른 도구를 끼우면 결과물이 갈립니다.
 
-### 1-1. 채집 종류 — 도구가 결과물을 가른다
+### 1-1. 채집 종류 — 도구가 결과물을 가른다 {#s-1-1-chaejip-jongryu-doguga-gyeolgwamuleul-gareun}
 
 공식 [모험가 가이드 — 채집](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=97) 기준, 채집은 **대상 × 도구**로 나뉩니다. 같은 나무에 **벌목 도끼**를 쓰면 원목이, **수액 채취 도구**를 쓰면 수액이 나옵니다. 도구가 없으면 게임이 **필요 도구**를 알려 줍니다.
 
@@ -110,7 +156,7 @@ featured: false
 
 채집 **레벨**이 오르면 더 높은 등급 도구를 쓸 수 있고, **기운 없이 채집할 확률**이 오릅니다. **한 번 채집에 걸리는 시간**은 도구 툴팁의 추가 −3초와 **채집 잠재력**이 좌우합니다.
 
-### 1-2. 채집복·가방 — 숙련도·경험치
+### 1-2. 채집복·가방 — 숙련도·경험치 {#s-1-2-chaejipbok-gabang-sukryeondo-gyeongheomchi}
 
 | 부위 | 역할 | 없으면? |
 | --- | --- | --- |
@@ -120,7 +166,7 @@ featured: false
 
 초반에는 의뢰 보상 **채집꾼의 옷**(경험치 +10%, 강화 불가)만으로도 충분한 경우가 많습니다. 단계별 **숙련도·경험치 수치 전체 표**는 **[채집복·도구 비교 가이드](/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** 를 참고하세요.
 
-### 1-3. 레벨·잠재력·숙련도 (한 줄 요약)
+### 1-3. 레벨·잠재력·숙련도 (한 줄 요약) {#s-1-3-rebel-jamjaeryeok-sukryeondo-han-jul-yoyak}
 
 | 개념 | 효과 |
 | --- | --- |
@@ -135,11 +181,11 @@ featured: false
 
 ---
 
-## 2. 장비 스펙업 — 로기아 → 카르타 → 마노스
+## 2. 장비 스펙업 — 로기아 → 카르타 → 마노스 {#s-2-jangbi-seupekeop-rogia-kareuta-manoseu}
 
 수렵의 **로기아 → 로바우 → 마노스 수렵복**과 같은 숙련도 곡선입니다. 채집 파랑 옷은 **카르타 채집복**, 파랑 도구는 **도스터의 강철 ~** 입니다. **로기아 채집꾼의 옷** · **카르타 채집복** · **마노스 채집꾼의 옷** 순으로 교체하고, **마노스 채집 도구**(호미·곡괭이·도끼 등 종류별, 숙련도는 [벌목 도끼 대표 표](/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools))를 맞춥니다. 중간 단계로 **게라노아** 액세서리도 거래소에서 자주 쓰이지만, 장기 목표는 **마노스**입니다.
 
-### 2-1. 단계별 비교 (대표 수치)
+### 2-1. 단계별 비교 (대표 수치) {#s-2-1-dangyebyeol-bigyo-daepyo-suchi}
 
 공식 표기는 **기본 옵션 + 강화**입니다. 아래 **기본**은 미강화 착용 기준입니다.
 
@@ -152,7 +198,7 @@ featured: false
 
 **획득:** 대장장이 **제작**, **통합 거래소**, **올비아 아카데미 보상** (8장).
 
-### 2-2. 강화 재료·특징
+### 2-2. 강화 재료·특징 {#s-2-2-ganghwa-jaeryo-teukjing}
 
 수렵·마노스 생활 장비와 동일합니다.
 
@@ -164,7 +210,7 @@ featured: false
 - 로기아·카르타·도스터·마노스는 **발크스 스택(강화 확률 증가) 없음**
 - 실패 시 **파괴 없음** (고대의 모루·아그리스 정수로 확정 강화 가능)
 
-### 2-3. 추천 강화 목표
+### 2-3. 추천 강화 목표 {#s-2-3-chucheon-ganghwa-mokpyo}
 
 | 구간 | 목표 | 이유 |
 | --- | --- | --- |
@@ -174,7 +220,7 @@ featured: false
 
 크론석은 **마노스 동(V) 직전**에 쓰는 편이 낫습니다.
 
-### 2-4. 입문·특수 도구 (참고)
+### 2-4. 입문·특수 도구 (참고) {#s-2-4-ipmun-teuksu-dogu-chamgo}
 
 | 도구 | 특징 |
 | --- | --- |
@@ -184,15 +230,15 @@ featured: false
 
 레벨만 빠르게 올릴 때는 마력 도구, **숙련도·희귀 재료**를 노릴 때는 **마노스·도스터** 쪽이 맞습니다. 로기아를 **동(V)** 까지 올려도 경험치 **+28%** 로 **마노스 고(III) +25%** 와 비슷한 수준이므로, 응축 결정 투자 전 **카르타·마노스 교체 시점**을 [비교표](/blackdesert/2026/09/18/gathering-gear-stats-comparison/)에서 함께 검토하세요.
 
-### 2-5. 2026년 9월 2일 생활 장비 통합
+### 2-5. 2026년 9월 2일 생활 장비 통합 {#s-2-5-2026nyeon-9wol-2il-saenghwal-jangbi-tonghap}
 
 [생활 장비 통합](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16141&countryType=ko-KR) 이후 **유물·광명석**은 채집복이 아니라 **생활 통합 UI → 채집** 슬롯에 장착합니다. **가문 공유**이며, 벌목·채광·호미 등 **실제 채집 활동**에 맞춰 적용됩니다.
 
 ---
 
-## 3. 필수·추천 버프
+## 3. 필수·추천 버프 {#s-3-pilsu-chucheon-beopeu}
 
-### 3-1. 거의 필수 (레벨업·숙련도)
+### 3-1. 거의 필수 (레벨업·숙련도) {#s-3-1-geoui-pilsu-rebeleop-sukryeondo}
 
 | 종류 | 아이템 | 효과 |
 | --- | --- | --- |
@@ -202,7 +248,7 @@ featured: false
 
 > 채집은 **잠재력 5단계** 체감이 큽니다. 크론 정식·신록을 유지한 상태에서 파밍하는 것이 정석입니다.
 
-### 3-2. 채집 전용·편의
+### 3-2. 채집 전용·편의 {#s-3-2-chaejip-jeonyong-pyeonui}
 
 | 종류 | 아이템 | 효과 |
 | --- | --- | --- |
@@ -213,7 +259,7 @@ featured: false
 | 반려동물 | **고슴도치·페럿·돌멘게** 등 | 생활·채집 경험치, 채집물 탐지 |
 | 리아나 | **플로아모스 꽃잎** → **플로린 비법서** | 1시간 생활 숙련도 +100 · 경험치 +20% |
 
-### 3-3. 버프 적용 순서 (출발 전)
+### 3-3. 버프 적용 순서 (출발 전) {#s-3-3-beopeu-jeokyong-sunseo-chulbal-jeon}
 
 ```
 1. 해물 크론 정식
@@ -225,13 +271,13 @@ featured: false
 
 ---
 
-## 4. 유물·광명석 조합 (채집)
+## 4. 유물·광명석 조합 (채집) {#s-4-yumul-gwangmyeongseok-johap-chaejip}
 
 **세스라의 유물** 2칸 + **풀의 광명석·오색빛** 조합입니다. 상세 원문: [광명석 조합식](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=273). 9/2 이후 생활 조합은 **풀의 광명석 / 오색빛만** 사용합니다.
 
 > **팁:** 광명석 추출은 개당 은화가 듭니다. 처음엔 가진 유물에 광명석을 먼저 맞추고, 나중에 유물만 바꿔도 됩니다.
 
-### 4-1. 세스라의 유물 (채집)
+### 4-1. 세스라의 유물 (채집) {#s-4-1-seseuraui-yumul-chaejip}
 
 | 유물 | 효과 | 비고 |
 | --- | --- | --- |
@@ -242,7 +288,7 @@ featured: false
 
 유물 2칸에는 보통 **채집 경험치 + 채집 숙련도**를 짝으로 넣습니다.
 
-### 4-2. 채집 광명석 조합 (대표)
+### 4-2. 채집 광명석 조합 (대표) {#s-4-2-chaejip-gwangmyeongseok-johap-daepyo}
 
 | 목표 | 조합명 | 주요 효과 | 조합식 |
 | --- | --- | --- | --- |
@@ -258,7 +304,7 @@ featured: false
 
 > **선택과 집중 : 채집**은 숙련도 **−500**입니다. 채집복·유물 합산 숙련도에 **500 이상 여유** 있을 때만 쓰세요.
 
-### 4-3. 추천 세팅 예시
+### 4-3. 추천 세팅 예시 {#s-4-3-chucheon-seting-yesi}
 
 | 구간 | 유물 2칸 | 광명석 조합 | 체감 |
 | --- | --- | --- | --- |
@@ -276,9 +322,9 @@ featured: false
 
 ---
 
-## 5. 요정의 숨결 · 파묻힌 흔적 · 뿌리 깊은 손
+## 5. 요정의 숨결 · 파묻힌 흔적 · 뿌리 깊은 손 {#s-5-yojeongui-sumgyeol-pamuthin-heunjeok-ppuri-gip}
 
-### 5-1. 요정의 숨결
+### 5-1. 요정의 숨결 {#s-5-1-yojeongui-sumgyeol}
 
 벌목·무두질·수액 채취·호미·채광·물뜨기에서 **확률 드롭**. **〈떠돌이 연금술사〉 달리사인**에게 교환합니다. 도축·삽·맨손은 공식 숨결 목록에 없습니다.
 
@@ -289,7 +335,7 @@ featured: false
 
 올비아 **[채집 강의] 증명, 요정의 숨결!** 은 **100개**입니다(과거 300 → 완화). 약초만 파밍하기보다 **채광·도축·대량 채집**이 빠른 경우가 많습니다.
 
-### 5-2. 파묻힌 흔적
+### 5-2. 파묻힌 흔적 {#s-5-2-pamuthin-heunjeok}
 
 채집 중 낮은 확률로 **파묻힌 흔적** → **금 열쇠**로 의문의 결정 상자. **뾰족한 흑결정 조각**·자연의 열매 등. 은 열쇠 100개 → **모르코**에게 금 열쇠 교환. 공식 대상은 **벌목·무두질·수액 채취·호미·채광·도축**입니다.
 
@@ -306,9 +352,9 @@ featured: false
 
 ---
 
-## 6. 효율적인 레벨업 루트
+## 6. 효율적인 레벨업 루트 {#s-6-hyoyuljeokin-rebeleop-ruteu}
 
-### 6-1. 전체 흐름
+### 6-1. 전체 흐름 {#s-6-1-jeonche-heureum}
 
 | 순서 | 구간 | 목표 레벨 | 장비 |
 | --- | --- | --- | --- |
@@ -318,11 +364,11 @@ featured: false
 | 3 | 리아나 **일일·주간** + 필드 파밍 | 전문~장인 | 카르타~마노스 |
 | 4 | 숙련도·의뢰 병행 | 명장~ | **마노스 동(V)** |
 
-### 6-2. 1순위 — 벨리아 · 승급 의뢰
+### 6-2. 1순위 — 벨리아 · 승급 의뢰 {#s-6-2-1sunwi-belria-seunggeup-uiroe}
 
 공식 가이드는 **벨리아 마을**부터 채집 의뢰를 권장합니다. **초급 Lv.10**부터 **승급 의뢰**로 한 번에 많은 경험치를 받을 수 있습니다. **흑정령 길잡이**로 NPC를 찾을 수 있습니다.
 
-### 6-3. 2순위 — 리아나 · 루드비히
+### 6-3. 2순위 — 리아나 · 루드비히 {#s-6-3-2sunwi-riana-rudeubihi}
 
 | 종류 | 내용 |
 | --- | --- |
@@ -332,7 +378,7 @@ featured: false
 
 의뢰 보상 **플로아모스 꽃잎** 3개 → 간이 연금 **플로린 비법서**(1시간 숙련도 +100 · 경험치 +20%).
 
-### 6-4. 레벨업 원칙
+### 6-4. 레벨업 원칙 {#s-6-4-rebeleop-wonchik}
 
 1. **의뢰 + 승급**을 끊지 않기 — 같은 시간에 경험치 + 공헌도 + 흑결정 조각
 2. **잠재력 5** — 크론 정식·신록 유지
@@ -341,11 +387,11 @@ featured: false
 
 ---
 
-## 7. 올비아 아카데미 — 채집 강의·보상
+## 7. 올비아 아카데미 — 채집 강의·보상 {#s-7-olbia-akademi-chaejip-gangui-bosang}
 
 올비아 입학 중(레벨 60+)이라면 **채집 강의**만으로도 **장인~명장**까지 밀 수 있습니다. 재배·항해/교역보다 경험치 곡선이 **수렵과 같이 높은** 편입니다.
 
-### 7-1. 채집 강의 의뢰 순서
+### 7-1. 채집 강의 의뢰 순서 {#s-7-1-chaejip-gangui-uiroe-sunseo}
 
 **NPC 젤피니스** (채집학과 교수)에게 `[채집 강의]` 연쇄 의뢰를 진행합니다.
 
@@ -364,7 +410,7 @@ featured: false
 
 가문 의뢰이므로 **아카데미에 캐릭터 1명 주차**하고, 채집은 **부캐**로 해도 됩니다. 요정의 숨결은 **베어마을 약초밭**이 붐비면 **도축·채광·임프/린치** 등 다른 루트를 쓰는 편이 빠릅니다.
 
-### 7-2. 채집 강의 — 아카데미 패스 보상
+### 7-2. 채집 강의 — 아카데미 패스 보상 {#s-7-2-chaejip-gangui-akademi-paeseu-bosang}
 
 [올비아 아카데미 패스](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15100) 기준, **채집·낚시·수렵·요리·연금·가공**은 같은 곡선입니다.
 
@@ -376,7 +422,7 @@ featured: false
 
 패스는 **펄 상점 · 가문당 1회**입니다. 채집만 집중할 계획이면 가성비가 좋습니다.
 
-### 7-3. 채집 가문 보상 · 주화
+### 7-3. 채집 가문 보상 · 주화 {#s-7-3-chaejip-gamun-bosang-juhwa}
 
 올비아 UI → **가문 보상 — 생활** 에서 채집 분야 진행도를 받습니다. 생활 **전 분야** 수료 구조 안에 채집 강의 완료가 포함됩니다.
 
@@ -391,7 +437,7 @@ featured: false
 
 **올비아 주화** `[아카데미] 모험가의 생활 준비 선택 상자`(60주화, 가문당 1회)에서 **고(III) 마노스 채집꾼의 옷** 또는 **마노스 채집 도구**(종류 선택)를 고를 수 있습니다. 복·도구 **한쪽만** 부족할 때 선택하세요.
 
-### 7-4. 올비아 채집 vs 일반 루트
+### 7-4. 올비아 채집 vs 일반 루트 {#s-7-4-olbia-chaejip-vs-ilban-ruteu}
 
 | | 올비아 채집 강의 | 벨리아·승급·필드 |
 | --- | --- | --- |
@@ -404,7 +450,7 @@ featured: false
 
 ---
 
-## 8. 최종 세트까지 — 실전 스펙업 순서
+## 8. 최종 세트까지 — 실전 스펙업 순서 {#s-8-choejong-seteukkaji-siljeon-seupekeop-sunseo}
 
 ```
 [입문]
@@ -433,7 +479,7 @@ featured: false
 
 ---
 
-## 9. 자주 하는 실수
+## 9. 자주 하는 실수 {#s-9-jaju-haneun-silsu}
 
 | 실수 | 해결 |
 | --- | --- |
@@ -449,9 +495,9 @@ featured: false
 
 ---
 
-## 10. 체크리스트
+## 10. 체크리스트 {#checklist}
 
-### 준비물·도구
+### 준비물·도구 {#junbimul-dogu}
 
 ```
 □ 벌목 도끼 · 곡괭이 · 호미 · 수액 채취 · 도축칼 · 무두질칼 · (필요 시) 빈 병·삽
@@ -460,7 +506,7 @@ featured: false
 □ 채집 도구 (로기아 → 도스터 강철 → 마노스) — 쓰는 종류만 우선
 ```
 
-### 버프·유물
+### 버프·유물 {#beopeu-yumul}
 
 ```
 □ 해물을 곁들인 크론 정식
@@ -470,7 +516,7 @@ featured: false
 □ 광명석 — 입문 요정의 친구 / 레벨 심마니 / 실전 요리조리 위즐
 ```
 
-### 레벨업
+### 레벨업 {#rebeleop}
 
 ```
 □ (선택) 올비아 채집 강의 + 패스
@@ -479,7 +525,7 @@ featured: false
 □ 요정의 숨결 → 달리사인 교환 (공헌도·재료)
 ```
 
-### 올비아 (해당 시)
+### 올비아 (해당 시) {#olbia-haedang-si}
 
 ```
 □ [채집 강의] 전체 수료 + 올비움, 프론티아!
@@ -490,7 +536,7 @@ featured: false
 
 ---
 
-## 관련 링크
+## 관련 링크 {#gwanryeon-ringkeu}
 
 | 링크 | 용도 |
 | --- | --- |
@@ -509,7 +555,7 @@ featured: false
 
 ---
 
-## 정리
+## 정리 {#summary}
 
 채집은 **아홉 종류**(벌목·채광·호미·맨손·수액·도축·무두질·물뜨기·삽)와 **대상에 맞는 도구 + 채집복(로기아→카르타→마노스) + 잠재력 5**가 시작입니다. 도구는 **로기아 → 도스터 강철 → 마노스**이며, 여섯 종의 숙련도는 [벌목 도끼 대표 표](/blackdesert/2026/09/18/gathering-gear-stats-comparison/#tools)와 같습니다. **해물 크론 정식·신록의 영약**이 레벨 속도를 만들고, **생활 통합 UI → 채집**의 **세스라 유물**과 **심마니·자연인·요리조리 위즐** 조합이 그 위를 얹습니다. **올비아 채집 강의**는 카르타·도스터 고III와 **장인~명장**까지 한 번에 밀어 주는 가장 큰 지원이며, 평소에는 **승급·리아나 의뢰**와 **요정의 숨결** 루프를 이어 가면 됩니다. 채집복·도구 단계별 숙련도·경험치·소요 시간 표기는 **[비교표](/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** 에서 확인할 수 있습니다.
 

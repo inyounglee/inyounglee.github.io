@@ -34,6 +34,25 @@ featured: false
 
 ---
 
+## 목차
+
+1. [채집복 핵심 비교표 (고·유·동)](#clothes)
+    - [같은 강화 단계끼리 비교](#gateun-ganghwa-dangyekkiri-bigyo)
+    - [이전 단계 대비 차이](#ijeon-dangye-daebi-chai)
+2. [등급별 기본 스탯 (강화 +0)](#deunggeupbyeol-gibon-seutaet-ganghwa-0)
+3. [채집복 강화 단계별 전체 표](#chaejipbok-ganghwa-dangyebyeol-jeonche-pyo)
+    - [채집 숙련도](#chaejip-sukryeondo)
+    - [채집 경험치 획득량](#chaejip-gyeongheomchi-hoekdeukryang)
+4. [채집 도구 — 벌목 도끼가 대표](#tools)
+    - [도구 숙련도 (벌목 도끼 = 나머지 5종)](#dogu-sukryeondo-beolmok-dokki-nameoji-5jong)
+    - [도구만의 효과 (경험치% 없음)](#dogumanui-hyogwa-gyeongheomchi-eopeum)
+    - [채집 소요 시간 — 2025년 11월 12일 표기](#gather-time)
+5. [어떤 구간을 목표로 할까](#eotteon-guganeul-mokpyoro-halkka)
+6. [함께 보면 좋은 글](#hamkke-bomyeon-joheun-geul)
+7. [정리](#summary)
+
+---
+
 ## 채집복 핵심 비교표 (고·유·동) {#clothes}
 
 로기아·카르타·마노스 채집복의 **고(III)·유(IV)·동(V)** 스탯을 나란히 비교한 표입니다. 로기아는 **기본(+0)** 도 함께 적었습니다. 수치는 [수렵복 비교](/blackdesert/2026/09/01/hunting-armor-stats-comparison/)와 **동일 곡선**입니다.
@@ -53,7 +72,7 @@ featured: false
 
 의뢰 보상 **채집꾼의 옷**은 강화 불가·경험치 **+10%** 입니다. 표의 로기아 기본(+3%)보다 경험치는 높지만 숙련도가 없어, 입문 직후 **로기아로 교체**하는 것이 정석입니다.
 
-### 같은 강화 단계끼리 비교
+### 같은 강화 단계끼리 비교 {#gateun-ganghwa-dangyekkiri-bigyo}
 
 | 강화 | 로기아 (숙련도 / 경험치) | 카르타 | 마노스 |
 | --- | --- | --- | --- |
@@ -61,7 +80,7 @@ featured: false
 | **유(IV)** | +200 / +23% | +250 / +24% | +300 / +25% |
 | **동(V)** | +280 / +28% | +330 / +33% | +400 / +40% |
 
-### 이전 단계 대비 차이
+### 이전 단계 대비 차이 {#ijeon-dangye-daebi-chai}
 
 **로기아 내부**
 
@@ -82,7 +101,7 @@ featured: false
 
 ---
 
-## 등급별 기본 스탯 (강화 +0)
+## 등급별 기본 스탯 (강화 +0) {#deunggeupbyeol-gibon-seutaet-ganghwa-0}
 
 | 채집복 | 등급 | 기본 숙련도 | 기본 경험치 | 기본 방어력 |
 | --- | --- | ---: | ---: | ---: |
@@ -94,9 +113,9 @@ featured: false
 
 ---
 
-## 채집복 강화 단계별 전체 표
+## 채집복 강화 단계별 전체 표 {#chaejipbok-ganghwa-dangyebyeol-jeonche-pyo}
 
-### 채집 숙련도
+### 채집 숙련도 {#chaejip-sukryeondo}
 
 | 강화 | 로기아 | 카르타 | 마노스 |
 | --- | ---: | ---: | ---: |
@@ -108,7 +127,7 @@ featured: false
 | **유(IV)** | 200 | 250 | **300** |
 | **동(V)** | 280 | 330 | **400** |
 
-### 채집 경험치 획득량
+### 채집 경험치 획득량 {#chaejip-gyeongheomchi-hoekdeukryang}
 
 경험치%는 **+4**, **+11**, **장(I)**, **고(III)** 구간에서 단계적으로 오릅니다. **고(III)~유(IV)** 는 동일하고, **동(V)** 에서 크게 증가합니다.
 
@@ -140,7 +159,7 @@ featured: false
 
 파랑 도구 이름은 **도스터의 강철 벌목 도끼**(호미·곡괭이 등도 같음)입니다. 올비아 강의 가문 보상으로 **도스터의 강철 호미·곡괭이**가 나오기도 합니다.
 
-### 도구 숙련도 (벌목 도끼 = 나머지 5종)
+### 도구 숙련도 (벌목 도끼 = 나머지 5종) {#dogu-sukryeondo-beolmok-dokki-nameoji-5jong}
 
 [공식 마노스 장비 안내](https://blackdesert.pearlabyss.com/Console/ko-KR/News/Notice/Detail?_boardNo=10099)의 벌목 도끼 표입니다. 옷의 숙련도 곡선과 **같습니다.**
 
@@ -154,7 +173,7 @@ featured: false
 
 기본(+0)은 옷과 같이 로기아 **+3** · 도스터 **+4** · 마노스 **+5** 입니다. **채집 소요 시간 툴팁은 세 등급·모든 강화에서 −3초**로 같습니다. 숫자의 의미는 [아래 표기](#gather-time)를 보세요.
 
-### 도구만의 효과 (경험치% 없음)
+### 도구만의 효과 (경험치% 없음) {#dogumanui-hyogwa-gyeongheomchi-eopeum}
 
 도구는 채집 경험치%를 올리지 않습니다. 레벨업은 **채집복**이 담당합니다. (레이트 대여 도구만 예외로 경험치 +10%가 있습니다.)
 
@@ -185,7 +204,7 @@ featured: false
 
 ---
 
-## 어떤 구간을 목표로 할까
+## 어떤 구간을 목표로 할까 {#eotteon-guganeul-mokpyoro-halkka}
 
 | 상황 | 추천 | 이유 |
 | --- | --- | --- |
@@ -199,7 +218,7 @@ featured: false
 
 ---
 
-## 함께 보면 좋은 글
+## 함께 보면 좋은 글 {#hamkke-bomyeon-joheun-geul}
 
 - **[채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/)** — 아홉 종류·버프·올비아·뿌리 깊은 손 전체
 - [11월 12일 채집 소요 시간 표기 (공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=14769) — 기본 −8초 · 툴팁은 추가 초
@@ -209,7 +228,7 @@ featured: false
 
 ---
 
-## 정리
+## 정리 {#summary}
 
 | 목표 | 채집복 | 도구 (벌목 도끼 대표) | 강화 | 숙련도 (복) | 경험치 (복) |
 | --- | --- | --- | --- | ---: | ---: |

@@ -28,7 +28,22 @@ featured: false
 
 ---
 
-## 핵심 비교표 (고·유·동)
+## 목차
+
+1. [핵심 비교표 (고·유·동)](#haeksim-bigyopyo-go-yu-dong)
+    - [같은 강화 단계끼리 비교](#gateun-ganghwa-dangyekkiri-bigyo)
+    - [이전 단계 대비 차이](#ijeon-dangye-daebi-chai)
+2. [등급별 기본 스탯 (강화 +0)](#deunggeupbyeol-gibon-seutaet-ganghwa-0)
+3. [강화 단계별 전체 표](#ganghwa-dangyebyeol-jeonche-pyo)
+    - [수렵 숙련도](#suryeop-sukryeondo)
+    - [수렵 경험치 획득량](#suryeop-gyeongheomchi-hoekdeukryang)
+4. [어떤 구간을 목표로 할까](#eotteon-guganeul-mokpyoro-halkka)
+5. [함께 보면 좋은 글](#hamkke-bomyeon-joheun-geul)
+6. [정리](#summary)
+
+---
+
+## 핵심 비교표 (고·유·동) {#haeksim-bigyopyo-go-yu-dong}
 
 로기아·로바우·마노스 수렵복의 **고(III)·유(IV)·동(V)** 스탯을 나란히 비교한 표입니다. 로기아는 **기본(+0)** 도 함께 적었습니다.
 
@@ -45,7 +60,7 @@ featured: false
 
 > **로기아 동(V)** 까지 강화하면 숙련도 **+280**·경험치 **+28%** 로 **마노스 고(III) +220 / +25%** 보다 숫자는 높지만, 응축 결정 투자 대비 **로바우·마노스로 교체**하는 편이 장기적으로 유리합니다. **로바우 고(III)** 는 올비아 **가문 보상 — 생활** 등급과 동일합니다.
 
-### 같은 강화 단계끼리 비교
+### 같은 강화 단계끼리 비교 {#gateun-ganghwa-dangyekkiri-bigyo}
 
 | 강화 | 로기아 (숙련도 / 경험치) | 로바우 | 마노스 |
 | --- | --- | --- | --- |
@@ -53,7 +68,7 @@ featured: false
 | **유(IV)** | +200 / +23% | +250 / +24% | +300 / +25% |
 | **동(V)** | +280 / +28% | +330 / +33% | +400 / +40% |
 
-### 이전 단계 대비 차이
+### 이전 단계 대비 차이 {#ijeon-dangye-daebi-chai}
 
 **로기아 내부**
 
@@ -74,7 +89,7 @@ featured: false
 
 ---
 
-## 등급별 기본 스탯 (강화 +0)
+## 등급별 기본 스탯 (강화 +0) {#deunggeupbyeol-gibon-seutaet-ganghwa-0}
 
 | 수렵복 | 등급 | 기본 숙련도 | 기본 경험치 | 기본 방어력 |
 | --- | --- | ---: | ---: | ---: |
@@ -86,9 +101,9 @@ featured: false
 
 ---
 
-## 강화 단계별 전체 표
+## 강화 단계별 전체 표 {#ganghwa-dangyebyeol-jeonche-pyo}
 
-### 수렵 숙련도
+### 수렵 숙련도 {#suryeop-sukryeondo}
 
 | 강화 | 로기아 | 로바우 | 마노스 |
 | --- | ---: | ---: | ---: |
@@ -100,7 +115,7 @@ featured: false
 | **유(IV)** | 200 | 250 | **300** |
 | **동(V)** | 280 | 330 | **400** |
 
-### 수렵 경험치 획득량
+### 수렵 경험치 획득량 {#suryeop-gyeongheomchi-hoekdeukryang}
 
 경험치%는 **+4**, **+11**, **장(I)**, **고(III)** 구간에서 단계적으로 오릅니다. **고(III)~유(IV)** 는 동일하고, **동(V)** 에서 크게 증가합니다.
 
@@ -115,7 +130,7 @@ featured: false
 
 ---
 
-## 어떤 구간을 목표로 할까
+## 어떤 구간을 목표로 할까 {#eotteon-guganeul-mokpyoro-halkka}
 
 | 상황 | 추천 수렵복 | 이유 |
 | --- | --- | --- |
@@ -130,7 +145,7 @@ featured: false
 
 ---
 
-## 함께 보면 좋은 글
+## 함께 보면 좋은 글 {#hamkke-bomyeon-joheun-geul}
 
 - **[수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/)** — 화승총·가방·버프·레벨업·올비아 보상 전체
 - [채집복·도구 비교표](/blackdesert/2026/09/18/gathering-gear-stats-comparison/) — 같은 숙련도·경험치 곡선 (파랑은 카르타·도스터)
@@ -139,7 +154,7 @@ featured: false
 
 ---
 
-## 정리
+## 정리 {#summary}
 
 | 목표 | 수렵복 | 강화 | 숙련도 | 경험치 |
 | --- | --- | --- | ---: | ---: |

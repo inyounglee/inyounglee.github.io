@@ -19,7 +19,17 @@ featured: true
 
 ---
 
-## 보물 도감 (2026년 9월 22일)
+## 목차
+
+1. [보물 도감 (2026년 9월 22일)](#bomul-dogam-2026nyeon-9wol-22il)
+2. [보물 한눈에 보기](#bomul-hannune-bogi)
+3. [용도별 추천](#yongdobyeol-chucheon)
+4. [공통 제작 팁](#gongtong-jejak-tip)
+5. [참고 링크](#chamgo-ringkeu)
+
+---
+
+## 보물 도감 (2026년 9월 22일) {#bomul-dogam-2026nyeon-9wol-22il}
 
 **메뉴(ESC) → 모험(F5) → 보물 도감**에서 보물 종류·핵심 재료·획득처·제작 방법을 한곳에서 볼 수 있습니다.
 
@@ -35,7 +45,7 @@ featured: true
 
 ---
 
-## 보물 한눈에 보기
+## 보물 한눈에 보기 {#bomul-hannune-bogi}
 
 | 보물 | 주요 효과 | 제작 방식 | 난이도 | 거래 | 가이드 |
 | --- | --- | --- | :---: | --- | --- |
@@ -52,7 +62,7 @@ featured: true
 
 ---
 
-## 용도별 추천
+## 용도별 추천 {#yongdobyeol-chucheon}
 
 | 목적 | 추천 보물 |
 | --- | --- |
@@ -66,7 +76,7 @@ featured: true
 
 ---
 
-## 공통 제작 팁
+## 공통 제작 팁 {#gongtong-jejak-tip}
 
 1. **조합 전 감정** — 나침반 부품·지도 조각은 드랍 직후 이름이 같아 **NPC 감정**이 필요합니다.
 2. **풍경화** — 에벤루스의 놀·크로그달로의 둥지·동동 램프를 제외한 대부분 보물은 **풍경화**로 재료·완제 획득이 가능합니다. **2026년 9월 22일**부터 **풍경화 물감 선택 상자**·**[이벤트] 풍경화 물감 선택 상자**를 열 때 **라 오르제카의 물감**을 고를 수 있고, **엘라 세르빈** 등 지정 사냥터에서 **라 오르제카의 물감**이 전리품으로 나옵니다. (데키아의 등불·일부 구역은 풍경화 미적용)
@@ -75,7 +85,7 @@ featured: true
 
 ---
 
-## 참고 링크
+## 참고 링크 {#chamgo-ringkeu}
 
 - [공식 — 보물 아이템 만들기](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=194)
 - [9월 22일 업데이트 — 보물 도감·라 오르제카 풍경화](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR)

@@ -27,9 +27,24 @@ featured: false
 
 ---
 
+## 목차
+
+1. [빠르고 저렴하게](#cheap)
+    - [유물](#yumul)
+    - [광명석 조합 — 일격필살](#gwangmyeongseok-johap-ilgyeokpilsal)
+2. [최종 단계 — 카부아](#final)
+    - [카부아의 유물](#kabuaui-yumul)
+    - [인도하는 카부아의 유물](#indohaneun-kabuaui-yumul)
+    - [생존이 필요할 때 — 데키아](#saengjoni-pilyohal-ttae-dekia)
+    - [쓰지 않는 조합 (은화 사냥)](#sseuji-anneun-johap-eunhwa-sanyang)
+3. [전이·가방](#jeoni-gabang)
+4. [정리](#summary)
+
+---
+
 ## 빠르고 저렴하게 {#cheap}
 
-### 유물
+### 유물 {#yumul}
 
 사냥용 기본 유물은 **마쉬의 유물**입니다. 근거리/원거리/마법 공, 적중, **몬스터 추가 공격력** 계열이 있습니다. 사냥이면 **몬스터 추가 공격력** 붙는 마쉬 2개가 무난합니다. (한 개당 몬스터 추공 **+6**인 종류가 대표적입니다.)
 
@@ -44,7 +59,7 @@ featured: false
 
 자리가 너무 아프면 마쉬 1 + 레샤 1, 또는 케헬로 생존을 섞습니다. 은화 효율은 공이 우선이라, 버틸 수 있으면 마쉬 2가 먼저입니다.
 
-### 광명석 조합 — 일격필살
+### 광명석 조합 — 일격필살 {#gwangmyeongseok-johap-ilgyeokpilsal}
 
 사냥 최소 조합은 **[일격필살]** 입니다.
 
@@ -64,7 +79,7 @@ featured: false
 
 ## 최종 단계 — 카부아 {#final}
 
-### 카부아의 유물
+### 카부아의 유물 {#kabuaui-yumul}
 
 사냥 특화 최상위 유물입니다. [어둠 추종자 침소](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/)·[이스라히드 고원](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/) 드랍 또는 통합 거래소.
 
@@ -79,7 +94,7 @@ featured: false
 
 거래소 시세는 서버·시기에 따라 **수억~수십억**으로 벌어집니다. 침소·고원을 이미 도는 중이면 드랍을 노리고, 급하면 한 쪽만 사고 나머지는 마쉬로 채워도 됩니다.
 
-### 인도하는 카부아의 유물
+### 인도하는 카부아의 유물 {#indohaneun-kabuaui-yumul}
 
 에다니아 전리품 **인도자의 결정**으로 만든 개량석 **무결한 인도자의 결정체**를 카부아에 개량합니다.
 
@@ -89,7 +104,7 @@ featured: false
 
 개량된 유물은 **거래소 등록이 안 됩니다.** 개량석을 빼려면 대도시 대장장이의 **균형의 거울**이 필요합니다. 에다니아 입문 전후에는 [아에테리온](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/#aetherion)부터 재료를 보기 시작합니다.
 
-### 생존이 필요할 때 — 데키아
+### 생존이 필요할 때 — 데키아 {#saengjoni-pilyohal-ttae-dekia}
 
 올룬 [데키아 II]처럼 맞는 자리, 또는 공이 남아 생존이 문제일 때만 고려합니다.
 
@@ -102,7 +117,7 @@ featured: false
 
 생활 최상위 **마가한의 유물**은 [수렵](/blackdesert/2026/09/01/hunting-lifeskill-guide/)·채집용입니다. 전투 사냥 슬롯에 끼지 마세요.
 
-### 쓰지 않는 조합 (은화 사냥)
+### 쓰지 않는 조합 (은화 사냥) {#sseuji-anneun-johap-eunhwa-sanyang}
 
 | 조합 | 내용 | 왜 비추천 |
 | --- | --- | --- |
@@ -112,13 +127,13 @@ featured: false
 
 ---
 
-## 전이·가방
+## 전이·가방 {#jeoni-gabang}
 
 유물 전이는 캐릭터 간 이동 규칙이 있습니다. 최상위 유물을 옮기기 전에 게임 안 안내와 공식 가이드 **1.4 유물 전이 규칙**을 확인하세요. 유물·광명석 전용 가방이 따로 있습니다.
 
 ---
 
-## 정리
+## 정리 {#summary}
 
 | 지금 | 할 일 |
 | --- | --- |

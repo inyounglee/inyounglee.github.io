@@ -17,7 +17,17 @@ featured: false
 
 ---
 
-## 효과 요약
+## 목차
+
+1. [효과 요약](#hyogwa-yoyak)
+2. [최종 조합](#choejong-johap)
+3. [문양이 새겨진 놀](#s-1-munyangi-saegyeojin-nol)
+4. [에벤루스](#s-2-ebenruseu)
+5. [팁](#tip)
+
+---
+
+## 효과 요약 {#hyogwa-yoyak}
 
 | 항목 | 내용 |
 | --- | --- |
@@ -30,7 +40,7 @@ featured: false
 
 ---
 
-## 최종 조합
+## 최종 조합 {#choejong-johap}
 
 | 재료 | 획득 |
 | --- | --- |
@@ -41,7 +51,7 @@ featured: false
 
 ---
 
-## 1. 문양이 새겨진 놀
+## 1. 문양이 새겨진 놀 {#s-1-munyangi-saegyeojin-nol}
 
 | 단계 | 내용 |
 | --- | --- |
@@ -53,7 +63,7 @@ featured: false
 
 ---
 
-## 2. 에벤루스
+## 2. 에벤루스 {#s-2-ebenruseu}
 
 | 재료 | 수급 |
 | --- | --- |
@@ -64,7 +74,7 @@ featured: false
 
 ---
 
-## 팁
+## 팁 {#tip}
 
 - **찢어진 보물지도 조각**은 **같은 모양 중첩 불가** — 9종 각 1개씩 필요.
 - 놀 드랍이 RNG 병목; 꽃 1,000개·주화 구매는 상대적으로 확정에 가깝습니다.

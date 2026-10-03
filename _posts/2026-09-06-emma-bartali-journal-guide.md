@@ -15,7 +15,28 @@ featured: false
 
 # 엠마 바탈리의 기록일지 진행 가이드
 
-## 일지 여는 법
+## 목차
+
+1. [일지 여는 법](#ilji-yeoneun-beop)
+2. [한눈에 보는 장별 보상](#hannune-boneun-jangbyeol-bosang)
+    - [카라자드 강화 지원으로 보면](#karajadeu-ganghwa-jiwoneuro-bomyeon)
+3. [권장 진행 순서](#gwonjang-jinhaeng-sunseo)
+4. [장별 진행 요약](#jangbyeol-jinhaeng-yoyak)
+    - [1장 — 이고르 바탈리 5권](#s-1jang-igoreu-batalri-5gwon)
+    - [2장 — 까마귀의 둥지 까마귀의 용병](#s-2jang-kkamagwiui-dungji-kkamagwiui-yongbyeong)
+    - [3장 — 승급 광 : 불멸의 까마귀 휘장](#s-3jang-seunggeup-gwang-bulmyeolui-kkamagwi-hwijan)
+    - [4장 — 툰그라드 대사원 · 파푸에게 주는 선물](#s-4jang-tungeuradeu-daesawon-papuege-juneun-seonmu)
+    - [5장 — 아침의 나라](#s-5jang-achimui-nara)
+    - [6장 — 잠식의 결계 V](#s-6jang-jamsikui-gyeolgye-v)
+    - [7~8장 — 검은 사당 동해도(개인)](#s-7-8jang-geomeun-sadang-donghaedo-gaein)
+    - [9~12장 — 어둠의 틈](#s-9-12jang-eodumui-teum)
+    - [13장 — 흑정령](#s-13jang-heukjeongryeong)
+5. [체크리스트](#checklist)
+6. [관련 링크](#gwanryeon-ringkeu)
+
+---
+
+## 일지 여는 법 {#ilji-yeoneun-beop}
 
 1. 메뉴(ESC) → **모험(F5)** → **모험일지 책장**
 2. **「올비아 아카데미 성장일지」** → **엠마 바탈리의 기록일지**
@@ -29,7 +50,7 @@ featured: false
 
 ---
 
-## 한눈에 보는 장별 보상
+## 한눈에 보는 장별 보상 {#hannune-boneun-jangbyeol-bosang}
 
 | 장 | 완료 조건 | 보상 |
 | ---: | --- | --- |
@@ -47,7 +68,7 @@ featured: false
 | **12** | 어둠의 틈 — **아히브의 그리폰** 처치 | 고대의 블랙스톤 - 운(VI) **1** |
 | **13** | 1~12장 전부 완료 후 **흑정령**과 대화 | 고대의 블랙스톤 - 우(VII) **2** |
 
-### 카라자드 강화 지원으로 보면
+### 카라자드 강화 지원으로 보면 {#karajadeu-ganghwa-jiwoneuro-bomyeon}
 
 | 카라자드 단계 | 확정 강화석(고대의 블랙스톤) | 하락 방지(고대의 망치) |
 | --- | --- | --- |
@@ -59,7 +80,7 @@ featured: false
 
 ---
 
-## 권장 진행 순서
+## 권장 진행 순서 {#gwonjang-jinhaeng-sunseo}
 
 ```
 1장(이고르 5권)
@@ -74,14 +95,14 @@ featured: false
 
 ---
 
-## 장별 진행 요약
+## 장별 진행 요약 {#jangbyeol-jinhaeng-yoyak}
 
-### 1장 — 이고르 바탈리 5권
+### 1장 — 이고르 바탈리 5권 {#s-1jang-igoreu-batalri-5gwon}
 
 - 모험일지 책장 → **이고르 바탈리의 모험일지** 1~5권 완료
 - 5권까지 가면 가문 **공방합** 보너스도 같이 열리므로 하이퍼 부스트 **750** 루트와도 겹칩니다. ([하이퍼 부스트 6단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-6))
 
-### 2장 — `[까마귀의 둥지] 까마귀의 용병`
+### 2장 — `[까마귀의 둥지] 까마귀의 용병` {#s-2jang-kkamagwiui-dungji-kkamagwiui-yongbyeong}
 
 - 대양 **까마귀의 둥지** 연속 의뢰의 마지막 구간
 - 시작 의뢰: **`[까마귀의 둥지] 까마귀의 둥지로`**
@@ -91,7 +112,7 @@ featured: false
 
 완료 시 **장 : 불멸의 까마귀 휘장**도 받게 되어, 3장(광 승급) 선행이 됩니다.
 
-### 3장 — `[승급] 광 : 불멸의 까마귀 휘장`
+### 3장 — `[승급] 광 : 불멸의 까마귀 휘장` {#s-3jang-seunggeup-gwang-bulmyeolui-kkamagwi-hwijan}
 
 1. **장** 휘장을 모험가의 고서에 장착하고 불멸의 나락으로 입장
 2. 쵸르피에게 승급 도전 → 발킨 → 철벽의 사나이 → 에버가트 → 반 라이커
@@ -100,7 +121,7 @@ featured: false
 입장·휘장 능력치·상위 승급·주간 크론석은 **[불멸의 나락 가이드](/blackdesert/2026/10/03/pit-of-the-undying-guide/)**에 모아 두었습니다.  
 의뢰 DB: [BDO Codex — 광 : 불멸의 까마귀 휘장](https://bdocodex.com/kr/quest/3723/12/)
 
-### 4장 — 툰그라드 대사원 · 파푸에게 주는 선물
+### 4장 — 툰그라드 대사원 · 파푸에게 주는 선물 {#s-4jang-tungeuradeu-daesawon-papuege-juneun-seonmu}
 
 가문 **공격력 +1 / 방어력 +1** 의뢰이자 일지 4장 조건입니다. ([공식 — 능력치 올리기](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=308))
 
@@ -111,18 +132,18 @@ featured: false
 
 추천 의뢰 `[모험 지원] 메린돌라의 축복…` / `비오렌치아의 축복…`에서도 안내됩니다.
 
-### 5장 — 아침의 나라
+### 5장 — 아침의 나라 {#s-5jang-achimui-nara}
 
 - `[아침의 나라] 도깨비의 선물` · `[아침의 나라] 태백을 호령하는 자` 완료
 - 아침의 나라 메인·설화(태백 호령) 루트를 끝까지 진행하면 충족됩니다.
 - 하이퍼 부스트 **태고 방어구** 선행과도 겹칩니다.
 
-### 6장 — 잠식의 결계 V
+### 6장 — 잠식의 결계 V {#s-6jang-jamsikui-gyeolgye-v}
 
 - 엘비아 서버 · `[엘비아] 흑요석의 재` 등 선행 후 **크자카 : 잠식의 결계 I~V**
 - **V**까지 클리어해야 일지 6장 + 가문 **공격력 +1** 등 보너스
 
-### 7~8장 — 검은 사당 동해도(개인)
+### 7~8장 — 검은 사당 동해도(개인) {#s-7-8jang-geomeun-sadang-donghaedo-gaein}
 
 | 장 | 토벌 |
 | ---: | --- |
@@ -131,7 +152,7 @@ featured: false
 
 메뉴 → 모험 → **검은 사당** → 동해도(개인) → 해당 보스 · 난이도 **구재시니**.
 
-### 9~12장 — 어둠의 틈
+### 9~12장 — 어둠의 틈 {#s-9-12jang-eodumui-teum}
 
 **2026년 8월 5일** 업데이트로 황해도(파티) 도전 목표가 **어둠의 틈**으로 바뀌었습니다. 보상은 동일합니다. ([공식 공지](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15998&countryType=ko-KR))
 
@@ -144,13 +165,13 @@ featured: false
 
 메뉴 → 모험 → **어둠의 틈**에서 해당 보스를 처치하면 됩니다. (솔로·파티 가능, 황해도 도전보다 진입 난이도가 낮음)
 
-### 13장 — 흑정령
+### 13장 — 흑정령 {#s-13jang-heukjeongryeong}
 
 1~12장 보상까지 수령한 뒤 흑정령과 대화 → **고대의 블랙스톤 - 우(VII) 2개**.
 
 ---
 
-## 체크리스트
+## 체크리스트 {#checklist}
 
 ```
 □ 1장  이고르 5권
@@ -171,7 +192,7 @@ featured: false
 
 ---
 
-## 관련 링크
+## 관련 링크 {#gwanryeon-ringkeu}
 
 | 링크 | 용도 |
 | --- | --- |

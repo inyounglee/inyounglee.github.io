@@ -17,7 +17,19 @@ featured: false
 
 ---
 
-## 효과 요약
+## 목차
+
+1. [효과 요약](#hyogwa-yoyak)
+2. [필요 재료 (5종)](#pilyo-jaeryo-5jong)
+3. [핵심 재료 드랍 사냥터](#haeksim-jaeryo-deurap-sanyangteo)
+4. [주간 의뢰 (재료 보조)](#jugan-uiroe-jaeryo-bojo)
+5. [조합 방법](#johap-bangbeop)
+    - [하위 물약 루트 (재료 1~2개만 있을 때)](#hawi-mulyak-ruteu-jaeryo-1-2gaeman-iteul-ttae)
+6. [팁](#tip)
+
+---
+
+## 효과 요약 {#hyogwa-yoyak}
 
 | 항목 | 내용 |
 | --- | --- |
@@ -28,7 +40,7 @@ featured: false
 
 ---
 
-## 필요 재료 (5종)
+## 필요 재료 (5종) {#pilyo-jaeryo-5jong}
 
 | 재료 | 수급 방법 |
 | --- | --- |
@@ -42,7 +54,7 @@ featured: false
 
 ---
 
-## 핵심 재료 드랍 사냥터
+## 핵심 재료 드랍 사냥터 {#haeksim-jaeryo-deurap-sanyangteo}
 
 | 재료 (천장) | 대표 사냥터 | 완제 드랍 몬스터 |
 | --- | --- | --- |
@@ -54,7 +66,7 @@ featured: false
 
 ---
 
-## 주간 의뢰 (재료 보조)
+## 주간 의뢰 (재료 보조) {#jugan-uiroe-jaeryo-bojo}
 
 매주 **목요일 00시** 갱신. **전투** 타입 주간 의뢰 활성화 상태에서 수주.
 
@@ -66,12 +78,12 @@ featured: false
 
 ---
 
-## 조합 방법
+## 조합 방법 {#johap-bangbeop}
 
 1. 핵심 재료 3종 + 악기 정령 소리의 돌 + 가야크 용기의 돌을 **가방 조합식**에 맞게 배치
 2. **조합(+)** 으로 **오네트의 정령수** 완성
 
-### 하위 물약 루트 (재료 1~2개만 있을 때)
+### 하위 물약 루트 (재료 1~2개만 있을 때) {#hawi-mulyak-ruteu-jaeryo-1-2gaeman-iteul-ttae}
 
 | 단계 | 조건 |
 | --- | --- |
@@ -83,7 +95,7 @@ featured: false
 
 ---
 
-## 팁
+## 팁 {#tip}
 
 - 완제 사냥터(붉은 늑대 부락, 셰레칸의 묘 등)는 **수익·드랍** 모두 나쁘지 않아, 아타니스만 파는 것보다 **완제+천장 병행**이 일반적입니다.
 - **축복이 가득한 정령수**는 핵심 재료 드랍 시 **추가 1개**씩 쌓아 올리는 방식으로도 완성 가능합니다.

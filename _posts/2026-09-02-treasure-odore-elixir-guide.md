@@ -17,7 +17,19 @@ featured: false
 
 ---
 
-## 효과 요약
+## 목차
+
+1. [효과 요약](#hyogwa-yoyak)
+2. [필요 재료 (5종)](#pilyo-jaeryo-5jong)
+3. [핵심 재료 드랍 사냥터](#haeksim-jaeryo-deurap-sanyangteo)
+4. [주간 의뢰](#jugan-uiroe)
+5. [교환 재료 수급](#gyohwan-jaeryo-sugeup)
+6. [조합](#johap)
+7. [팁](#tip)
+
+---
+
+## 효과 요약 {#hyogwa-yoyak}
 
 | 항목 | 내용 |
 | --- | --- |
@@ -28,7 +40,7 @@ featured: false
 
 ---
 
-## 필요 재료 (5종)
+## 필요 재료 (5종) {#pilyo-jaeryo-5jong}
 
 | 재료 | 수급 방법 |
 | --- | --- |
@@ -40,7 +52,7 @@ featured: false
 
 ---
 
-## 핵심 재료 드랍 사냥터
+## 핵심 재료 드랍 사냥터 {#haeksim-jaeryo-deurap-sanyangteo}
 
 | 재료 (천장) | 사냥터 | 완제·비고 |
 | --- | --- | --- |
@@ -52,7 +64,7 @@ featured: false
 
 ---
 
-## 주간 의뢰
+## 주간 의뢰 {#jugan-uiroe}
 
 | 의뢰 | NPC·지역 | 목표 | 보상 |
 | --- | --- | --- | --- |
@@ -62,7 +74,7 @@ featured: false
 
 ---
 
-## 교환 재료 수급
+## 교환 재료 수급 {#gyohwan-jaeryo-sugeup}
 
 | 재료 | 수급 |
 | --- | --- |
@@ -71,7 +83,7 @@ featured: false
 
 ---
 
-## 조합
+## 조합 {#johap}
 
 핵심 재료 3종 + 밤 까마귀 여명의 돌 + 크로그달로 수호의 돌을 가방 **조합식**에 배치 후 **조합(+)**.
 
@@ -79,7 +91,7 @@ featured: false
 
 ---
 
-## 팁
+## 팁 {#tip}
 
 - **나크의 붉은 눈물** 완제가 가장 어렵다는 평이 많습니다. 아타니스·주간 의뢰·트쉬라 천장 병행을 권장합니다.
 - 오네트 대비 **제작 난이도가 한 단계 높음** — 거래소 구매(고가) vs 직접 제작 중 선택 가능.

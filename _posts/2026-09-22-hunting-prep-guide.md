@@ -36,6 +36,21 @@ featured: true
 
 ---
 
+## 목차
+
+1. [빠르고 저렴 vs 최종](#cost)
+2. [펫 — 자동 룻팅](#pets)
+3. [요정 — 자동 물약](#fairy)
+4. [수정 — 사냥용 공업](#crystals)
+5. [유물 — 광명석 조합](#artifacts)
+6. [최소한의 버프 도핑](#doping)
+    - [빠르고 저렴 (사냥 최소선)](#ppareugo-jeoryeom-sanyang-choesoseon)
+    - [있으면 효율이 한 단계 오르는 것](#iteumyeon-hyoyuli-han-dangye-oreuneun-geot)
+7. [출발 전 체크리스트](#checklist)
+8. [관련 글](#related)
+
+---
+
 ## 빠르고 저렴 vs 최종 {#cost}
 
 비용은 **2026년 9월 전후 거래소·제작 원가 대략치**입니다. 시세는 매일 바뀌므로 출발 전 통합 거래소를 보세요. 펄 상품·이벤트 상자·의뢰 보상은 은화 비용을 크게 줄입니다.
@@ -101,7 +116,7 @@ featured: true
 
 버프는 **분류마다 하나만** 겹칩니다. 음식끼리, 영약끼리 덮어씁니다. 공식 [사냥 가이드](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=285) 기준 중요도가 높은 것부터입니다.
 
-### 빠르고 저렴 (사냥 최소선)
+### 빠르고 저렴 (사냥 최소선) {#ppareugo-jeoryeom-sanyang-choesoseon}
 
 | 분류 | 추천 | 대략 비용·비고 |
 | --- | --- | --- |
@@ -124,7 +139,7 @@ featured: true
 
 고수익 사냥터 글의 시간당 은화는 **상줌 2 + 아그**를 켠 값입니다. 둘 다 끄면 표보다 많이 깎입니다.
 
-### 있으면 효율이 한 단계 오르는 것
+### 있으면 효율이 한 단계 오르는 것 {#iteumyeon-hyoyuli-han-dangye-oreuneun-geot}
 
 | 분류 | 추천 | 비고 |
 | --- | --- | --- |
@@ -140,7 +155,7 @@ featured: true
 
 ---
 
-## 출발 전 체크리스트
+## 출발 전 체크리스트 {#checklist}
 
 ```
 [ ] 펫 5마리 소환 (반려동물 목록 또는 Alt+ 그룹)
@@ -155,7 +170,7 @@ featured: true
 
 ---
 
-## 관련 글
+## 관련 글 {#related}
 
 | 글 | 역할 |
 | --- | --- |
