@@ -93,12 +93,11 @@ featured: false
 
 ### 3장 — `[승급] 광 : 불멸의 까마귀 휘장`
 
-1. **장** 휘장 장착 → 불멸의 나락에서 일일·주간으로 **까마귀의 검은 보옥** 수집  
-2. 쵸르피에게 보옥 **10개** → `[승급] 광 : 봉인된 까마귀의 승급서`  
-3. 가방의 **광 : 까마귀의 승급서**로 승급전 (발킨 → 철벽의 사나이 → 에버가트 → 반 라이커)  
-4. 실패 시 의뢰 포기 후 재수주 · 재도전은 보옥 **5개**
+1. **장** 휘장을 모험가의 고서에 장착하고 불멸의 나락으로 입장
+2. 쵸르피에게 승급 도전 → 발킨 → 철벽의 사나이 → 에버가트 → 반 라이커
+3. 실패하면 의뢰를 포기하고 다시 받는다
 
-입장·휘장·보옥·승급 요약: **[불멸의 나락 입장 방법 및 콘텐츠](https://dodoripyogirok.tistory.com/entry/%EB%B6%88%EB%A9%B8%EC%9D%98-%EB%82%98%EB%9D%BD-%EC%9E%85%EC%9E%A5-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%BB%A8%ED%85%90%EC%B8%A0)**  
+입장·휘장 능력치·상위 승급·주간 크론석은 **[불멸의 나락 가이드](/blackdesert/2026/10/03/pit-of-the-undying-guide/)**에 모아 두었습니다.  
 의뢰 DB: [BDO Codex — 광 : 불멸의 까마귀 휘장](https://bdocodex.com/kr/quest/3723/12/)
 
 ### 4장 — 툰그라드 대사원 · 파푸에게 주는 선물
@@ -156,7 +155,7 @@ featured: false
 ```
 □ 1장  이고르 5권
 □ 2장  까마귀의 용병 (+ 장 휘장)
-□ 3장  광 휘장 승급 (보옥 10)
+□ 3장  광 휘장 승급
 □ 4장  툰그라드 대사원 + 파푸에게 주는 선물
 □ 5장  도깨비의 선물 + 태백을 호령하는 자
 □ 6장  잠식의 결계 V
@@ -179,7 +178,7 @@ featured: false
 | [하이퍼 부스트 5단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5) | 일지 위치·카라자드 지원 요약 |
 | [까마귀의 둥지 연속 의뢰](https://blueforget.tistory.com/263) | 2장 `[까마귀의 용병]` |
 | [올비아 항해·교역 시작](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 배 없을 때 고속정·경범선 |
-| [불멸의 나락 입장·승급](https://dodoripyogirok.tistory.com/entry/%EB%B6%88%EB%A9%B8%EC%9D%98-%EB%82%98%EB%9D%BD-%EC%9E%85%EC%9E%A5-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EC%BB%A8%ED%85%90%EC%B8%A0) | 3장 광 휘장 승급 |
+| [불멸의 나락 가이드](/blackdesert/2026/10/03/pit-of-the-undying-guide/) | 3장 광 휘장 승급 · 주간 수익 |
 | [능력치 올리기 — 파푸·툰그라드](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=308) | 4장 공식 안내 |
 | [8월 5일 업데이트(공식)](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15998&countryType=ko-KR) | 9~12장 목표 → 어둠의 틈 |
 | [7월 29일 업데이트(인벤)](https://www.inven.co.kr/board/black/4123/17342) | 장별 보상·초기 조건 원문 |
