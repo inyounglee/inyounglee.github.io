@@ -15,7 +15,7 @@ featured: true
 
 > 화승총 수렵이 아니라 **전투 사냥**(은화 자리, 헥세·고원·툰유 등) 준비면 → **[사냥 준비 가이드](/blackdesert/2026/09/22/hunting-prep-guide/)**
 
-> 관련: [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
+> 관련: [낚시 생활 가이드](/blackdesert/2026/10/03/fishing-lifeskill-guide/) · [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
 # 검은사막 수렵 생활 가이드
 

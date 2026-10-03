@@ -13,7 +13,7 @@ featured: false
 
 > **채집복·도구 숙련도·경험치·소요 시간 표기**만 비교하고 싶다면 → **[채집복·도구 비교표 (로기아·카르타·마노스)](/blackdesert/2026/09/18/gathering-gear-stats-comparison/)** · [소요 시간 표기](/blackdesert/2026/09/18/gathering-gear-stats-comparison/#gather-time)
 
-> 관련: [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
+> 관련: [낚시 생활 가이드](/blackdesert/2026/10/03/fishing-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)
 
 # 검은사막 채집 생활 가이드
 
