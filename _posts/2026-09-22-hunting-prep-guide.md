@@ -161,6 +161,7 @@ featured: true
 | --- | --- |
 | [하이퍼 부스트 장비](/blackdesert/2026/08/15/hyper-boost-equipment-guide/) | 공방합 ~750까지 장비 |
 | [고수익 사냥터](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/) | 헥세·고원·툰유·침소 등 |
+| [마가이아 신전](/blackdesert/2026/10/03/magaia-temple-prep-guide/) | 표기 410/490 최상위 솔로 |
 | [액세서리 업그레이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) | 카라자드 → 에크레타/아페론 |
 | [오네트의 정령수](/blackdesert/2026/09/02/treasure-onet-elixir-guide/) | 무한 생명력 회복 |
 | [오도어의 정령수](/blackdesert/2026/09/02/treasure-odore-elixir-guide/) | 무한 정신력·투지·신성력 |
