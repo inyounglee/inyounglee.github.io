@@ -3,38 +3,18 @@
 
 from __future__ import annotations
 
-import io
-import re
-import urllib.request
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT_PATH = ROOT / "assets" / "images" / "posts" / "magaia-temple-prep-guide.webp"
-CODEX = "https://bdocodex.com"
-WIDTH, HEIGHT, PADDING = 760, 430, 72
-
-
-def fetch(url: str) -> bytes:
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    return urllib.request.urlopen(req, timeout=30).read()
-
-
-def find_icon() -> Image.Image | None:
-    html = fetch(f"{CODEX}/kr/search/?q=%EC%97%98%EB%A6%AC%EC%96%B8+%EC%B6%94%EC%A2%85%EC%9E%90%EC%9D%98+%ED%88%AC%EA%B5%AC").decode(
-        "utf-8", "ignore"
-    )
-    item = re.search(r"/kr/item/(\d+)/", html)
-    if not item:
-        return None
-    page = fetch(f"{CODEX}/kr/item/{item.group(1)}/").decode("utf-8", "ignore")
-    match = re.search(r"(?:https://bdocodex\.com/)?(items/new_icon/[^\"']+\.(?:webp|png))", page)
-    if not match:
-        return None
-    path = match.group(1)
-    url = path if path.startswith("http") else f"{CODEX}/{path}"
-    return Image.open(io.BytesIO(fetch(url))).convert("RGBA")
+WIDTH, HEIGHT = 760, 430
+# Title grows until its ink sits this far from both edges.
+SIDE = 64
+TITLE = "마가이아 신전"
+SUB = "공방 410 / 490 · 준비"
+SUB_RATIO = 26 / 48
 
 
 def load_font(size: int, bold: bool = False) -> ImageFont.ImageFont:
@@ -44,6 +24,46 @@ def load_font(size: int, bold: bool = False) -> ImageFont.ImageFont:
         if path.exists():
             return ImageFont.truetype(str(path), size=size)
     return ImageFont.load_default()
+
+
+def ink(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.ImageFont) -> tuple[int, int, int, int]:
+    box = draw.textbbox((0, 0), text, font=font)
+    return box[0], box[1], box[2] - box[0], box[3] - box[1]
+
+
+def fit_title(draw: ImageDraw.ImageDraw) -> tuple[ImageFont.ImageFont, ImageFont.ImageFont, int]:
+    max_w = WIDTH - 2 * SIDE
+    chosen = 28
+    for size in range(28, 160):
+        title_font = load_font(size, bold=True)
+        sub_font = load_font(max(18, round(size * SUB_RATIO)))
+        _, _, tw, th = ink(draw, TITLE, title_font)
+        _, _, sw, sh = ink(draw, SUB, sub_font)
+        gap = round(18 * size / 48)
+        if max(tw, sw) <= max_w and th + gap + sh <= HEIGHT - 96:
+            chosen = size
+        else:
+            break
+    return load_font(chosen, bold=True), load_font(max(18, round(chosen * SUB_RATIO))), chosen
+
+
+def draw_line(draw: ImageDraw.ImageDraw, text: str, font: ImageFont.ImageFont, top: int, fill: tuple[int, int, int, int]) -> int:
+    ox, oy, tw, th = ink(draw, text, font)
+    x = (WIDTH - tw) // 2 - ox
+    draw.text((x, top - oy), text, font=font, fill=fill)
+    return th
+
+
+def draw_pair(canvas: Image.Image) -> None:
+    draw = ImageDraw.Draw(canvas)
+    title_font, sub_font, size = fit_title(draw)
+    gap = round(18 * size / 48)
+    _, _, _, th = ink(draw, TITLE, title_font)
+    _, _, _, sh = ink(draw, SUB, sub_font)
+    top = (HEIGHT - (th + gap + sh)) // 2
+    draw_line(draw, TITLE, title_font, top, (248, 246, 240, 255))
+    draw_line(draw, SUB, sub_font, top + th + gap, (220, 196, 120, 255))
+    print("title", size, "sub", max(18, round(size * SUB_RATIO)))
 
 
 def main() -> None:
@@ -62,30 +82,9 @@ def main() -> None:
     od.ellipse((WIDTH - 400, -120, WIDTH + 60, 320), fill=(180, 150, 70, 40))
     od.ellipse((-160, HEIGHT - 240, 260, HEIGHT + 80), fill=(40, 70, 120, 46))
     canvas = Image.alpha_composite(canvas, overlay)
-
-    try:
-        icon = find_icon()
-    except Exception as exc:
-        print("icon skipped", exc)
-        icon = None
-    if icon is not None:
-        size = 188
-        icon = icon.resize((size, size), Image.Resampling.LANCZOS)
-        x = WIDTH - PADDING - size
-        y = (HEIGHT - size) // 2
-        glow = Image.new("RGBA", (size + 48, size + 48), (0, 0, 0, 0))
-        ImageDraw.Draw(glow).ellipse((0, 0, size + 48, size + 48), fill=(220, 190, 90, 50))
-        canvas.alpha_composite(glow, (x - 24, y - 24))
-        canvas.alpha_composite(icon, (x, y))
-
-    d = ImageDraw.Draw(canvas)
-    title = load_font(48, bold=True)
-    sub = load_font(26)
-    d.text((PADDING, PADDING + 48), "마가이아 신전", font=title, fill=(248, 246, 240, 255))
-    bbox = d.textbbox((PADDING, PADDING + 48), "마가이아 신전", font=title)
-    d.text((PADDING, bbox[3] + 18), "공방 410 / 490 · 준비", font=sub, fill=(220, 196, 120, 255))
+    draw_pair(canvas)
     canvas.convert("RGB").save(OUT_PATH, format="WEBP", quality=92, method=6)
-    print("Wrote", OUT_PATH, "icon", icon is not None)
+    print("Wrote", OUT_PATH)
 
 
 if __name__ == "__main__":
