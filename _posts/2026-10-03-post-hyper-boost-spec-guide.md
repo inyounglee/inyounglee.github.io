@@ -9,7 +9,9 @@ image_alt: 하이퍼 부스트 이후 스펙업 가이드 썸네일
 featured: false
 ---
 
-아래 내용은 **2026년 10월 기준 한국 검은사막 PC판**입니다. 출발 장비는 [하이퍼 부스트](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)를 마친 **표기 공격력 339 / 방어력 411**(공방합 약 750, 일그러진 태고)입니다. 어느 사냥터로 은화를 벌지는 [고수익 사냥터](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/), 나가기 전 도핑은 [사냥 준비](/blackdesert/2026/09/22/hunting-prep-guide/), 악세 부위 순서는 [액세서리 업그레이드](/blackdesert/2026/09/04/accessory-upgrade-guide/)를 보세요.
+아래 내용은 **2026년 10월 7일 한국 검은사막 PC판**입니다. 출발 장비는 [하이퍼 부스트](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)를 마친 **표기 공격력 339 / 방어력 411**(공방합 약 750, 일그러진 태고)입니다. 어느 사냥터로 은화를 벌지는 [고수익 사냥터](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/), 나가기 전 도핑은 [사냥 준비](/blackdesert/2026/09/22/hunting-prep-guide/), 악세 부위 순서는 [액세서리 업그레이드](/blackdesert/2026/09/04/accessory-upgrade-guide/)를 보세요.
+
+**레벨(10/7):** 전투 최대 레벨이 **75**로 늘었고, **70~75**에서 몬스터 추가 공·방이 레벨마다 **+3**씩 붙습니다(캐릭터 전환 시 가문 최고 레벨 공유). 이 글은 **장비 은화 루트**가 본문이고, 레벨업·경험치 상한·야영/펄 세트 버프는 [사냥 준비](/blackdesert/2026/09/22/hunting-prep-guide/#doping)를 보세요.
 
 은화는 **크론석 1개 = 대장장이 300만 은화**로 환산했습니다. 크론석은 거래소에서 거래되지 않습니다. 펄의상이 있으면 크론석을 추출해서 상점 구매보다 먼저 사용합니다. 거래소 매물 가격은 날짜마다 바뀌므로, 이 글은 **1회에 쓰는 개수**와 **공식 예시 확률로 성공할 때까지의 기대 개수**만 고정합니다.
 
@@ -258,4 +260,4 @@ featured: false
 | [사냥 준비](/blackdesert/2026/09/22/hunting-prep-guide/) | 도핑·펫·요정 |
 | [불멸의 나락](/blackdesert/2026/10/03/pit-of-the-undying-guide/) | 갈망하는 태고의 결정, 주간 크론석 |
 
-※ 크론 개수·예시 확률·아그리스는 패치로 바뀝니다. 강화 버튼에 뜬 크론 수가 이 글과 다르면 그 수를 × 300만으로 다시 계산하세요.
+※ 크론 개수·예시 확률·아그리스는 패치로 바뀝니다. 강화 버튼에 뜬 크론 수가 이 글과 다르면 그 수를 × 300만으로 다시 계산하세요. 전투 레벨·경험치 규칙은 [10월 7일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16278&countryType=ko-KR) 기준입니다.

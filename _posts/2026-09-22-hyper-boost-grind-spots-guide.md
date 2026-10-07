@@ -9,7 +9,9 @@ image_alt: 하이퍼 부스트 이후 고수익 사냥터 가이드 썸네일
 featured: true
 ---
 
-아래 내용은 **2026년 9월 22일 한국 검은사막 PC판** 기준입니다. 장비 루트는 [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)를 마친 뒤, **은화를 벌 사냥터**만 정리합니다. 드랍 목록·지식·의뢰·거점 투자 수치는 패치마다 바뀌므로 **게임 안 사냥터 정보 UI**를 기준으로 보세요. ([모험가 가이드 — 사냥터 정보](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=312))
+아래 내용은 **2026년 10월 7일 한국 검은사막 PC판** 기준입니다. 장비 루트는 [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)를 마친 뒤, **은화를 벌 사냥터**만 정리합니다. 드랍 목록·지식·의뢰·거점 투자 수치는 패치마다 바뀌므로 **게임 안 사냥터 정보 UI**를 기준으로 보세요. ([모험가 가이드 — 사냥터 정보](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=312))
+
+> **레벨업을 같이 볼 때:** 10월 7일 이후 사냥터 정보에 몬스터별 전투 경험치·권장 레벨이 붙었고, 몬스터 한 마리당 경험치에 **레벨 구간 상한**이 있습니다. 은화 표와 레벨업 효율은 별개이니, 경험치 세팅은 [사냥 준비](/blackdesert/2026/09/22/hunting-prep-guide/#doping)를 보세요.
 
 > 관련: **나가기 전 최소 효율** → [사냥 준비 가이드](/blackdesert/2026/09/22/hunting-prep-guide/) · [액세서리 업그레이드 가이드](/blackdesert/2026/09/04/accessory-upgrade-guide/) · [GM노트 — 성장 이정표](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15761)
 

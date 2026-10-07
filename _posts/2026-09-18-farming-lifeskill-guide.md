@@ -9,7 +9,7 @@ image_alt: 재배 가이드 썸네일 — 울타리·품종 개량·마력 씨�
 featured: false
 ---
 
-아래 내용은 **2026년 9월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 재배](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=94), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [2026년 6월 4일 재배 개편](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15694)을 우선 참고했습니다. 두더지 6마리 동시 출현은 [2026년 9월 16일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR)의 기간 이벤트입니다.
+아래 내용은 **2026년 10월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 재배](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=94), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [2026년 6월 4일 재배 개편](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=15694)을 우선 참고했습니다.
 
 > 관련: [낚시 생활 가이드](/blackdesert/2026/10/03/fishing-lifeskill-guide/) · [무역 가이드](/blackdesert/2026/10/03/trade-lifeskill-guide/) · [채집 생활 가이드](/blackdesert/2026/09/18/gathering-lifeskill-guide/) · [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) · [올비아 아카데미 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) · [아그리스 매듭·가문 공유](/blackdesert/2026/09/14/life-pearl-gear-family-share-guide/)
 
@@ -448,9 +448,9 @@ featured: false
 | 파티·부대 | 소환된 몬스터가 있으면 두더지가 **안 나옴** |
 | 6월 이후 | 출현 확률 **2배**, 느림보·통통한·거대 처치 시 잎사귀 **5배**. 6월 17일에 유형별 잎사귀가 한 번 더 상향 |
 
-> **기간 이벤트 (~2026년 10월 7일 정기점검 전):** [생활러의 길 : 재배/수렵](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR) 동안 **낙시온의 숨결**을 켠 채 재배하면 두더지가 **한 번에 6마리** 나옵니다. 이벤트 종료 후에는 위 표처럼 한 마리 제한이 다시 적용됩니다.
+> **종료된 이벤트:** [생활러의 길 : 재배/수렵](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16201&countryType=ko-KR)의 두더지 **6마리 동시 출현**은 **2026년 10월 7일 정기점검**으로 끝났습니다. 지금은 위 표처럼 **한 마리** 제한입니다.
 
-**슈슈:** 거대 두더지를 잡으면 낮은 확률로 특수 외형 **슈슈**가 나옵니다. 처치가 아니라 **쫓아내기**입니다. 담홍색 잎사귀가 더 많고 **슈슈가 떨어뜨린 꽃잎**이 나옵니다. 꽃잎 **10개**를 모아 북부 경비캠프 **잼카스 웜스베인**의 `슈슈의 흔적`을 완료하면 **슈슈 반려동물**을 받습니다. 슈슈끼리만 합성되고, 채집물 찾기·생활 경험치 고유기술이 있습니다.
+**슈슈:** 거대 두더지를 잡으면 낮은 확률로 특수 외형 **슈슈**가 나옵니다. 처치가 아니라 **쫓아내기**입니다. 담홍색 잎사귀가 더 많고 **슈슈가 떨어뜨린 꽃잎**이 나옵니다. 꽃잎 **10개**를 모아 북부 경비캠프 **잼카스 웜스베인**의 `슈슈의 흔적`을 완료하면 **슈슈 반려동물**을 받습니다. 슈슈끼리만 합성되고, 채집물 찾기·생활 경험치 고유기술이 있습니다. (10월 7일: 꽃잎 아이템 설명이 **애완동물 → 반려동물** 표기로 정리됨)
 
 담홍색 잎사귀는 재배의 대표 부산물입니다. 올비아 **증명** 의뢰에도 쓰이고, 20개를 모아 교환할 수 있습니다.
 
