@@ -136,7 +136,7 @@ featured: false
 
 - `[아침의 나라] 도깨비의 선물` · `[아침의 나라] 태백을 호령하는 자` 완료
 - 아침의 나라 메인·설화(태백 호령) 루트를 끝까지 진행하면 충족됩니다.
-- 하이퍼 부스트 **태고 방어구** 선행과도 겹칩니다.
+- 하이퍼 부스트 **[태고 방어구](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-4)** 선행과 겹치고, 같은 의뢰가 [동해도(개인) 빛의 보옥](/blackdesert/2026/10/19/donghae-solo-shrine-guide/#orb-quests)도 엽니다.
 
 ### 6장 — 잠식의 결계 V {#s-6jang-jamsikui-gyeolgye-v}
 
@@ -151,6 +151,8 @@ featured: false
 | 8 | **구미호** 구재시니 |
 
 메뉴 → 모험 → **검은 사당** → 동해도(개인) → 해당 보스 · 난이도 **구재시니**.
+
+입장, 가문 주간 5회, 팔재 이상 최소 공격력은 [동해도(개인) 초보자 가이드](/blackdesert/2026/10/19/donghae-solo-shrine-guide/#journal)에 있습니다. 태고 방어구 의뢰(금돼지왕·산군·구미호)는 [같은 글의 지원 의뢰](/blackdesert/2026/10/19/donghae-solo-shrine-guide/#support)이고, 성장 순서는 [하이퍼 부스트 4단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-4)입니다.
 
 ### 9~12장 — 어둠의 틈 {#s-9-12jang-eodumui-teum}
 
@@ -197,6 +199,8 @@ featured: false
 | 링크 | 용도 |
 | --- | --- |
 | [하이퍼 부스트 5단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-5) | 일지 위치·카라자드 지원 요약 |
+| [동해도(개인) 초보자 가이드](/blackdesert/2026/10/19/donghae-solo-shrine-guide/) | 7~8장 토벌 입장·횟수·태고 방어구 의뢰 |
+| [하이퍼 부스트 4단계](/blackdesert/2026/08/15/hyper-boost-equipment-guide/#step-4) | 5장과 겹치는 태고 방어구 |
 | [까마귀의 둥지 연속 의뢰](https://blueforget.tistory.com/263) | 2장 `[까마귀의 용병]` |
 | [올비아 항해·교역 시작](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 배 없을 때 고속정·경범선 |
 | [불멸의 나락 가이드](/blackdesert/2026/10/03/pit-of-the-undying-guide/) | 3장 광 휘장 승급 · 주간 수익 |

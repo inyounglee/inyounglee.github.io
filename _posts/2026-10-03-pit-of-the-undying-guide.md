@@ -134,7 +134,7 @@ featured: false
 
 영롱한 파괴·수호의 정령석은 [2026년 9월 2일](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141)에 증표 교환 목록에서 빠졌습니다. 주스·연료·조언처럼 목록에 남은 품목은 **통합 재화 UI**의 필요 개수가 우선입니다.
 
-태고 방어구를 아직 일그러진으로 못 올렸다면, 그 주의 증표 100개(결정 10개, 가문 한도)를 먼저 쓰고 나머지를 크론석으로 바꿉니다. 한도가 찬 뒤에는 500개 전부를 크론석으로 보면 됩니다.
+태고 방어구를 아직 일그러진으로 못 올렸다면, 그 주의 증표 100개(결정 10개, 가문 한도)를 먼저 쓰고 나머지를 크론석으로 바꿉니다. 방어구 자체는 [동해도(개인) 지원 의뢰](/blackdesert/2026/10/19/donghae-solo-shrine-guide/#support)로 받고, 어느 단계부터 이 결정을 쓰는지는 [스펙업 — 방어구](/blackdesert/2026/10/03/post-hyper-boost-spec-guide/#armor)에 있습니다. 한도가 찬 뒤에는 500개 전부를 크론석으로 보면 됩니다.
 
 ---
 
@@ -142,6 +142,7 @@ featured: false
 
 - 선행 의뢰·기록일지 3장: [엠마 바탈리의 기록일지](/blackdesert/2026/09/06/emma-bartali-journal-guide/)
 - 결정이 쓰이는 방어구: [하이퍼 부스트 장비 가이드](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)
+- 그 방어구를 받는 토벌: [동해도(개인) 초보자 가이드](/blackdesert/2026/10/19/donghae-solo-shrine-guide/#support)
 - 의뢰 원문: [BDO Codex — 동 마지막 결투](https://bdocodex.com/kr/quest/3723/65/) (영문 표기 Weekly, 보상 증표 200)
 
 ※ 패치에 따라 결투 상대·증표·교환 목록이 바뀝니다. 돌기 전에 통합 재화 창과 [공식 공지](https://www.kr.playblackdesert.com/)를 확인하세요.
