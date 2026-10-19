@@ -150,6 +150,8 @@ featured: false
 의상 상자는 직업별로 열리므로, 매듭을 뽑은 뒤 남는 외형도 그 직업용입니다. **가문 전체가 같이 쓰는 것은 외형이 아니라 매듭 효과**입니다.
 
 > **2026년 9월 22일:** **메르브의 은바늘**로 매듭을 뽑은 뒤 남는 의상은 아이콘으로 구분됩니다. **의상 교환권으로 만든 제작 의상**과 **기능성 펄의상**(추출 전)은 아이템 설명에 **흑정령의 발톱을 쓸 수 없음**이 명시됩니다. 매듭 효과를 켜려면 추출 후 일반 펄 외형이 되었거나, 원래 발톱이 가능한 **다른 펄 의상**에 발톱을 뚫어 입어야 합니다.
+>
+> **2026년 10월 14일:** 은바늘을 쓴(추출 후) 의상이 **파트리지오의 의상 가방**에 안 들어가던 현상이 수정됐습니다. 남는 외형은 일반 펄처럼 의상 가방에 넣을 수 있습니다.
 
 ### 4-2-1. 공작이 안 뜨는 경우 {#manufacture-not-showing}
 
@@ -202,6 +204,7 @@ featured: false
 
 - 공식 [9월 2일(수) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16141) — 생활 장비 통합, 매듭 레시피, 장착 가능 목록
 - 공식 [9월 22일(화) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) — 은바늘 사용 의상 아이콘, 기능성·교환권 의상 발톱 불가 문구
+- 공식 [10월 14일(수) 업데이트 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR) — 은바늘 사용 의상 → 파트리지오 의상 가방
 - 공식 [흑정령의 발톱](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=71)
 - [수렵 생활 가이드](/blackdesert/2026/09/01/hunting-lifeskill-guide/) — 그랑베어 매듭을 끼우는 수렵 탭
 - [재배 생활 가이드](/blackdesert/2026/09/18/farming-lifeskill-guide/) — 아그리스 매듭을 끼우는 재배 탭

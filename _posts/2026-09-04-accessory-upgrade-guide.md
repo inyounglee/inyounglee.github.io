@@ -392,6 +392,8 @@ AP가 큰 부위부터 올립니다.
 어스름·아페론 파밍 목적이면 **여전히 에메시아 내성**을 쓸 수 있지만, **최상위 한정 재료**는 다른 **#최상위** 사냥터를 봐야 합니다. [9월 22일 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16236&countryType=ko-KR) 표를 기준으로 하세요.
 
 > **마가이아와 구분:** 사냥터 정보 UI에 마가이아 신전에도 **봉인된 검은 마력의 수정**이 올라가 있던 것은 **오표기**였고, [10월 7일](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16278&countryType=ko-KR)에 목록에서 빠졌습니다. 신전에서는 그 수정을 기대하지 마세요.
+>
+> **2026년 10월 14일:** 에메시아 내성에서 흑결정의 기운이 불안해진 뒤 몬스터가 안 죽던 현상, 굴복한 운반꾼 노예 처치 시 주변 운반꾼이 안 죽던 현상이 수정됐습니다. ([10/14 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR))
 
 ### 종말의 어스름 — 사냥 외 수급 (9월 16일) {#jongmalui-eoseureum-sanyang-oe-sugeup-9wol-16il}
 

@@ -9,7 +9,9 @@ image_alt: 무역 가이드 — 거리 보너스·황실 납품
 featured: false
 ---
 
-아래 내용은 **2026년 10월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 무역](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=104), [황실 납품·황금 인장](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=110), [캐릭터 전환/아이템 전이](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=52), [낚시 기초편](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=107)을 우선 참고했습니다.
+아래 내용은 **2026년 10월 14일 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 무역](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=104), [황실 납품·황금 인장](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=110), [캐릭터 전환/아이템 전이](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=52), [낚시 기초편](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=107)을 우선 참고했습니다.
+
+> **경험치 보정 (10/14):** 2026년 **10월 7일~14일** 사이에 무역품류(황실제작 납품, 물고기 등)를 팔 때 **무역 경험치가 적게** 들어가던 버그가 수정됐습니다. 그 기간 획득 기록으로 레벨·경험치가 조정될 수 있습니다. ([10/14 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR))
 
 > 물고기를 낚는 장비·숙련도·자리는 [낚시 생활 가이드](/blackdesert/2026/10/03/fishing-lifeskill-guide/)입니다. 이 글은 그 물고기를 **비싸게 파는 쪽**입니다. 배 위의 물물교환은 [올비아 항해·교역](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/)이고, 여기의 무역과 창구가 다릅니다.
 

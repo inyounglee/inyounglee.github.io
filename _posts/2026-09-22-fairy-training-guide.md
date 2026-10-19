@@ -102,7 +102,7 @@ featured: false
 
 크론 정식·음식, 영약·비약, 향수, 주문서를 넣을 수 있습니다. 프리셋 1~3이 있어서 은화 사냥 / 경험치 사냥을 나눠 두는 것이 편합니다. UI 좌클릭이 설정, 우클릭이 ON/OFF입니다.
 
-손길에 넣으면 좋은 최소 목록은 [사냥 준비 — 도핑](/blackdesert/2026/09/22/hunting-prep-guide/#doping)과 같습니다. 상줌 2, 크론 정식, 야수(또는 조화)의 영약부터입니다.
+손길에 넣으면 좋은 최소 목록은 [사냥 준비 — 도핑](/blackdesert/2026/09/22/hunting-prep-guide/#doping)과 같습니다. 상줌 2, 크론 정식, 야수(또는 조화)의 영약부터입니다. **봉인된 진귀한 전투의 서(7일)** 도 손길로 쓸 수 있습니다([10/14](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR)에 안 되던 현상 수정).
 
 그 외 있으면 좋은 기술:
 

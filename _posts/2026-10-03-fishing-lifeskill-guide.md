@@ -9,7 +9,9 @@ image_alt: 낚시 가이드 — 장비·낚싯대·숙련도
 featured: false
 ---
 
-아래 내용은 **2026년 10월 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 낚시 기초편](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=107), [낚시 고급편](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=108), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [생활 숙련도 확장](https://www.kr.playblackdesert.com/Adventure/History?_groupMasterNo=13414), [광명석 조합식](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=273), [꿈꾸는 별빛 낚싯대 확률](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=415)을 우선 참고했습니다.
+아래 내용은 **2026년 10월 14일 기준 한국 검은사막 PC판**을 기준으로 정리했습니다. 공식 [모험가 가이드 — 낚시 기초편](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=107), [낚시 고급편](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=108), [올비아 아카데미](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=429), [생활 숙련도 확장](https://www.kr.playblackdesert.com/Adventure/History?_groupMasterNo=13414), [광명석 조합식](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=273), [꿈꾸는 별빛 낚싯대 확률](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=415)을 우선 참고했습니다.
+
+> **경험치 보정 (10/14):** **시즌 서버**에서 낚시로 받던 **전투 경험치가 과다**하던 현상이 수정됐습니다. 물고기·황납을 팔 때 **무역 경험치가 적게** 들어가던 버그도 같이 고쳤고, 10/7~10/14 기록으로 레벨·경험치가 조정될 수 있습니다. ([10/14 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR) · [무역 가이드](/blackdesert/2026/10/03/trade-lifeskill-guide/))
 
 > 지금 올비아 아카데미에 다니고 있으면 [10장](#olvia)부터 읽고, 강의로 받은 장비로 벨리아에서 자동 낚시를 시작하면 됩니다.
 

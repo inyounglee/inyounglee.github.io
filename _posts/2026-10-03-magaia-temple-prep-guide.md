@@ -9,7 +9,7 @@ image_alt: 마가이아 신전 준비 가이드 썸네일
 featured: false
 ---
 
-아래 내용은 **2026년 10월 기준 한국 검은사막 PC판**입니다. 추천 공/방은 에다니아 내부 추가 당시 안내(표기 **410 / 490**, 최종 **2340 / 840**)와 사냥터 DB를 맞춘 값입니다. 드랍 수량·젠 위치는 [9월 9일](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=2)·[9월 16일](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16201) 패치를 반영했습니다. **접속 직전 사냥터 정보 UI 숫자가 우선**입니다.
+아래 내용은 **2026년 10월 14일 기준 한국 검은사막 PC판**입니다. 추천 공/방은 에다니아 내부 추가 당시 안내(표기 **410 / 490**, 최종 **2340 / 840**)와 사냥터 DB를 맞춘 값입니다. 드랍 수량·젠 위치는 [9월 9일](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=2)·[9월 16일](https://www.kr.playblackdesert.com/ko-KR/News/Detail?countryType=ko-KR&groupContentNo=16201) 패치를 반영했습니다. **접속 직전 사냥터 정보 UI 숫자가 우선**입니다.
 
 > 장비 바닥은 [하이퍼 부스트](/blackdesert/2026/08/15/hyper-boost-equipment-guide/)입니다. 펫·요정·상줌·아그는 [사냥 준비](/blackdesert/2026/09/22/hunting-prep-guide/), 그 앞 자리 수익은 [고수익 사냥터](/blackdesert/2026/09/22/hyper-boost-grind-spots-guide/)를 보세요.
 
@@ -175,6 +175,8 @@ featured: false
 | **노을빛 창세의 안료**, **창세의 광휘**, **타락한 불멸의 오일** | 최상위 사냥터 전리품. 에메시아 내성은 9월 22일에 이 태그에서 빠졌고, 신전은 남아 있음 |
 
 > **사냥터 정보 UI:** 마가이아 신전 전리품 목록에 **봉인된 검은 마력의 수정**이 잘못 올라가 있던 표기는 [10월 7일](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16278&countryType=ko-KR)에 빠졌습니다. 그 수정은 신전 드랍이 아닙니다(에메시아 내성 쪽과 혼동하지 마세요).
+>
+> **2026년 10월 14일:** 「믿음을 저버린 죄인들에게 심판이 내려집니다.」 메시지 이후 등장하는 몬스터에게 **전리품이 안 나오던** 현상이 수정됐습니다. ([10/14 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR))
 
 희귀 드랍이 안 뜬 시간은 위 잡템 표만 보면 됩니다. 뜬 시간의 은화는 거래소 시세가 더해지므로, 자기 캐릭터로 한 시간을 재는 편이 표의 어느 줄인지 확인하는 방법입니다.
 

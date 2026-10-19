@@ -87,6 +87,8 @@ featured: true
 
 둘은 같이 켜도 됩니다. 아래 수익 표는 **상줌 2 + 아그**를 켠 값입니다. 끄면 표의 아래쪽에도 못 미치는 경우가 많습니다. 주문서는 거래소·펄 상점(은화)·이벤트로 구하고, 아그는 포인트가 남았을 때 은화 자리에만 켜는 편이 이득입니다. ([아그리스의 열기](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=175))
 
+**밤·아그 (10/14):** 미니맵 게임 시간에 **밤이면 아이템 획득 확률이 증가**한다는 안내가 붙었습니다. **아그리스의 열기**는 9월 2일 안내 수치가 게임에 안 들어가 있던 상태가 [10월 14일](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR)에 맞게 적용됐습니다. 포인트·잡템 %는 인게임 기준으로 보세요.
+
 ---
 
 ## 수익 표를 읽기 전에 {#suik-pyoreul-ilgi-jeone}
