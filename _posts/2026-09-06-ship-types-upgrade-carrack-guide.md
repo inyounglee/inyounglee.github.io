@@ -270,6 +270,7 @@ featured: false
 | [중범선 만들기 (공식)](https://www.kr.playblackdesert.com/ko-KR/Wiki?wikiNo=295) | 단계·재료 원문 |
 | [대양의 모든 것 (공식)](https://www.kr.playblackdesert.com/ko-kr/Wiki?wikiNo=243) | 함포·물교·항해 기술 |
 | [올비아 항해·교역 시작](/blackdesert/2026/09/06/olvia-academy-sailing-trade-guide/) | 고속정·경범선·물교 입문 |
+| [대왕 고래 전리품](/blackdesert/2026/10/21/great-whale-loot-guide/) | 2026년 10월 21일 토벌 드랍 |
 | [인벤 중범선 재료 시트](https://www.inven.co.kr/board/black/3584/57366) | 보유량·까주 환산 계산 |
 
 ※ 허가증·재료 수량·시세·증축 조건은 패치와 거래소에 따라 바뀝니다. 증축 직전 **나루터지기 증축 UI**와 공식 가이드를 다시 확인하세요.
