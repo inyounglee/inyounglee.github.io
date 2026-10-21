@@ -243,7 +243,7 @@ featured: false
 
 > **2026년 10월 14일:** 검은사당 토벌 **순위 보상 UI**가 전리품 상자 내용물이 아니라 **실제로 지급되는 아이템**으로 보이도록 수정됐습니다. ([10/14 업데이트](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16304&countryType=ko-KR))
 >
-> **전투 비급서:** 동해도·황해도 사당에서 우두머리를 처치하면 **전투 비급서(소형)** 1개가 나옵니다(60+, 가문 귀속). [10/7 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16278&countryType=ko-KR) 기준으로 **10월 14일**부터 지급·사용이며, 10/7~10/14 기록은 소급됩니다. 은화·상자 등급과는 별개입니다.
+> **전투 비급서:** 동해도·황해도 사당에서 우두머리를 처치하면 **전투 비급서(소형)** 1개가 나옵니다(60+, 가문 귀속). [10/7 안내](https://www.kr.playblackdesert.com/ko-KR/News/Detail?groupContentNo=16278&countryType=ko-KR) 기준으로 **10월 14일**부터 지급·사용이며, 10/7~10/14 기록은 소급됩니다. 종류·사용 조건은 [전투 레벨 개편](/blackdesert/2026/10/19/combat-level-system-guide/#tomes)에 있습니다. 은화·상자 등급과는 별개입니다.
 
 지원 의뢰 방어구의 조건은 따로입니다. **의뢰 수주 + 최소 공격력 + 지정 우두머리 토벌 성공**입니다. 주간 5회 상자 등급과 무관하게, 토벌을 끝내면 의뢰가 완료됩니다.
 
